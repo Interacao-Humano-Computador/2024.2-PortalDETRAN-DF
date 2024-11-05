@@ -15,5 +15,11 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: mkdocs build
-      - run: mkdocs gh-deploy --force
+
+      - name: Build MkDocs Site (for Pull Request)
+        if: github.event_name == 'pull_request'
+        run: mkdocs build
+
+      - name: Build and Deploy MkDocs Site (for main branch)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: mkdocs gh-deploy --force
