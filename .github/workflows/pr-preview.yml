@@ -1,0 +1,29 @@
+name: PR Preview Deploy
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - run: pip install mkdocs-material
+
+      - name: Build MkDocs Site
+        run: mkdocs build
+
+      - name: Deploy Preview to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: "pr-${{ github.event.pull_request.number }}"

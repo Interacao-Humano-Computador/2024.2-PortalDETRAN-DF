@@ -1,0 +1,20 @@
+name: Delete PR Branches
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  delete-branch:
+    if: startsWith(github.event.pull_request.head.ref, 'pr-')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Delete temporary PR branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          branch="${{ github.event.pull_request.head.ref }}"
+          echo "Deleting branch $branch"
+          git push origin --delete "$branch"
