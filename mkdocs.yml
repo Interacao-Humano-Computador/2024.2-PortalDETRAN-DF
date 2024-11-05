@@ -5,7 +5,28 @@ repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo08
 
 
 nav:
-  - Início: index.md
+  - Home: index.md
+  - Apresentações:
+    - Apresentação 1: apresent/01.md 
+  - Atas:
+    - Ata 01: atas/01.md
+  - Planejamento:
+    - Framework DECIDE: planejamento/decide.md
+    - Cronograma: planejamento/cronograma.md
+    - Metodologias: planejamento/metodologia.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Sites Avaliadaos: planejamento/sitesAvaliados.md
+    - Site Escolhido: planejamento/siteEscolhido.md
+    - Processo de Design: planejamento/processoDesign.md
+  - Verificação:
+      - Verificação do Grupo:
+          - Etapa 1:
+              - Planejamento da Verificação da Etapa 1: verificacao/grupo/etapa1/planejamento-verificacao-etapa1.md
+              - Cronograma: verificacao/grupo/etapa1/verificacao-cronograma.md
+              - Ferramentas: verificacao/grupo/etapa1/verificacao-ferramentas.md
+              - Processo de Design: verificacao/grupo/etapa1/verificacao-processo-design.md
+              - Site Escolhido: verificacao/grupo/etapa1/verificacao-site-escolhido.md
+
 
 
 theme:
