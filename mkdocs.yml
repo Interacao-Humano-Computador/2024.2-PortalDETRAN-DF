@@ -37,6 +37,10 @@ theme:
     text: "Open Sans"
     code: "Source Code Pro"
 
+  icon:
+    admonition:
+      <type>: material/alert-circle
+
   palette:
       primary: white
 
@@ -55,6 +59,8 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+    - navigation.instant
+    - navigation.tracking
 
   extra_css:
     - stylesheets/custom.css
@@ -63,11 +69,15 @@ theme:
     - search
     - typeset
     - nav-extensions
+    - glightbox
 
   markdown_extensions:
+    - admonition
     - attr_list
+    - def_list
     - md_in_html
     - tables
+    - footnotes
     - pymdownx.critic
     - pymdownx.caret
     - pymdownx.keys
@@ -78,4 +88,8 @@ theme:
     - pymdownx.superfences
     - pymdownx.tasklist:
         custom_checkbox: true
+    - pymdownx.tilde
+    - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
