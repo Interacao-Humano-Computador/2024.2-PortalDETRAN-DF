@@ -1,0 +1,25 @@
+name: Deploy to GitHub Pages
+on:
+    push:
+      branches:
+        - main
+    pull_request:
+      branches:
+        - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+
+      - name: Build MkDocs Site (for Pull Request)
+        if: github.event_name == 'pull_request'
+        run: mkdocs build
+
+      - name: Build and Deploy MkDocs Site (for main branch)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: mkdocs gh-deploy --force
