@@ -20,3 +20,4 @@ O objetivo do projeto é fazer a avaliação de IHC do site XXXXX e, aplicando o
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do git page | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| `1.1`  | 06/11/2024 | Adição de membro | [Kaio Enzo](https://github.com/kaioenzo) |

@@ -30,6 +30,13 @@ Este projeto, será desenvolvido no âmbito da disciplina de Interação Humano-
         <sub><b>Yuri Otor Santos Guimarães</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/kaioenzo">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/59144744?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>Kaio Enzo Silva de Melo Salgado</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
