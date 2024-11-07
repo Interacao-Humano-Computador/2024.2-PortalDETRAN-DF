@@ -50,6 +50,9 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 
 
 
+## Referências Bibliográficas
+
+_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 
 
