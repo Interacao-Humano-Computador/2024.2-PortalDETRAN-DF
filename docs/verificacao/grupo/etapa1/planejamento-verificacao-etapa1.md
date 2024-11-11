@@ -31,11 +31,11 @@ A seguir está relacionado os responsáveis por cada verificação, assim como s
 <center>
 **Tabela 1** - Participantes
 
-| Revisor | Artefato |
+| Artefato | Revisor |
 |---------|----------|
-| [Cronograma](../../../planejamento/cronograma.md) e [Site Escolhido](../../../planejamento/siteEscolhido.md)|
-| [Ferramentas](../../../planejamento/ferramentas.md) e [Sites Avaliados](../../../planejamento/sitesAvaliados.md)|
-| [Processo de Design](../../../planejamento/processoDesign.md) e [Metodologia](../../../planejamento/metodologia.md)|
+| [Cronograma](../../../planejamento/cronograma.md) e [Site Escolhido](../../../planejamento/siteEscolhido.md)| [Luiza Maluf](https://github.com/LuizaMaluf) |
+| [Ferramentas](../../../planejamento/ferramentas.md) e [Sites Avaliados](../../../planejamento/sitesAvaliados.md)| [Kaio Enzo](https://github.com/kaioenzo) |
+| [Processo de Design](../../../planejamento/processoDesign.md) e [Metodologia](../../../planejamento/metodologia.md)| [Márcio Henrique](https://github.com/DeM4rcio)|
 
 _Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
