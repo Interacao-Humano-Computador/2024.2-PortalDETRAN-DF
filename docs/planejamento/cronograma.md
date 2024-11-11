@@ -1,6 +1,6 @@
-# Cronograma
+# __Cronograma__
 
-
+<center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
 |------------|---------------------------|--------------|---------|-----------|
@@ -12,19 +12,9 @@
 |Implementar Git Pages|Início: 04/11 <br>Fim:04/11|Luiza|Início: 04/11 <br>Fim:04/11|Yuri|
 |Correção após apresentação| Início:12/11 <br>Fim:12/11 |Márcio|Início:12/11 <br>Fim:12/11|Kenzo|
 
+</center>
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |

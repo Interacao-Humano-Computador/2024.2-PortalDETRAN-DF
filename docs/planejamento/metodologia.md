@@ -62,6 +62,7 @@ Vantagens dessa abordagem:
 
 Essa estratégia de verificação contínua, realizada de forma sincronizada com a revisão de código, é uma das práticas que adotamos para garantir a qualidade e eficiência do nosso projeto de IHC.
 
+---
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |

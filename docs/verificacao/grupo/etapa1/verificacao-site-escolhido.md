@@ -55,6 +55,8 @@ MALUF, Luiza. Verificação do cronograma. Repositório do Grupo 08 da disciplin
 
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
+
+---
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |

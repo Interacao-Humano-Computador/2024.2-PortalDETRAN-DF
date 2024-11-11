@@ -1,6 +1,6 @@
-# Sites Avaliados
+# __Sites Avaliados__
 
-## Introdução 
+## __Introdução__ 
 
 Baseado nos métodos de avaliação heurística e teste de usabilidade, dois dos integrantes realizou o planejamento e execução utilizando o framework DECIDE. A Tabela 1 mostra em detalhes qual site foi avaliado e qual integrante ficou responsável.
 
@@ -12,7 +12,7 @@ Baseado nos métodos de avaliação heurística e teste de usabilidade, dois dos
 
 OBS.: Dado a baixa lista de sites avaliados, o integrante Kaio motivou a ideia de avaliarmos o site do Diário Oficial RN posteriormente, com o propósito de abrir o leque de escolhas.
 
-## Compras Gov
+## __Compras Gov__
 
 A responsável por realizar essa avaliação foi a integrante Luiza Maluf, tal avaliação teve como principal objetivo Avaliar a interface e a interação do Portal de Compras Governamentais, focando em aspectos de usabilidade e acessibilidade. Sendo assim, foram avaliados três principais caminhos de interação: Buscar uma Licitação utilizando palavras-chave e filtros, enviar uma proposta, preenchendo todos os campos necessários, acessar e baixar um documento relacionado a uma licitação específica.:
 
@@ -45,19 +45,11 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 *    Estética e design minimalista: simples.
 *    [Link para a avaliação detalhada](./avaliacoes/diariorn.pdf).
 
-
-
-
-
-
-## Referências Bibliográficas
+## __Referências Bibliográficas__
 
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
-
-
-
-
+---
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |

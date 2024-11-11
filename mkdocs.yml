@@ -33,6 +33,7 @@ nav:
 theme:
   name: material
   language: pt
+  logo: assets/Brasão_do_Rio_Grande_do_Norte.svg.png
 
   font:
     text: "Open Sans"
