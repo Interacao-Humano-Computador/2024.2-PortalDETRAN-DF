@@ -54,7 +54,7 @@ A colaboração de outros membros da equipe é fundamental para garantir a quali
 
 | Data de Correção | Descrição                 |              Responsável(eis)               |                   Revisor(es)                    |      Status      |
 | ---------------- | :------------------------ | :-----------------------------------------: | :----------------------------------------------: | :--------------: |
-| 02/06/2023       | Correção do Processo design. | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) | :material-check: |
+| 02/06/2023       | Correção do Processo design. | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) | **OK** |
 
 _Fonte: Elaborado por [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 
@@ -65,7 +65,7 @@ _Fonte: Elaborado por [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 
 DE MELO, Arthur. Processo de Design. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/processo-design>>. Acesso em: 9 nov. 2024.
 
-GOVERNO DO BRASIL. Lista de verificação da qualidade de artefatos - Checklist Ágil. 2019. Disponível em: <<https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view.>> Acesso em: 9 nov. 2024.
+GOVERNO DO BRASIL. Lista de verificação da qualidade de artefatos - Checklist Ágil. 2019. Disponível em: <<https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view>> Acesso em: 9 nov. 2024.
 
 ## Referências Bibliográficas
 
