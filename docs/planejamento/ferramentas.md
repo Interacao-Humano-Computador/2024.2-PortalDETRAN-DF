@@ -18,7 +18,7 @@
 _Fonte: Autores._
 
 
-
+---
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |

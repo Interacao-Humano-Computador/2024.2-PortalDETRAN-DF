@@ -70,6 +70,8 @@ Por fim, na fase de __instalação__, o designer coleta feedback dos usuários a
 
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
+
+---
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
