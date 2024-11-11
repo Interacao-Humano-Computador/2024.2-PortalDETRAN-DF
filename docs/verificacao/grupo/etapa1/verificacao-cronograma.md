@@ -51,9 +51,17 @@ __ID 12:__ Inserir as referências.
 
 A figura a seguir apresenta um gráfico com o percentual das respostas do checklist.
 
+<center>
+
 ![Percentual da verificação do cronograma](../../../assets/graficos/verf-cronograma1.png)
 
+_Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
+</center>
+
+## __Bibliografia__
+
+HENRIQUE, Márcio. Cronograma. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/cronograma/>. Acesso em: 10/11/2024.
 
 ## __Referências Bibliográficas__
 

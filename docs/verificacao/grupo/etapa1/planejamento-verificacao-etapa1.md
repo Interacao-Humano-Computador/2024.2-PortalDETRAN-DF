@@ -60,6 +60,7 @@ O resultado da verificação de cada artefato pode ser acessado com os links a s
 
 CAMPELLO, Gabriel. Planejamento de Verificação da Etapa 1. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo>. Acesso em: 8 nov. 2024._
 
+
 ## Referências Bibliográficas
 
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
