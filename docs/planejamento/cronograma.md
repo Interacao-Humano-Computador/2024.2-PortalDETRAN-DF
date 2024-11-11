@@ -30,4 +30,4 @@
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf)   |
-| `2.0`  | 04/11/2024 | Definição do cronograma | [Luiza Maluf](https://github.com/LuizaMaluf)   |
+| `2.0`  | 04/11/2024 | Definição do cronograma | [Márcio Henrique](https://github.com/DeM4rcio)   |
