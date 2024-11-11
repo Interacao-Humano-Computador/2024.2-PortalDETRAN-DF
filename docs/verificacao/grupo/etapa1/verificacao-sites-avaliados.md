@@ -22,7 +22,7 @@ _Fonte: Adaptado de [Luiza Maluf](https://github.com/LuizaMaluf), 2024._
 ## Problemas encontrados
 
 Problemas encontrados
-A tabela 1 apresenta os resultados da verificação do artefato Sites Avaliados. A avaliação do artefato foi realizada por Kaio Enzo (2024) e os resultados obtidos indicam que o artefato não teve sua versão incrementada. Além disso, as ferramentas não são referenciadas no artefato e não possuem links disponibilizados na referência. Abaixo uma consideração sobre os problemas encontrados:
+A tabela 1 apresenta os resultados da verificação do artefato Sites Avaliados. A avaliação do artefato foi realizada por Kaio Enzo (2024) e os resultados obtidos indicam que o artefato não teve sua versão incrementada. Abaixo uma consideração sobre os problemas encontrados:
 
 ### ID 3 - A versão do documento foi incrementada e a descrição da elaboração ou alteração foi registrada no histórico de revisões do documento?
 A falta de incrementação da versão do documento pode acarretar em problemas, afetando principalmente, nesse caso, a rastreabilidade.
