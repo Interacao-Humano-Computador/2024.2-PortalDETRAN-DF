@@ -1,8 +1,8 @@
-# Introdução
+# __Introdução_
 
 Este documento é de verificação do artefato Processo de Design produzido pelo Grupo da disciplina de IHC que tem o projeto voltado ao site Diário oficial do Rio Grande do Norte. Dessa forma, o artefato Processo de Design será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida e também ao checklist de verificação dos artefatos feito pelao Ministério da Agricultura e Pecuária .
 
-# Metodologia
+# __Metodologia__
 
 O modelo de verificação consistirá em um preenchimento de uma checklist construída a partir dos conceitos trabalhados pela disciplina, o mesmo será dividido em perguntas relacionadas ao padrão do formato do documento e sobre o padrão do conteúdo verificado.
 
@@ -26,7 +26,7 @@ O modelo de verificação consistirá em um preenchimento de uma checklist const
 </center>
 
 
-## Problemas encontrados
+## __Problemas encontrados__
 
 Com base na Tabela 1, serão feitas considerações acerca de alguns itens.
 
@@ -34,17 +34,17 @@ Com base na Tabela 1, serão feitas considerações acerca de alguns itens.
 
 O problema pode se configurar médio/grave isso porque pode deixar confuso a decisão tomada pelo grupo na escolha do processo design. Dessa forma, o artefato podria ter uma maior especificidade, no intuito de servir como guia para a execução do projeto.
 
-## Sugestões
+## __Sugestões__
 
 - ID 7: Criação de um novo subtópico para a escolha do processo design.
 
-## Acompanhamento
+## __Acompanhamento__
 
 A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da checklist de verificação.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUcqPEut7_W-IQRu1nurw951Mg3-PXDKYBpvlrlVLXXIw7U_iOocuDb2tsyrljrCiX6LdR7mo61w3f/pubchart?oid=1007777151&amp;format=interactive"></iframe>
 
-## Correções
+## __Correções__
 
 A colaboração de outros membros da equipe é fundamental para garantir a qualidade das correções. Um revisor independente será responsável por avaliar o resultado final, assegurando que todas as não conformidades foram devidamente tratadas. A Tabela 2 apresenta o cronograma das atividades de correção.
 
@@ -61,15 +61,17 @@ _Fonte: Elaborado por [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 </center>
 
 
-## Bibliografia
+## __Bibliografia__
 
 DE MELO, Arthur. Processo de Design. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/processo-design>>. Acesso em: 9 nov. 2024.
 
 GOVERNO DO BRASIL. Lista de verificação da qualidade de artefatos - Checklist Ágil. 2019. Disponível em: <<https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view>> Acesso em: 9 nov. 2024.
 
-## Referências Bibliográficas
+## __Referências Bibliográficas__
 
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+
+---
 
 ## Histórico de versão
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
