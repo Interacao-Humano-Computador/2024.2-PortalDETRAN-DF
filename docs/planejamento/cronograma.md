@@ -40,7 +40,7 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente
 |Selecionar ferramentas do projeto| Início: 04/11 <br>Fim: 04/11|Todos|Início:12/11 <br>Fim: 12/11 |Kaio|
 |Realização do cronograma|Início:04/11 <br>Fim: 04/11 |Márcio| Início:10/11 <br>Fim:10/11 |Luiza|
 |Metodologia|Início: 07/11 <br>Fim: 07/11|Luiza|Início:10/11 <br>Fim:10/11|Márcio|
-|Sites Avaliados|Início: 06/11 <br>Fim: 06/11|Márcio|Início:11/11 <br>Fim:11/11|kaio|
+|Sites Avaliados|Início: 06/11 <br>Fim: 06/11|Márcio|Início:11/11 <br>Fim:11/11| Kaio |
 |Processo de Design|Início: 06/11 <br>Fim: 06/11|Luiza|Início:09/11 <br>Fim:09/11|Márcio|
 |Documentar Equipe|Início: 20/10 <br>Fim: 24/10|Luiza|Início:25/10 <br>Fim: 08/11|Márcio|
 |Gravar apresentação|Início:12/11 <br>Fim:12/11|Todos|Início:12/11 <br>Fim:12/11|kaio|
