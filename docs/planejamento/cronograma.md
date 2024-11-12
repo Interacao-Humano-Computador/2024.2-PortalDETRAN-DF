@@ -13,7 +13,7 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente
 ### Planejado
 <center>
 
-**tabela 1** - planejamento da entrega 1
+**tabela 1** - Planejamento da entrega 1
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
