@@ -13,6 +13,7 @@ nav:
     - Ata 02: atas/02.md
     - Ata 03: atas/03.md
   - Planejamento:
+    - Heatmap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
     - Metodologias: planejamento/metodologia.md
     - Ferramentas: planejamento/ferramentas.md
