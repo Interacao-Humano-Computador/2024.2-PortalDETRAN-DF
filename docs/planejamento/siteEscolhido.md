@@ -34,7 +34,7 @@ A falta de opções claras de navegação e a ausência de feedback adequado sob
 
 A avaliação completa do grupo sobre a página pode ser lida na íntegra a seguir:
 
-<iframe src="../assets/documentos/Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
+<iframe src="../Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 
 ---
 ## Histórico de versão
