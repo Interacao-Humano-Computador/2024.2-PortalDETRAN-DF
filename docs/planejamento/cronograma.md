@@ -24,7 +24,7 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente
 |Documentar Equipe|Início: 20/10 <br>Fim: 24/10|Luiza|Início:25/10 <br>Fim: 08/11|Márcio|
 |Gravar apresentação|Início:11/11 <br>Fim:11/11|Todos|Início:12/11 <br>Fim:12/11|kaio|
 |Implementar Git Pages|Início: 04/11 <br>Fim:04/11|Luiza|Início: 04/11 <br>Fim:04/11|Yuri|
-|Correção após apresentação| Início:12/11 <br>Fim:12/11 |Márcio|Início:12/11 <br>Fim:12/11|kaio|
+|Correção após apresentação| Início:12/11 <br>Fim:12/11 |Márcio|Início:12/11 <br>Fim:12/11| Kaio |
 
 
 ### Executado
