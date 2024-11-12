@@ -1,14 +1,10 @@
-## Introdução
+# __Verificação do Processo de Design__
 
-Este documento é de verificação do artefato Processo de Design produzido pelo Grupo da disciplina de IHC que tem o projeto voltado ao site Diário oficial do Rio Grande do Norte. Dessa forma, o artefato Processo de Design será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida e também ao checklist de verificação dos artefatos feito pelao Ministério da Agricultura e Pecuária .
+## __Introdução__
 
-## Metodologia
+Este documento é de verificação do artefato Processo de Design produzido pelo Grupo da disciplina de IHC que tem o projeto voltado ao site Diário oficial do Rio Grande do Norte. Dessa forma, o artefato Processo de Design será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida e também ao checklist de verificação dos artefatos feito pelao Ministério da Agricultura e Pecuária.
 
-# __Introdução_
-
-Este documento é de verificação do artefato Processo de Design produzido pelo Grupo da disciplina de IHC que tem o projeto voltado ao site Diário oficial do Rio Grande do Norte. Dessa forma, o artefato Processo de Design será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida e também ao checklist de verificação dos artefatos feito pelao Ministério da Agricultura e Pecuária .
-
-# __Metodologia__
+## __Metodologia__
 O modelo de verificação consistirá em um preenchimento de uma checklist construída a partir dos conceitos trabalhados pela disciplina, o mesmo será dividido em perguntas relacionadas ao padrão do formato do documento e sobre o padrão do conteúdo verificado.
 
 <center>
