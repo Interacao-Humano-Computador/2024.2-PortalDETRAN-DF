@@ -1,10 +1,10 @@
 ## Introdução
 
-Nessa seção será feito uma verificação da metodologia utilizada no presente projeto, como o foco da disiplina é resultado e documentação de forma incremental, partiremos de uma metodologia ágil utilizando o framework SCRUM. Dessa forma o checklist abaixo conterá a verificação da construção do scrum se atende as devidas especificações
+Nessa seção será feito uma verificação da metodologia utilizada no presente projeto, como o foco da disiplina é resultado e documentação de forma incremental, partiremos de uma metodologia ágil utilizando o framework SCRUM. Dessa forma a lista de verificação abaixo conterá a verificação da construção do scrum se atende as devidas especificações
 
 ## Metodologia
 
-Partindo do principio de verificação, abordaremos no formato de checklist como mostrado na tabela 1. É importante ressaltar que o objetivo do presente projeto não é a entrega de nenhum produto, e sim trazer uma evolução gradual de uma análise do site escolhido, trazendo assim algumas modificações do SCRUM puro.
+Partindo do principio de verificação, abordaremos no formato de lista de verificação como mostrado na tabela 1. É importante ressaltar que o objetivo do presente projeto não é a entrega de nenhum produto, e sim trazer uma evolução gradual de uma análise do site escolhido, trazendo assim algumas modificações do SCRUM puro.
 
 
 <center>

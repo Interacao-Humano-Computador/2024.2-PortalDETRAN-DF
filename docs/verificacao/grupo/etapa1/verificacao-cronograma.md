@@ -6,9 +6,9 @@ A inspeção formal do cronograma do projeto é uma prática essencial para asse
 
 ## __Metodologia__
 
-A técnica de inspeção utilizada será a Inspeção por Checklist, que é uma abordagem prática e estruturada na verificação de cronogramas e outros artefatos. Nesta técnica, desenvolvemos uma lista de critérios baseados em princípios de Interação Humano-Computador (IHC), como clareza, usabilidade, consistência e visibilidade. 
+A técnica de inspeção utilizada será a Inspeção por lista de verificação, que é uma abordagem prática e estruturada na verificação de cronogramas e outros artefatos. Nesta técnica, desenvolvemos uma lista de critérios baseados em princípios de Interação Humano-Computador (IHC), como clareza, usabilidade, consistência e visibilidade. 
 
-Cada item do checklist aborda uma área específica do cronograma para garantir que todas as informações sejam acessíveis e que o layout e os conteúdos estejam organizados. Durante a inspeção, cada critério é avaliado e marcado como atendido ou necessitando de ajustes, o que permite documentar claramente as áreas de melhoria e aplicar ações corretivas com precisão.
+Cada item da lista de verificação aborda uma área específica do cronograma para garantir que todas as informações sejam acessíveis e que o layout e os conteúdos estejam organizados. Durante a inspeção, cada critério é avaliado e marcado como atendido ou necessitando de ajustes, o que permite documentar claramente as áreas de melhoria e aplicar ações corretivas com precisão.
 
 <center>
 
@@ -49,7 +49,7 @@ __ID 12:__ Inserir as referências.
 
 ## __Acompanhamento__
 
-A figura a seguir apresenta um gráfico com o percentual das respostas do checklist.
+A figura a seguir apresenta um gráfico com o percentual das respostas da lista de verificação.
 
 <center>
 

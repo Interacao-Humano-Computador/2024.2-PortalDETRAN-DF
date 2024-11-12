@@ -2,7 +2,7 @@
 Este documento tem como objetivo verificar o artefato que descreve as [ferramentas](../../../planejamento/ferramentas.md) utilizadas pelo [grupo](https://github.com/Interacao-Humano-Computador/2024.2-Grupo08) para o desenvolvimento do projeto, que tem como objetivo fazer a avaliação de IHC do site Diário Oficial do Rio Grande do Norte e, aplicando os conceitos aprendidos em classe, sugerir melhorias em sua interface. A verificação do artefato será feita de acordo com a literatura padrão de IHC com base na obra de Barbosa e Silva referida.
 
 ## Metodologia
-Para a verificação do artefato, Campello, Melo e Henrique (2023) propõem a utilização de uma checklist baseada nos requisitos apresentados pelo professor em sala de aula e, quando aplicável, em pontos destacados pela literatura de referência. A checklist é composta por cinco perguntas padrão, estabelecidas para avaliar a documentação, seguidas por perguntas relacionadas ao conteúdo específico do artefato Ferramentas. A Tabela 1, apresentada a seguir, exibe os resultados correspondentes à versão do artefato definida no Planejamento da Verificação do artefato [ferramentas](../../../planejamento/ferramentas.md).
+Para a verificação do artefato, Campello, Melo e Henrique (2023) propõem a utilização de uma lista de verificação baseada nos requisitos apresentados pelo professor em sala de aula e, quando aplicável, em pontos destacados pela literatura de referência. A lista de verificação é composta por cinco perguntas padrão, estabelecidas para avaliar a documentação, seguidas por perguntas relacionadas ao conteúdo específico do artefato Ferramentas. A Tabela 1, apresentada a seguir, exibe os resultados correspondentes à versão do artefato definida no Planejamento da Verificação do artefato [ferramentas](../../../planejamento/ferramentas.md).
 
 <center>
 
@@ -47,7 +47,7 @@ As ferramentas não são referenciadas no artefato e não possuem links disponib
 - Referenciar as ferramentas no artefato e disponibilizar os links na referência, para que o leitor possa acessar mais informações sobre as ferramentas utilizadas no projeto.
 
 ## Resultado da verificação
-A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da checklist de verificação.
+A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da lista de verificação.
 
 <center>
 
@@ -66,10 +66,9 @@ Conforme proposto por Fagan (apud CAMPELLO; MELO; HENRIQUE, 2023), o retrabalho 
 <center>
 
 **Tabela 2** - Cronograma de Correções.
-
-| Data de Correção | Descrição                         |              Responsável(eis)               |                   Revisor(es)                    |      Status      |
-| ---------------- | :-------------------------------- | :-----------------------------------------: | :----------------------------------------------: | :--------------: |
-|     |  |  |  |  |
+| Data da Correção | Descrição | Responsável(eis) | Revisor(es) | Status |
+|------------------|-----------|------------------|-------------|--------|
+| 11/11/2024       | Correções sugeridas | [Márcio Henrique](https://github.com/DeM4rcio) | [Kaio Enzo](https://github.com/kaioenzo) | **ok** |
 
 _Fonte: Adaptado de [Gabriel Campello](https://github.com/G16C), 2023._
 
