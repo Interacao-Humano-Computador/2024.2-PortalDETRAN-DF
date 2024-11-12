@@ -34,6 +34,7 @@ Conforme proposto por Fagan (apud CAMPELLO; MELO; HENRIQUE, 2023), o retrabalho 
 <center>
 
 **Tabela 2** - Cronograma de Correções.
+
 | Data da Correção | Descrição | Responsável(eis) | Revisor(es) | Status |
 |------------------|-----------|------------------|-------------|--------|
 | 11/11/2024       | Correções sugeridas | [Márcio Henrique](https://github.com/DeM4rcio) | [Kaio Enzo](https://github.com/kaioenzo) | **ok** |
