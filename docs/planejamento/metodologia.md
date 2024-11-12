@@ -62,6 +62,15 @@ Vantagens dessa abordagem:
 
 Essa estratégia de verificação contínua, realizada de forma sincronizada com a revisão de código, é uma das práticas que adotamos para garantir a qualidade e eficiência do nosso projeto de IHC.
 
+## __Bibliografia__
+
+>MELO, Arthur. Metodologia. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo>. Acesso em: 12 nov, 2024._
+
+## __Referência Bibliográfica__
+
+>_SCHWABER, K.; SUTHERLAND, J. The Scrum Guide. Scrum.org, 2020. Disponível em: https://scrumguides.org. Acesso em: 07 nov. 2024._
+
+
 ---
 ## Histórico de versão
 
