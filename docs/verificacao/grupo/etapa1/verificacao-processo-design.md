@@ -2,10 +2,10 @@
 
 ## __Introdução__
 
-Este documento é de verificação do artefato Processo de Design produzido pelo Grupo da disciplina de IHC que tem o projeto voltado ao site Diário oficial do Rio Grande do Norte. Dessa forma, o artefato Processo de Design será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida e também ao checklist de verificação dos artefatos feito pelao Ministério da Agricultura e Pecuária.
+Este documento é de verificação do artefato Processo de Design produzido pelo Grupo da disciplina de IHC que tem o projeto voltado ao site Diário oficial do Rio Grande do Norte. Dessa forma, o artefato Processo de Design será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida e também a lista de verificação dos artefatos feito pelao Ministério da Agricultura e Pecuária.
 
 ## __Metodologia__
-O modelo de verificação consistirá em um preenchimento de uma checklist construída a partir dos conceitos trabalhados pela disciplina, o mesmo será dividido em perguntas relacionadas ao padrão do formato do documento e sobre o padrão do conteúdo verificado.
+O modelo de verificação consistirá em um preenchimento de uma lista de verificação construída a partir dos conceitos trabalhados pela disciplina, o mesmo será dividido em perguntas relacionadas ao padrão do formato do documento e sobre o padrão do conteúdo verificado.
 
 <center>
 
@@ -42,7 +42,7 @@ O problema pode se configurar médio/grave isso porque pode deixar confuso a dec
 
 ## __Acompanhamento__
 
-A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da checklist de verificação.
+A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da lista de verificação de verificação.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUcqPEut7_W-IQRu1nurw951Mg3-PXDKYBpvlrlVLXXIw7U_iOocuDb2tsyrljrCiX6LdR7mo61w3f/pubchart?oid=1007777151&amp;format=interactive"></iframe>
 

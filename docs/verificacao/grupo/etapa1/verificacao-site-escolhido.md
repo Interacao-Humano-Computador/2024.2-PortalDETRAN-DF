@@ -36,7 +36,7 @@ __ID 07:__ Além de referenciar o pdf de análise, seria importante deixar os ap
 
 ## __Acompanhamento__
 
-A figura a seguir apresenta um gráfico com o percentual das respostas do checklist.
+A figura a seguir apresenta um gráfico com o percentual das respostas da lista de verificação.
 
 <center>
 ![Porcentagem do cheklist do site escolhido](../../../assets/graficos/verf-site-escolhido.png)
