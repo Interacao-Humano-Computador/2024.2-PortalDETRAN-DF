@@ -32,8 +32,9 @@ A avaliação de IHC executada pelo grupo, pelas heurísticas de Nielsen, encont
 A falta de opções claras de navegação e a ausência de feedback adequado sobre ações realizadas comprometem a experiência do usuário, tornando o site difícil de usar e frustrante em alguns pontos. A severidade dos problemas varia de alta a média, mostrando que o site precisa de melhorias para se tornar mais acessível e amigável ao usuário.
 
 
-A avaliação completa do grupo sobre a página pode ser lida na íntegra [aqui.](../assets/documentos/Avaliação_site_escolhido.pdf)
+A avaliação completa do grupo sobre a página pode ser lida na íntegra a seguir:
 
+<iframe src="/assets/documentos/Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 
 ---
 ## Histórico de versão
