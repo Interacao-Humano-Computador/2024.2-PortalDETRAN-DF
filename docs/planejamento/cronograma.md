@@ -27,6 +27,9 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente da
 |Correção após apresentação| Início:12/11 <br>Fim:12/11 |Márcio|Início:12/11 <br>Fim:12/11| Kaio |
 
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
+
 ### Executado
 
 <center>
@@ -46,6 +49,9 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente da
 |Gravar apresentação|Início:12/11 <br>Fim:12/11|Todos|Início:12/11 <br>Fim:12/11| Kaio |
 |Implementar Git Pages|Início: 04/11 <br>Fim:12/11|Luiza|Início: 13/11 <br>Fim:13/11|Yuri|
 |Correção após apresentação| Início:13/11 <br>Fim:13/11 |Márcio|Início:13/11 <br>Fim:13/11| Kaio |
+
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
 
 ## __Entrega 2 - Perfil do usuário__
 
@@ -67,6 +73,9 @@ Abaixo temos na tabela 3 contendo o planejado e executado da entrega 2
 |Gravar apresentação|Início:24/11 <br>Fim:24/11|Todos|Início:24/11 <br>Fim:24/11|kaio|
 |Correção após apresentação| Início:25/11 <br>Fim:25/11 |Márcio|Início:25/11 <br>Fim:25/11| Kaio |
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
+
 ## __Entrega 3 - Princípios gerais do projeto__
 
 Abaixo temos na tabela 4 contendo o planejado e executado da entrega 3
@@ -86,6 +95,9 @@ Abaixo temos na tabela 4 contendo o planejado e executado da entrega 3
 |características da plataforma para o projeto|Início: 30/11 <br>Fim: 01/12|Luiza|Início:01/12 <br>Fim: 01/12|Márcio|
 |Gravar apresentação|Início:03/12 <br>Fim:03/12|Todos|Início:03/12 <br>Fim:03/12|kaio|
 |Correção após apresentação| Início:04/12 <br>Fim:04/12 |Márcio|Início:04/12 <br>Fim:04/12| Kaio |
+
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
 
 ## __Entrega 4__
 
@@ -107,6 +119,9 @@ Abaixo temos na tabela 5 contendo o planejado e executado da entrega 4
 |Gravar apresentação|Início:10/12 <br>Fim:10/12|Todos|Início:10/12 <br>Fim:10/12|Kaio|
 |Correção após apresentação| Início:11/12 <br>Fim:11/12 |Márcio|Início:11/12 <br>Fim:11/12| Kaio |
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
+
 ## __Entrega 5__
 
 Abaixo temos na tabela 6 contendo o planejado e executado da entrega 5
@@ -125,6 +140,9 @@ Abaixo temos na tabela 6 contendo o planejado e executado da entrega 5
 |Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel.|Início:20/12 <br>Fim: 03/01 |Márcio| Início:03/01 <br>Fim:03/01 |Kaio|
 |Gravar apresentação|Início:05/01 <br>Fim:05/01|Todos|Início:05/01 <br>Fim:05/01|kaio|
 |Correção após apresentação| Início:06/01 <br>Fim:06/01 |Márcio|Início:06/01 <br>Fim:06/01| Kaio |
+
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
 
 ## __Entrega 6__
 
@@ -145,6 +163,9 @@ Abaixo temos na tabela 7 contendo o planejado e executado da entrega 6
 |Gravar apresentação|Início:15/01 <br>Fim:15/01|Todos|Início:15/01 <br>Fim:15/01|kaio|
 |Correção após apresentação| Início:16/01 <br>Fim:16/01 |Márcio|Início:16/01 <br>Fim:16/01| Kaio |
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
+
 ## __Entrega 7__
 
 Abaixo temos na tabela 8 contendo o planejado e executado da entrega 7
@@ -164,6 +185,7 @@ Abaixo temos na tabela 8 contendo o planejado e executado da entrega 7
 |Gravar apresentação|Início:26/01 <br>Fim:26/01|Todos|Início:26/01 <br>Fim:26/01|kaio|
 |Correção após apresentação| Início:27/01 <br>Fim:27/01 |Márcio|Início:27/01 <br>Fim:27/01| Kaio |
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
 
 
 ## __Entrega 8__
@@ -184,6 +206,8 @@ Abaixo temos na tabela 9 contendo o planejado e executado da entrega 8
 |Gravar apresentação|Início:26/01 <br>Fim:26/01|Todos|Início:26/01 <br>Fim:26/01|kaio|
 |Correção após apresentação| Início:27/01 <br>Fim:27/01 |Márcio|Início:27/01 <br>Fim:27/01| Kaio |
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+
 
 ## __Entrega Final__
 
@@ -202,6 +226,7 @@ Abaixo temos na tabela 10 contendo o planejado e executado da entrega final
 |Gravar apresentação|Início:03/02 <br>Fim:03/02|Todos|Início:03/02 <br>Fim:03/02|kaio|
 |Correção após apresentação| Início:05/02 <br>Fim:05/02 |Márcio|Início:05/02 <br>Fim:05/02| Kaio |
 
+<font size="3"><p style="text-align: center">Fonte: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
 
 ## __Bibliografia__
 
