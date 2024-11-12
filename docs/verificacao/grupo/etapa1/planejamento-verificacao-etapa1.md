@@ -55,17 +55,76 @@ O resultado da verificação de cada artefato pode ser acessado com os links a s
 - [Processo de Design](verificacao-processo-design.md)
 - [Metodologia](verificacao-metodologia.md)
 
+## __Lista de Verificação__
+
+### __Planejamento Geral do Projeto__
+
+<center>
+
+| Itens de Verificação | Resposta | Versão, Data e Hora da avaliação |
+|----------------------|----------|----------------------------------|
+| Possui uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?| __SIM__ | versão: `1.0` - 12/11/2024 às 13:09 |
+| O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:11 |
+| O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | __SIM__ |  versão: `1.0`- 12/11/2024 às 13:14 |
+| O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:16 |
+| A motivação e os critérios para a escolha do site? | __SIM__ |  versão: `1.0`- 12/11/2024 às 13:18 |
+| O planejamento e avaliação dos sites selecionados? | __SIM__ |  versão: `1.0`- 12/11/2024 às 13:22 |
+| Possui opção de contraste de cores? | __SIM__ |   versão: `1.0`- 12/11/2024 às 13:26 |
+| Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:29 |
+
+_Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensino.pdf)_
+
+</center>
+
+### __Desenvolvimento do Projeto__
+
+<center>
+
+| Itens de Verificação | Resposta | Versão, Data e Hora da avaliação |
+|----------------------|----------|----------------------------------|
+| O histórico de versão padronizado? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:34 |
+| O(s) autor(es) e o(s) revisor(es) para cada artefato? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:40 |
+| Referências bibliográficas e/ou bibliografia em todos os artefatos? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:46 |
+| As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:52 |
+| Um texto fazendo uma introdução dos artefatos? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:56 |
+| O cronograma executado com quem realizou cada artefato/atividade com as datas de
+início e fim da construção/realização do artefato/atividade. | __SIM__ | versão: `1.0`- 12/11/2024 às 17:02 |
+| Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc) | __SIM__ | versão: `1.0`- 12/11/2024 às 14:08 |
+| A gravação da reunião do grupo. | __SIM__ | versão: `1.0`- 12/11/2024 às 19:10 |
+| Vídeo de apresentação na categoria “não listado” no youtube? | __SIM__ | versão: `1.0`- 12/11/2024 às 19:12 |
+
+_Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensino.pdf)_
+
+</center>
+
+### __Conteúdo da Disciplina__
+
+<center>
+
+| Itens de Verificação | Resposta | Versão, Data e Hora da avaliação |
+|----------------------|----------|----------------------------------|
+| Possui a justificativa da escolha do Processo de Design?<a id="anchor_1" href="#REF"><sup>1</sup></a> | __SIM__ | versão: `1.0`- 12/11/2024 às 14:16 |
+| A introdução contextualiza o tema e destaca a importância do processo de design.<a id="anchor_2" href="#lista-de-verificação"><sup>2</sup></a> | __SIM__ | versão: `1.0`- 12/11/2024 às 14:16 |
+| A descrição dos modelos de processos de design é clara e fácil de entender.<a id="anchor_2" href="#lista-de-verificação"><sup>2</sup></a> | __SIM__ | versão: `1.0`- 12/11/2024 às 14:16 |
+| As informações apresentadas estão diretamente relacionadas ao contexto de design de IHC (Interação Humano-Computador) e são aplicáveis ao projeto.<a id="anchor_2" href="#lista-de-verificação"><sup>2</sup></a> | __SIM__ | versão: `1.0`- 12/11/2024 às 14:16 |
+
+_Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensino.pdf)<a id="anchor_1" href="#REF"><sup>1</sup></a> e [Luiza Maluf](https://github.com/LuizaMaluf)<a id="REF" href="#lista-de-verificação"><sup>2</sup></a>_
+
+</center>
+
 ---
 ## __Bibliografia__
 
-CAMPELLO, Gabriel. Planejamento de Verificação da Etapa 1. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo>. Acesso em: 8 nov. 2024._
+>CAMPELLO, Gabriel. Planejamento de Verificação da Etapa 1. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo>. Acesso em: 8 nov, 2024._
 
 
 ## Referências Bibliográficas
 
-_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+> _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
-_Siqueira, Fábio L. __Gerência e Qualidade de Software - Aula 06 - Técnica de revisão__, 21 de jun. de 2018. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE&t=381s>. Acesso em: 8 nov. 2024._
+> _Siqueira, Fábio L. __Gerência e Qualidade de Software - Aula 06 - Técnica de revisão__, 21 de jun. de 2018. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE&t=381s>. Acesso em: 8 nov, 2024._
+
+> <a id="REF" href="#anchor_1">1.</a> SALES, B. André. Plano de Ensino FIHC 022024 Turma 01 v1. Brasília, DF, 2024. _Disponível em: <https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf>. Acesso em: 12 nov, 2024._
 
 ---
 
