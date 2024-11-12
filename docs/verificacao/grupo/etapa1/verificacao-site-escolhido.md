@@ -44,6 +44,21 @@ A figura a seguir apresenta um gráfico com o percentual das respostas do checkl
 _Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
 </center>
 
+## __Correção__
+
+Como proposto por Fagan, os integrantes do grupo que foram responsáveis pela produção do artefato que devem fazer as devidas correções propostas pela verificação.
+
+Dessa forma, após a correção, o autor dessa verificação irá revisar se as correçõe s foram feitas da forma correta. 
+
+<center>
+
+| Data da Correção | Descrição | Responsável(eis) | Revisor(es) | Status |
+|------------------|-----------|------------------|-------------|--------|
+| 11/11/2024       | Correções sugeridas | [Kaio Enzo](https://github.com/kaioenzo) | [Luiza Maluf](https://github.com/LuizaMaluf) | **ok** |
+
+</center>
+
+
 ## __Bibliografia__
 
 ENZO, Kaio. Site Escolhido. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/siteEscolhido/>. Acesso em: 10/11/2024.

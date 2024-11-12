@@ -11,6 +11,7 @@ nav:
   - Atas:
     - Ata 01: atas/01.md
     - Ata 02: atas/02.md
+    - Ata 03: atas/03.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Metodologias: planejamento/metodologia.md
@@ -25,6 +26,7 @@ nav:
               - Cronograma: verificacao/grupo/etapa1/verificacao-cronograma.md
               - Ferramentas: verificacao/grupo/etapa1/verificacao-ferramentas.md
               - Processo de Design: verificacao/grupo/etapa1/verificacao-processo-design.md
+              - Sites Avaliados: verificacao/grupo/etapa1/verificacao-sites-avaliados.md
               - Site Escolhido: verificacao/grupo/etapa1/verificacao-site-escolhido.md
               - Metodologia: verificacao/grupo/etapa1/verificacao-metodologia.md
 

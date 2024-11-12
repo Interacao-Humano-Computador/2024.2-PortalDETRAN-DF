@@ -17,11 +17,11 @@ A atividade de design, conforme descrito pelos autores, envolve três etapas pri
 
 O design, portanto, não é apenas a criação de um artefato, mas sim um processo de identificação de problemas e planejamento de intervenções que melhorem a situação para os envolvidos, trazendo consequências positivas e, eventualmente, desafios a serem considerados.
 
-Dentre as diversas técnicas que podem ser utilizadas no processo de design, foram estudados quatro procesos, que terão um breve resumo a seguir e a última foi a escolhida pelo grupo para o projeto da disciplina.
+Dentre as diversas técnicas que podem ser utilizadas no processo de design, foram estudados quatro processos, que terão um breve resumo a seguir e a última foi a escolhida pelo grupo para o projeto da disciplina.
 
 ## __Modelos de Processos de Designs__
 
-### Ciclo de Vida Simples
+### __Ciclo de Vida Simples__
 
 O Ciclo de Vida Simples é um modelo de desenvolvimento de interfaces que oferece uma estrutura enxuta e direta para o processo de design de sistemas interativos.
 
@@ -35,7 +35,7 @@ A construção de versões interativas é essencial para testar e validar essas 
 
 ![ciclo de vida simples](../assets/referencias/ciclo_simples_esquema.png)
 
-### Ciclo de Vida em Estrela
+### __Ciclo de Vida em Estrela__
 
 O Ciclo de Vida em Estrela, segundo [Barbosa e Silva (2011, p.103)](../assets/referencias/ciclo_estrela.png), desenvolvido por Hix e Hartson (1993), foi um dos primeiros modelos de design voltados para Interação Humano-Computador (IHC) e é composto por seis atividades principais. 
 
@@ -47,13 +47,13 @@ No Ciclo de Vida em Estrela, a sequência das atividades não é fixa, e o desig
 
 ![Ciclo de Vida em Estrela](../assets/referencias/ciclo_estrela_esquema.png)
 
-### Engenharia de Usabilidade de Nielsen
+### __Engenharia de Usabilidade de Nielsen__
 
 Segundo [Barbosa e Silva (2011, p.104 a 106)](../assets/referencias/eng_usab_nielsen.png) é um conjunto de atividades projetadas para serem realizadas ao longo de todo o ciclo de vida do produto, com foco nas etapas iniciais do projeto, antes mesmo de a interface ser criada. 
 
 Essas atividades incluem conhecer o usuário, realizar análise competitiva, definir metas de usabilidade, adotar designs paralelos e participativos, coordenar o design da interface, aplicar diretrizes heurísticas, prototipar, testar empiricamente e adotar um design iterativo.
 
-### Engenharia de Usabilidade de Mayhew
+### __Engenharia de Usabilidade de Mayhew__
 
 Segundo [Barbosa e Silva (2011, p.109 a 111)](../assets/referencias/eng_usab_mayhew.png), a engenharia de usabilidade organiza o processo de design em três fases principais: análise de requisitos, design/avaliação/desenvolvimento e instalação. Este modelo, com abordagem holística, busca integrar diferentes atividades de IHC para direcionar o designer a uma solução interativa eficaz.
 
@@ -65,11 +65,20 @@ Por fim, na fase de __instalação__, o designer coleta feedback dos usuários a
 
 ![Engenharia de Usabilidade de Mayhew Esquema](../assets/referencias/eng_usb_mayhew_esquema.png)
 
+## __Nossa Escolha__
 
-## Referências Bibliográficas
+Escolhemos a __Engenharia de Usabilidade de Mayhew__ como base para nosso processo de design devido à sua abordagem estruturada e prática, que se alinha diretamente com as necessidades do nosso projeto de Interação Humano-Computador. 
+
+Esse modelo oferece uma metodologia orientada por fases, com etapas claramente definidas que facilitam a implementação de usabilidade desde o início do desenvolvimento até a fase de testes. 
+
+A Engenharia de Usabilidade de Mayhew permite que façamos uma análise detalhada das necessidades dos usuários, garantindo que o produto final seja intuitivo, eficiente e atenda às expectativas. Além disso, o modelo fornece diretrizes para avaliação e iteração contínuas, o que é fundamental para aprimorar constantemente o design com base no feedback dos usuários. 
+
+Dessa forma, ao adotar a Engenharia de Usabilidade de Mayhew, asseguramos que nosso projeto siga um caminho bem estruturado para alcançar uma experiência de usuário de alta qualidade e acessível.
+
+
+## __Referências Bibliográficas__
 
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
-
 
 ---
 ## Histórico de versão
@@ -78,3 +87,4 @@ _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: 
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf) |
 | `2.0`  | 06/11/2024 | Descrição dos processos de design | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| `3.0`  | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-processo-design.md) feita. | [Luiza Maluf](https://github.com/LuizaMaluf) 
