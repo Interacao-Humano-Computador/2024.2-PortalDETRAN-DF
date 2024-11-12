@@ -28,7 +28,7 @@ Partindo do principio de verificação, abordaremos no formato de checklist como
 | 12  | Todos os membros participam da revisão para oferecer feedback diversificado?                        |  Sim     |                                                        |
 | 13  | Existe comunicação aberta para discutir sugestões de melhorias e alinhamento do projeto?            |  Sim     |                                                        |
 
-
+_Fonte: Autores, 2024._
 
 > **Observação**: Um olhar em particular da metodologia e da organização das entregas foi a realização de uma verificação para cada pr - Pull request, assim cada artefato documentado chega para a documentação oficial com número menor de erros e gerando menos retrabalho.
 
