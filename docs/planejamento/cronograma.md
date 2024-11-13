@@ -1,14 +1,12 @@
+# __Cronograma__
 
-
-
-## Descrição
+## __Descrição__
 
 As atividades da disciplina de IHC estão organizadas em um cronograma flexível, sujeito a ajustes ao longo do curso, para garantir que todas as etapas sejam cumpridas.
 
 ## __Entrega 1 - Planejamento do Projeto e Verificação__
 
-Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente da entrega 1
-
+Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente da entrega 1.
 
 ### Planejado
 <center>
@@ -18,11 +16,11 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente da
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
 |------------|---------------------------|--------------|---------|-----------|
-|Selecionar ferramentas do projeto| Início: 04/10 <br>Fim: 01/11|Todos|Início:10/11 <br>Fim: 10/11 |Luiza|
-|Realização do cronograma|Início:27/10 <br>Fim: 01/11 |Márcio| Início:02/11 <br>Fim:02/11 |Kaio|
-|Processo de Design|Início: 02/11 <br>Fim: 07/11|kaio|Início:08/11 <br>Fim:09/11|Luiza|
-|Documentar Equipe|Início: 20/10 <br>Fim: 24/10|Luiza|Início:25/10 <br>Fim: 08/11|Márcio|
-|Gravar apresentação|Início:11/11 <br>Fim:11/11|Todos|Início:12/11 <br>Fim:12/11|kaio|
+|Selecionar [ferramentas](ferramentas.md) do projeto| Início: 04/10 <br>Fim: 01/11|Todos|Início:10/11 <br>Fim: 10/11 |Luiza|
+|Realização do [cronograma](cronograma.md)|Início:27/10 <br>Fim: 01/11 |Márcio| Início:02/11 <br>Fim:02/11 |Kaio|
+|[Processo de Design](processoDesign.md)|Início: 02/11 <br>Fim: 07/11|kaio|Início:08/11 <br>Fim:09/11|Luiza|
+|[Documentar Equipe](../index.md)|Início: 20/10 <br>Fim: 24/10|Luiza|Início:25/10 <br>Fim: 08/11|Márcio|
+|[Gravar apresentação](../apresent/01.md)|Início:11/11 <br>Fim:11/11|Todos|Início:12/11 <br>Fim:12/11|kaio|
 |Implementar Git Pages|Início: 04/11 <br>Fim:04/11|Luiza|Início: 04/11 <br>Fim:04/11|Márcio|
 |Correção após apresentação| Início:12/11 <br>Fim:12/11 |Márcio|Início:12/11 <br>Fim:12/11| Kaio |
 
@@ -40,13 +38,13 @@ Abaixo temos na tabela 1 e 2 contendo o planejado e executado respectivamente da
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
 |------------|---------------------------|--------------|---------|-----------|
-|Selecionar ferramentas do projeto| Início: 04/11 <br>Fim: 04/11|Todos|Início:12/11 <br>Fim: 12/11 |Kaio|
-|Realização do cronograma|Início:04/11 <br>Fim: 04/11 |Márcio| Início:10/11 <br>Fim:10/11 |Luiza|
-|Metodologia|Início: 07/11 <br>Fim: 07/11|Luiza|Início:10/11 <br>Fim:10/11|Márcio|
-|Sites Avaliados|Início: 06/11 <br>Fim: 06/11|Márcio|Início:11/11 <br>Fim:11/11| Kaio |
-|Processo de Design|Início: 06/11 <br>Fim: 06/11|Luiza|Início:09/11 <br>Fim:09/11|Márcio|
-|Documentar Equipe|Início: 20/10 <br>Fim: 24/10|Luiza|Início:25/10 <br>Fim: 08/11|Márcio|
-|Gravar apresentação|Início:12/11 <br>Fim:12/11|Todos|Início:12/11 <br>Fim:12/11| Kaio |
+|Selecionar [ferramentas](ferramentas.md) do projeto| Início: 04/11 <br>Fim: 04/11|Todos|Início:12/11 <br>Fim: 12/11 |Kaio|
+|Realização do [cronograma](cronograma.md)|Início:04/11 <br>Fim: 04/11 |Márcio| Início:10/11 <br>Fim:10/11 |Luiza|
+|[Metodologia](metodologia.md)|Início: 07/11 <br>Fim: 07/11|Luiza|Início:10/11 <br>Fim:10/11|Márcio|
+|[Sites Avaliados](sitesAvaliados.md)|Início: 06/11 <br>Fim: 06/11|Márcio|Início:11/11 <br>Fim:11/11| Kaio |
+|[Processo de Design](processoDesign.md)|Início: 06/11 <br>Fim: 06/11|Luiza|Início:09/11 <br>Fim:09/11|Márcio|
+|[Documentar Equipe](../index.md)|Início: 20/10 <br>Fim: 24/10|Luiza|Início:25/10 <br>Fim: 08/11|Márcio|
+|[Gravar apresentação](../apresent/01.md)|Início:12/11 <br>Fim:12/11|Todos|Início:12/11 <br>Fim:12/11| Kaio |
 |Implementar Git Pages|Início: 04/11 <br>Fim:12/11|Luiza|Início: 13/11 <br>Fim:13/11|Yuri|
 |Correção após apresentação| Início:13/11 <br>Fim:13/11 |Márcio|Início:13/11 <br>Fim:13/11| Kaio |
 
@@ -230,13 +228,13 @@ Abaixo temos na tabela 10 contendo o planejado e executado da entrega final
 
 ## __Bibliografia__
 
-DE MELO, Arthur. Processo de Design. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 11 nov. 2024.
+>DE MELO, Arthur. Processo de Design. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 11 nov. 2024.
 
 ## __Referências Bibliográficas__
 
-_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+>_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
-_SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 11 de novembro de 2024._
+>_SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 11 de novembro de 2024._
 
 
 ---

@@ -6,12 +6,6 @@ repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo08
 
 nav:
   - Home: index.md
-  - Apresentações:
-    - Apresentação 1: apresent/01.md 
-  - Atas:
-    - Ata 01: atas/01.md
-    - Ata 02: atas/02.md
-    - Ata 03: atas/03.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
@@ -30,6 +24,12 @@ nav:
               - Sites Avaliados: verificacao/grupo/etapa1/verificacao-sites-avaliados.md
               - Site Escolhido: verificacao/grupo/etapa1/verificacao-site-escolhido.md
               - Metodologia: verificacao/grupo/etapa1/verificacao-metodologia.md
+  - Reuniões:
+    - Ata 01: atas/01.md
+    - Ata 02: atas/02.md
+    - Ata 03: atas/03.md
+  - Entregas:
+    - Entrega 1: apresent/01.md 
 
 
 
@@ -37,6 +37,7 @@ theme:
   name: material
   language: pt
   logo: assets/Brasão_do_Rio_Grande_do_Norte.svg.png
+  favicon: assets/Brasão_do_Rio_Grande_do_Norte.svg.png
 
   font:
     text: "Open Sans"
@@ -45,9 +46,20 @@ theme:
   icon:
     admonition:
       <type>: material/alert-circle
+    repo: fontawesome/brands/github
 
   palette:
-      primary: white
+      - scheme: default
+        primary: white
+        toggle:
+          icon: material/lightbulb
+          name: Switch to dark mode
+      - scheme: slate
+        primary: black
+        toggle:
+          icon: material/lightbulb-outline
+          name: Switch to system preference
+
 
   features:
     - navigation.top
@@ -66,6 +78,7 @@ theme:
     - search.suggest
     - navigation.instant
     - navigation.tracking
+    - navigation.instant.progress
 
   extra_css:
     - stylesheets/custom.css
@@ -75,6 +88,7 @@ theme:
     - typeset
     - nav-extensions
     - glightbox
+    - info
 
   markdown_extensions:
     - admonition

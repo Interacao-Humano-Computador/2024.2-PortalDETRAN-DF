@@ -1,7 +1,10 @@
-## Introdução
+# __Verificação das Ferramentas__
+
+## __Introdução__
+
 Este documento tem como objetivo verificar o artefato que descreve as [ferramentas](../../../planejamento/ferramentas.md) utilizadas pelo [grupo](https://github.com/Interacao-Humano-Computador/2024.2-Grupo08) para o desenvolvimento do projeto, que tem como objetivo fazer a avaliação de IHC do site Diário Oficial do Rio Grande do Norte e, aplicando os conceitos aprendidos em classe, sugerir melhorias em sua interface. A verificação do artefato será feita de acordo com a literatura padrão de IHC com base na obra de Barbosa e Silva referida.
 
-## Metodologia
+## __Metodologia__
 Para a verificação do artefato, Campello, Melo e Henrique (2023) propõem a utilização de uma lista de verificação baseada nos requisitos apresentados pelo professor em sala de aula e, quando aplicável, em pontos destacados pela literatura de referência. A lista de verificação é composta por cinco perguntas padrão, estabelecidas para avaliar a documentação, seguidas por perguntas relacionadas ao conteúdo específico do artefato Ferramentas. A Tabela 1, apresentada a seguir, exibe os resultados correspondentes à versão do artefato definida no Planejamento da Verificação do artefato [ferramentas](../../../planejamento/ferramentas.md).
 
 <center>
@@ -25,28 +28,28 @@ _Fonte: Adaptado de [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Ca
 
 </center>
 
-## Problemas encontrados
+## __Problemas encontrados__
 
 A tabela 1 apresenta os resultados da verificação do artefato Ferramentas. A avaliação do artefato foi realizada por Kaio Enzo (2024) e os resultados obtidos indicam que o artefato não possui introdução e bibliografia/referência bibliográfica. Além disso, as ferramentas não são referenciadas no artefato e não possuem links disponibilizados na referência. Abaixo uma consideração sobre os problemas encontrados:
 
-### ID 1 -  O artefato possui introdução?
+### __ID 1 -  O artefato possui introdução?__
 
 O artefato não possui introdução, o que dificulta a compreensão do leitor sobre o conteúdo que será abordado no documento.
 
-### ID 2 - O artefato possui uma bibliografia/referência bibliográfica?
+### __ID 2 - O artefato possui uma bibliografia/referência bibliográfica?__
 
 O artefato não possui uma bibliografia/referência bibliográfica, o que dificulta a verificação da veracidade das informações apresentadas bem como aprofundamento do leitor sobre o tema.
 
-### ID 9 - As ferramentas são referenciadas no artefato e tem seus links disponibilizados na referência?
+### __ID 9 - As ferramentas são referenciadas no artefato e tem seus links disponibilizados na referência?__
 
 As ferramentas não são referenciadas no artefato e não possuem links disponibilizados na referência, o que dificulta a compreensão do leitor sobre as ferramentas utilizadas no projeto.        
 
-## Sugestões de melhoria
+## __Sugestões de melhoria__
 - Adicionar uma introdução ao artefato, explicando o conteúdo que será abordado.
 - Adicionar uma bibliografia/referência bibliográfica ao artefato, para que o leitor possa aprofundar-se no tema.
 - Referenciar as ferramentas no artefato e disponibilizar os links na referência, para que o leitor possa acessar mais informações sobre as ferramentas utilizadas no projeto.
 
-## Resultado da verificação
+## __Resultado da verificação__
 A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da lista de verificação.
 
 <center>
@@ -59,7 +62,7 @@ _Fonte: [Kaio Enzo](https://github.com/kaioenzo), 2024._
 
 </center>
 
-## Retrabalho
+## __Retrabalho__
 
 Conforme proposto por Fagan (apud CAMPELLO; MELO; HENRIQUE, 2023), o retrabalho será inicialmente realizado pelos autores do artefato verificado, que se encarregarão de corrigir os problemas identificados com base na lista de sugestões de correção previamente apresentada. No entanto, existe a possibilidade de que outros integrantes do grupo também realizem essas correções. O responsável pela verificação fará uma revisão das correções implementadas, avaliando se são adequadas e se não introduziram novos erros. A Tabela 2, a seguir, apresenta o cronograma das correções.
 
@@ -76,13 +79,15 @@ _Fonte: Adaptado de [Gabriel Campello](https://github.com/G16C), 2023._
 </center>
 
 ## __Bibliografia__
-CAMPELLO, Gabriel; MELO, Arthur de; HENRIQUE, Mateus. Verificação Ferramentas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/verificacao-ferramentas/>. Acesso em: 11 nov. 2024._
+>CAMPELLO, Gabriel; MELO, Arthur de; HENRIQUE, Mateus. Verificação Ferramentas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/verificacao-ferramentas/>. Acesso em: 11 nov. 2024._
 
-HENRIQUE, Márcio. Ferramentas. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/ferramentas>. Acesso em: 11/11/2024.
+>HENRIQUE, Márcio. Ferramentas. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/ferramentas>. Acesso em: 11/11/2024.
 
 ## __Referências Bibliográficas__
 
-_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+>_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+
+---
 
 ## Histórico de versão
 

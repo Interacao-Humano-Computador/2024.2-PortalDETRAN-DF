@@ -1,4 +1,6 @@
-## Descrição
+# __Ferramentas__
+
+## __Descrição__
 
 Com o intuito de agilizar e organizar o processo de desenvolvimento, foram selecionadas as ferramentas computacionais apresentadas na Tabela 1, as quais auxiliaram no gerenciamento da equipe e na produção dos artefatos do projeto.
 
@@ -24,7 +26,7 @@ Com o intuito de agilizar e organizar o processo de desenvolvimento, foram selec
 _Fonte: Autores._
 
 
-## Bibliografia
+## __Bibliografia__
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 30 de outubro de 2024.
 >
@@ -53,7 +55,7 @@ _Fonte: Autores._
 
 ## __Referências Bibliográficas__
 
-_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+>_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 
 ---

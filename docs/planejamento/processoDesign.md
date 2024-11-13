@@ -33,7 +33,12 @@ Durante o design conceitual, o designer explora várias alternativas para formul
 
 A construção de versões interativas é essencial para testar e validar essas propostas de solução, pois os protótipos simulam a interface final, proporcionando uma experiência tangível para os usuários. Isso facilita a avaliação da IHC, permitindo que os usuários experimentem a interação projetada e forneçam feedback direto.
 
+<center>
+
 ![ciclo de vida simples](../assets/referencias/ciclo_simples_esquema.png)
+
+_Fonte:  Barbosa e Silva (2011)._
+</center>
 
 ### __Ciclo de Vida em Estrela__
 
@@ -45,7 +50,10 @@ O processo de síntese é dividido em três atividades: __projeto conceitual e e
 
 No Ciclo de Vida em Estrela, a sequência das atividades não é fixa, e o designer pode escolher o ponto de partida com base nos recursos e informações disponíveis. O modelo é iterativo e exige que cada etapa seja avaliada antes de prosseguir, permitindo um processo flexível e contínuo de melhorias.
 
+<center>
 ![Ciclo de Vida em Estrela](../assets/referencias/ciclo_estrela_esquema.png)
+_Fonte:  Barbosa e Silva (2011)._
+</center>
 
 ### __Engenharia de Usabilidade de Nielsen__
 
@@ -63,7 +71,10 @@ A fase de __design, avaliação e desenvolvimento__ busca criar uma solução de
 
 Por fim, na fase de __instalação__, o designer coleta feedback dos usuários após um período de uso, o que pode servir para aprimoramentos futuros e para guiar o desenvolvimento de novos sistemas interativos.
 
+<center>
 ![Engenharia de Usabilidade de Mayhew Esquema](../assets/referencias/eng_usb_mayhew_esquema.png)
+_Fonte:  Barbosa e Silva (2011)._
+</center>
 
 ## __Nossa Escolha__
 
@@ -81,7 +92,7 @@ Dessa forma, ao adotar a Engenharia de Usabilidade de Mayhew, asseguramos que no
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|

@@ -82,7 +82,7 @@ HENRIQUE, Márcio. Cronograma. Repositório do Grupo 08 da disciplina de Intera�
 _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|

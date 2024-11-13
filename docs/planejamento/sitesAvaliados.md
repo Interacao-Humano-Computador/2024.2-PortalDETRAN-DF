@@ -23,7 +23,7 @@ intuitivo e eficiente, usuários com pouca experiência encontram obstáculos
 significativos, especialmente em relação à compreensão das terminologias e ao fluxo
 de envio de propostas.
 
-* [Link para a avaliação detalhada](./avaliacoes/portalcompras.pdf).
+<iframe src="../portalcompras.pdf" width="100%" height="600px"></iframe>
 
 ##  ANA - Agência nacional de águas
 
@@ -32,7 +32,8 @@ O responsável por realizar essa avaliação foi o integrante Márcio Henrique, 
 *    Status do sistema: simples.
 *    Controle do usuário e liberdade: pequeno.
 *    Estética e design minimalista: simples.
-*    [Link para a avaliação detalhada](avaliacoes/portalana.pdf).
+
+<iframe src="../portalana.pdf" width="100%" height="600px"></iframe>
 
 
 ## Diário oficial do RN
@@ -43,14 +44,15 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 *    Controle do usuário e liberdade: grave.
 *    prevenção de erros: Médio.
 *    Estética e design minimalista: simples.
-*    [Link para a avaliação detalhada](./avaliacoes/diariorn.pdf).
+
+<iframe src="../Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 
 ## __Referências Bibliográficas__
 
-_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+>_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|

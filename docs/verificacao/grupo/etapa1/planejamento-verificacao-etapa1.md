@@ -87,11 +87,10 @@ _Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensi
 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:46 |
 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:52 |
 | Um texto fazendo uma introdução dos artefatos? | __SIM__ | versão: `1.0`- 12/11/2024 às 13:56 |
-| O cronograma executado com quem realizou cada artefato/atividade com as datas de
-início e fim da construção/realização do artefato/atividade. | __SIM__ | versão: `1.0`- 12/11/2024 às 17:02 |
+| O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | __SIM__ | versão: `1.0`- 12/11/2024 às 17:02 |
 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc) | __SIM__ | versão: `1.0`- 12/11/2024 às 14:08 |
-| A gravação da reunião do grupo. | __SIM__ | versão: `1.0`- 12/11/2024 às 19:10 |
-| Vídeo de apresentação na categoria “não listado” no youtube? | __SIM__ | versão: `1.0`- 12/11/2024 às 19:12 |
+| A gravação da reunião do grupo. | __SIM__ | versão: `1.0`- 12/11/2024 às 20:25 |
+| Vídeo de apresentação na categoria “não listado” no youtube? | __SIM__ | versão: `1.0`- 12/11/2024 às 20:30 |
 
 _Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensino.pdf)_
 

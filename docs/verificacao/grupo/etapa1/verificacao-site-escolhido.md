@@ -61,14 +61,14 @@ Dessa forma, após a correção, o autor dessa verificação irá revisar se as 
 
 ## __Bibliografia__
 
-ENZO, Kaio. Site Escolhido. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/siteEscolhido/>. Acesso em: 10/11/2024.
+>ENZO, Kaio. Site Escolhido. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/siteEscolhido/>. Acesso em: 10/11/2024.
 
-MALUF, Luiza. Verificação do cronograma. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/verificacao/grupo/etapa1/verificacao-cronograma/>. Acesso em: 10/11/2024.
+>MALUF, Luiza. Verificação do cronograma. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em : <https://interacao-humano-computador.github.io/2024.2-Grupo08/verificacao/grupo/etapa1/verificacao-cronograma/>. Acesso em: 10/11/2024.
 
 
 ## __Referências Bibliográficas__
 
-_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+>_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 
 ---

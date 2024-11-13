@@ -36,8 +36,12 @@ A avaliação completa do grupo sobre a página pode ser lida na íntegra a segu
 
 <iframe src="../Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 
+## __Referências Bibliográficas__
+
+>_DIÁRIO OFICIAL DO ESTADO DO RIO GRANDE DO NORTE. Diário Oficial Eletrônico. Disponível em: https://www.diariooficial.rn.gov.br/dei/dorn3/. Acesso em: 06 nov. 2024._
+
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
