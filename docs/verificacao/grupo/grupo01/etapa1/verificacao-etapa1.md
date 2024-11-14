@@ -54,12 +54,12 @@ Os participantes da inspeção realizada são:
 
 | Itens de Verificação | Resposta | Versão, Data e Hora da avaliação |
 | :---- | :---- | :---- |
-| Possui a justificativa da escolha do Processo de Design?1 | **SIM** | versão: `1.0`\- 13/11/2024 às 18:17 |
-| A introdução contextualiza o tema e destaca a importância do processo de design.2 | **SIM** | versão: `1.0`\- 13/11/2024 às 18:17 |
-| A descrição dos modelos de processos de design é clara e fácil de entender.2 | **SIM** | versão: `1.0`\- 13/11/2024 às 18:18 |
-| As informações apresentadas estão diretamente relacionadas ao contexto de design de IHC (Interação Humano-Computador) e são aplicáveis ao projeto.2 | **SIM** | versão: `1.0`\- 13/11/2024 às 18:19 |
+| Possui a justificativa da escolha do Processo de Design? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:17 |
+| A introdução contextualiza o tema e destaca a importância do processo de design? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:17 |
+| A descrição dos modelos de processos de design é clara e fácil de entender? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:18 |
+| As informações apresentadas estão diretamente relacionadas ao contexto de design de IHC (Interação Humano-Computador) e são aplicáveis ao projeto? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:19 |
 
-*Fonte: Adaptado de [Plano de Ensino da disciplina](http://../../../assets/documentos/Plano_de_Ensino.pdf)* 
+_Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensino.pdf)<a id="anchor_1" href="#REF"><sup>1</sup></a> e [Luiza Maluf](https://github.com/LuizaMaluf)<a id="REF" href="#lista-de-verificação"><sup>2</sup></a>_
 
 ---
 ## __Bibliografia__
@@ -72,3 +72,4 @@ Os participantes da inspeção realizada são:
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 13/11/2024 | Verificação do Grupo 01. | [Kaio Enzo](https://github.com/kaioenzo) |
+| `1.1`  | 13/11/2024 | Correção de referência. | [Kaio Enzo](https://github.com/kaioenzo) |
