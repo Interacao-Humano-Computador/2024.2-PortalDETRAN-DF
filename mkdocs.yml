@@ -24,6 +24,11 @@ nav:
               - Sites Avaliados: verificacao/grupo/etapa1/verificacao-sites-avaliados.md
               - Site Escolhido: verificacao/grupo/etapa1/verificacao-site-escolhido.md
               - Metodologia: verificacao/grupo/etapa1/verificacao-metodologia.md
+      - Verificação do Grupo 01: 
+          - Etapa 1:
+              - Planejamento da Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
+
+
   - Reuniões:
     - Ata 01: atas/01.md
     - Ata 02: atas/02.md
