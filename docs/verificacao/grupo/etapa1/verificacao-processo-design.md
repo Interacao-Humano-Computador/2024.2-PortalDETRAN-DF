@@ -26,7 +26,8 @@ O modelo de verificação consistirá em um preenchimento de uma lista de verifi
 
 </center>
 
-_Fonte: Autores, 2024._
+_Fonte: Adaptado de [Gabriel Campello](https://github.com/G16C), 2023._
+
 
 ## __Problemas encontrados__
 
@@ -45,6 +46,8 @@ O problema pode se configurar médio/grave isso porque pode deixar confuso a dec
 A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da lista de verificação de verificação.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUcqPEut7_W-IQRu1nurw951Mg3-PXDKYBpvlrlVLXXIw7U_iOocuDb2tsyrljrCiX6LdR7mo61w3f/pubchart?oid=1007777151&amp;format=interactive"></iframe>
+
+_Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 
 ## __Correções__
 
@@ -79,4 +82,4 @@ _Fonte: Elaborado por [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `2.0`  | 09/11/2024 | Verificação do processo design | [Márcio Henrique](https://github.com/DeM4rcio) |
+| `1.1`  | 09/11/2024 | Verificação do processo design | [Márcio Henrique](https://github.com/DeM4rcio) |

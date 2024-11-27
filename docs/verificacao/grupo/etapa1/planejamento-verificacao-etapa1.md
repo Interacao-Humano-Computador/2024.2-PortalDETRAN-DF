@@ -37,7 +37,7 @@ A seguir está relacionado os responsáveis por cada verificação, assim como s
 | [Ferramentas](../../../planejamento/ferramentas.md) e [Sites Avaliados](../../../planejamento/sitesAvaliados.md)| [Kaio Enzo](https://github.com/kaioenzo) |
 | [Processo de Design](../../../planejamento/processoDesign.md) e [Metodologia](../../../planejamento/metodologia.md)| [Márcio Henrique](https://github.com/DeM4rcio)|
 
-_Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
@@ -132,4 +132,4 @@ _Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensi
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `2.0`  | 09/11/2024 | Documentação do planejamento | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| `1.1`  | 09/11/2024 | Documentação do planejamento | [Luiza Maluf](https://github.com/LuizaMaluf) |

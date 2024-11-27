@@ -22,7 +22,7 @@ Para a verificação do artefato, será feita a inspeção por Checklist baseand
 | 06 | Foi identificado já pontos de melhora? | Sim | |
 | 07 | Está explícito no documento o resultado da análise heurística? | Não | |
 
-_Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
@@ -41,7 +41,7 @@ A figura a seguir apresenta um gráfico com o percentual das respostas da lista 
 <center>
 ![Porcentagem do cheklist do site escolhido](../../../assets/graficos/verf-site-escolhido.png)
 
-_Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 </center>
 
 ## __Correção__
@@ -77,4 +77,4 @@ Dessa forma, após a correção, o autor dessa verificação irá revisar se as 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf)   | 
-| `2.0`  | 09/11/2024 | Verificação do Site escolhido | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| `1.1`  | 09/11/2024 | Verificação do Site escolhido | [Luiza Maluf](https://github.com/LuizaMaluf)| 

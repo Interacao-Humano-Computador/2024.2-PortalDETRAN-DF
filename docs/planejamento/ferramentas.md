@@ -61,8 +61,8 @@ _Fonte: Autores._
 ---
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `2.0`  | 05/11/2024 | Inserção das ferramentas | [Márcio Henrique](https://github.com/DeM4rcio) |
-| `3.0`  | 10/11/2024 | Correção da ferramentas | [Márcio Henrique](https://github.com/DeM4rcio) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
+|--------|------------|---------------------|----------------------------------------------|------------|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio)|
+| `1.1`  | 05/11/2024 | Inserção das ferramentas | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.2`  | 10/11/2024 | Correção da ferramentas | [Márcio Henrique](https://github.com/DeM4rcio) |[Luiza Maluf](https://github.com/LuizaMaluf)|

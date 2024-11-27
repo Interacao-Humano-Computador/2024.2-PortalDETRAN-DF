@@ -43,8 +43,8 @@ A avaliação completa do grupo sobre a página pode ser lida na íntegra a segu
 ---
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `1.1`  | 06/11/2024 | Adição de informações | [Kaio Enzo](https://github.com/kaioenzo) |
-| `2.0` | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-site-escolhido.md) feita. | [Kaio Enzo](https://github.com/kaioenzo)
+| Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
+|--------|------------|---------------------|----------------------------------------------|---------|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |[Kaio Enzo](https://github.com/kaioenzo)|
+| `1.1`  | 06/11/2024 | Adição de informações | [Kaio Enzo](https://github.com/kaioenzo) |[Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.2` | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-site-escolhido.md) feita. | [Kaio Enzo](https://github.com/kaioenzo)| [Luiza Maluf](https://github.com/LuizaMaluf)|

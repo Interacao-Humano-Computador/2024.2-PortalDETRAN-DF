@@ -74,7 +74,7 @@ Essa estratégia de verificação contínua, realizada de forma sincronizada com
 ---
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `2.0`  | 07/11/2024 | Descrição das metodologias do projeto | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
+|--------|------------|---------------------|----------------------------------------------|------------|
+| `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf) |[Márcio Henrique](https://github.com/DeM4rcio)|
+| `1.1`  | 07/11/2024 | Descrição das metodologias do projeto | [Luiza Maluf](https://github.com/LuizaMaluf) |[Márcio Henrique](https://github.com/DeM4rcio)|

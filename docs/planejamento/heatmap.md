@@ -14,6 +14,7 @@ O Heatmap pode ser visualizado a seguir:
 
 ![Heatmap](../assets/graficos/heatmap.png)
 
+_Fonte: Autores, 2024_
 
 ## __Referências Bibliográficas__
 
@@ -23,6 +24,6 @@ O Heatmap pode ser visualizado a seguir:
 ---
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 12/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
+|--------|------------|---------------------|----------------------------------------------|----------|
+| `1.0`  | 12/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |[Kaio Enzo](https://github.com/kaioenzo)|

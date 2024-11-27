@@ -10,6 +10,8 @@ Baseado nos métodos de avaliação heurística e teste de usabilidade, dois dos
 |[ANA - Agência Nacional de Águas](https://www.gov.br/ana/pt-br)|[Márcio Henrique](https://github.com/DeM4rcio)|
 |[Diário Oficial RN](https://www.diariooficial.rn.gov.br/dei/dorn3/)|[Márcio Henrique](https://github.com/DeM4rcio) e [Kaio enzo](https://github.com/kaioenzo)|
 
+_Fonte: Autores_
+
 OBS.: Dado a baixa lista de sites avaliados, o integrante Kaio motivou a ideia de avaliarmos o site do Diário Oficial RN posteriormente, com o propósito de abrir o leque de escolhas.
 
 ## __Compras Gov__
@@ -54,7 +56,7 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 ---
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `1.0`  | 06/11/2024 | inserção de sites avaliados | [Márcio Henrique](https://github.com/DeM4rcio) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
+|--------|------------|---------------------|----------------------------------------------|-----------|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |[Kaio Enzo](https://github.com/kaioenzo)|
+| `1.1`  | 06/11/2024 | inserção de sites avaliados | [Márcio Henrique](https://github.com/DeM4rcio) |[Kaio Enzo](https://github.com/kaioenzo)|

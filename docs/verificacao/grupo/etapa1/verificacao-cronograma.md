@@ -28,7 +28,7 @@ Cada item da lista de verificação aborda uma área específica do cronograma p
 |**Conformidade com o padrão**          | 12      | O artefato possui uma bibliografia/referência bibliográfica?                           | Não |                 |                        
 |                                       | 13      | O cronograma foi elaborado em tabelas?                                                 | Sim           |                 |
 
-_Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
@@ -55,7 +55,7 @@ A figura a seguir apresenta um gráfico com o percentual das respostas da lista 
 
 ![Percentual da verificação do cronograma](../../../assets/graficos/verf-cronograma1.png)
 
-_Fonte: [Luiza Maluf](https://github.com/LuizaMaluf)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
@@ -87,4 +87,4 @@ _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf)   |
-| `2.0`  | 10/11/2024 | Verificação do cronograma| [Luiza Maluf](https://github.com/LuizaMaluf)   |
+| `1.1`  | 10/11/2024 | Verificação do cronograma| [Luiza Maluf](https://github.com/LuizaMaluf)   |

@@ -58,7 +58,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou inco
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ffXojETagxbbjNC9XR9wZ-BflJ3qd-kDp4aT-z93R_Vs5qvZmX-eDrbsMAtgJlvYmL2I0JcacrkV/pubchart?oid=906034237&amp;format=interactive"></iframe>
 
-_Fonte: [Kaio Enzo](https://github.com/kaioenzo), 2024._
+_Autor: [Kaio Enzo](https://github.com/kaioenzo), 2024._
 
 </center>
 

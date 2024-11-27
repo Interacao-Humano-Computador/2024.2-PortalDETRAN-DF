@@ -20,6 +20,12 @@ O objetivo do projeto é fazer a avaliação de IHC do site [Diário Oficial do 
 
   </tr>
 </table>
+</center>
+
+
+## __Bibliografia__
+
+>Autores. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 27 nov. 2024._
 
 ---
 ## Histórico de versão
