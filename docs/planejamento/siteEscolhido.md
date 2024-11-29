@@ -1,42 +1,64 @@
 # __Site Escolhido__
+# **Site Escolhido**
 
-## __Introdução__
+## **Introdução**
 
 Esta página tem como objetivo apresentar o site escolhido para a realização do projeto de Interação Humano Computador. 
 
-Os estudantes do grupo escolheram alguns sites candidatos, e após uma primeira análise conjunta dos sites, foi escolhido o site do [Diário Oficial do Rio Grande do Norte](https://www.diariooficial.rn.gov.br/dei/dorn3/).
+Os estudantes do grupo escolheram alguns sites candidatos e, após uma primeira análise conjunta, foi inicialmente escolhido o site do [Diário Oficial do Rio Grande do Norte](https://www.diariooficial.rn.gov.br/dei/dorn3/).
 
-Contudo, após a [primeira enterga](../apresent/01.md), o grupo recebeu um retorno do professor indicando que seria melhor fazer uma outra escolha de site devido à dificuldade de ter acesso aos principais grupos de usuários do site. Portanto, após uma segunda análise em conjunto, foi escolhido o [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home) para ser o nosso objeto de estudo durante a disciplina.
+Contudo, após a [primeira entrega](../apresent/01.md), o grupo recebeu um retorno do professor indicando que seria melhor fazer outra escolha devido à dificuldade de acesso aos principais grupos de usuários do site. Após uma nova análise em conjunto, foi escolhido o [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home) como objeto de estudo da disciplina.
 
+---
 
-## __Critérios para escolha__
-- Site não muito complexo
-- Site com informações relevantes e públicas
-- Interface fora dos padrões
-- Disponibilidade de informações para análise
+## **Critérios para escolha**
+- Site não muito complexo.  
+- Site com informações relevantes e públicas.  
+- Interface fora dos padrões.  
+- Disponibilidade de informações para análise.  
 
-## __Motivacões de escolha__
-Baseados nos critérios comuns dos sites escolhidos, o site da Diário Oficial do Rio Grande do Norte foi escolhido. Com as motivações abaixo:
+---
 
-- Ser um site com informações públicas e relevantes, porém com uma interface fora dos padrões, o que pode dificultar a navegação dos usuários.
+## **Motivações de escolha**
+Com base nos critérios estabelecidos, o **Portal DETRAN-DF** foi escolhido por apresentar as seguintes características:  
 
-- Fácil acesso e não muito complexo, o que facilita a análise e a realização do projeto.
+- **Informações públicas e relevantes:** O site oferece serviços amplamente utilizados pelos cidadãos, como consulta de multas, agendamento de serviços e emissão de guias de pagamento.  
+- **Interface fora dos padrões:** A interface apresenta problemas de usabilidade e navegação, como menus pouco intuitivos e fluxos de interação que dificultam o uso, o que o torna um bom objeto de análise em um projeto de IHC.  
+- **Facilidade de acesso:** O site é de acesso público, permitindo que os membros do grupo realizem análises detalhadas sem barreiras ou restrições.  
+- **Relevância para o público-alvo:** Como se trata de um site amplamente utilizado por condutores e cidadãos do DF, há maior facilidade para observar ou simular o comportamento de usuários reais.  
 
+---
 
-## __Conclusão__
-A avaliação de IHC executada pelo grupo, pelas heurísticas de Nielsen, encontrou alguns tópicos a serem trabalhados, como por exemplo:
+## **Conclusão**
+A avaliação de IHC realizada pelo grupo, com base nas **heurísticas de Nielsen**, identificou alguns problemas críticos a serem abordados, como:
 
-### Liberdade e controle do usuário: A falta de controle sobre a navegação e a possibilidade de reverter ações.
-- O site não possui explicitamente uma forma de retroceder caso entre em uma página não deseja, é necessário voltar pelo botão do navegador e com chances ainda de não dar certo, tendo que sair do site e voltar novamente.
-- O site é pouco intuitivo, utilizando fotos como meios de navegação e algumas abas não são carregadas corretamente, tornando a experiência de navegação ruim e fazendo com que o usuário se perca facilmente.
+### **1. Liberdade e controle do usuário:**
+- **Problema:** Falta de controle e fluidez na navegação.  
+  - Em algumas páginas, o usuário precisa utilizar o botão de "voltar" do navegador, o que pode causar erros ou recarregamentos desnecessários.  
+  - Menus não apresentam uma hierarquia clara, dificultando o retorno às páginas anteriores ou ao menu principal.  
+- **Impacto:** Essa falta de liberdade torna a navegação confusa e aumenta o esforço cognitivo do usuário.  
 
-### Prevenção de Erros: A falta de indicação clara de ações válidas.
-- No campo de busca por data não é claro ao usuário que o filtro foi aplicado corretamente, ele somente mostra a mesma página independente do filtro de data aplicado
+### **2. Prevenção de erros:**
+- **Problema:** Falta de feedback claro para o usuário durante interações importantes.  
+  - Por exemplo, ao realizar uma busca por multas, o sistema não fornece uma mensagem clara de erro caso os dados estejam incorretos ou o resultado não seja encontrado.  
+- **Impacto:** O usuário pode acreditar que houve um problema técnico ou que o sistema não está funcionando.  
 
-A falta de opções claras de navegação e a ausência de feedback adequado sobre ações realizadas comprometem a experiência do usuário, tornando o site difícil de usar e frustrante em alguns pontos. A severidade dos problemas varia de alta a média, mostrando que o site precisa de melhorias para se tornar mais acessível e amigável ao usuário.
+### **3. Consistência e padrões:**
+- **Problema:** A interface utiliza nomenclaturas e elementos visuais inconsistentes.  
+  - Exemplo: Botões com diferentes estilos para funções semelhantes.  
+- **Impacto:** Dificulta a compreensão das ações disponíveis, especialmente para usuários menos experientes.
 
+### **4. Feedback do sistema:**
+- **Problema:** O site apresenta pouca resposta visual após interações do usuário.  
+  - Por exemplo, o sistema não sinaliza se um filtro foi aplicado corretamente ou se há progresso em uma tarefa, como o carregamento de dados.  
+- **Impacto:** A ausência de feedback contribui para frustração e desorientação durante o uso.
 
-A avaliação completa do grupo sobre a página pode ser lida na íntegra a seguir:
+---
+
+### **Conclusão Final**
+A avaliação inicial realizada pelo grupo identificou problemas significativos de usabilidade no **Portal DETRAN-DF**, com severidade variando de média a alta. Esses problemas comprometem a experiência do usuário, especialmente em tarefas importantes, como consultar multas e agendar serviços. O projeto buscará aprofundar a análise e propor soluções concretas para melhorar a usabilidade e acessibilidade do site.
+
+A avaliação completa do grupo sobre a página pode ser lida na íntegra no documento abaixo:
 
 <iframe src="../Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 

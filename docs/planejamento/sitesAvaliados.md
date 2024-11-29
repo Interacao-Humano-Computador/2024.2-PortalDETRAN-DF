@@ -9,7 +9,7 @@ Baseado nos métodos de avaliação heurística e teste de usabilidade, dois dos
 |[Compras gov](https://www.gov.br/compras/pt-br)|[Luiza Maluf](https://github.com/LuizaMaluf) |
 |[ANA - Agência Nacional de Águas](https://www.gov.br/ana/pt-br)|[Márcio Henrique](https://github.com/DeM4rcio)|
 |[Diário Oficial RN](https://www.diariooficial.rn.gov.br/dei/dorn3/)|[Márcio Henrique](https://github.com/DeM4rcio) e [Kaio enzo](https://github.com/kaioenzo)|
-
+|[Portal Detran-DF](https://www.detran.df.gov.br/)|[Márcio Henrique](https://github.com/DeM4rcio)|
 _Fonte: Autores_
 
 OBS.: Dado a baixa lista de sites avaliados, o integrante Kaio motivou a ideia de avaliarmos o site do Diário Oficial RN posteriormente, com o propósito de abrir o leque de escolhas.
