@@ -14,6 +14,8 @@ nav:
     - Sites Avaliados: planejamento/sitesAvaliados.md
     - Site Escolhido: planejamento/siteEscolhido.md
     - Processo de Design: planejamento/processoDesign.md
+  - Análise de Requisitos:
+    - Aspectos éticos: analiseRequisitos/aspEticos.md
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
