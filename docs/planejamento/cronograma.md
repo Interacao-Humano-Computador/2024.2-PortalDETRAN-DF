@@ -240,7 +240,7 @@ Abaixo temos na tabela 10 contendo o planejado e executado da entrega final
 
 
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|------------|

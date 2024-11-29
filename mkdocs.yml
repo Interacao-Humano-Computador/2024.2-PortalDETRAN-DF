@@ -16,6 +16,7 @@ nav:
     - Processo de Design: planejamento/processoDesign.md
   - Análise de Requisitos:
     - Aspectos éticos: analiseRequisitos/aspEticos.md
+    - Perfil do Usuário: analiseRequisitos/perfilUsuario.md
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
@@ -28,7 +29,7 @@ nav:
               - Metodologia: verificacao/grupo/etapa1/verificacao-metodologia.md
       - Verificação do Grupo 01: 
           - Etapa 1:
-              - Planejamento da Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
+              - Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
 
 
   - Reuniões:

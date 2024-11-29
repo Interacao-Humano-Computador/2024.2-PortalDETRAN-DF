@@ -59,7 +59,7 @@ _Fonte: Autores._
 
 
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|------------|

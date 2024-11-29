@@ -27,7 +27,7 @@ de envio de propostas.
 
 <iframe src="../portalcompras.pdf" width="100%" height="600px"></iframe>
 
-##  ANA - Agência nacional de águas
+##  __ANA - Agência nacional de águas__
 
 O responsável por realizar essa avaliação foi o integrante Márcio Henrique, Esta avaliação tem como objetivo inspecionar os padrões definidos pelo design system do gov.br, e visualizando o uso para diversas camadas sociais. Sendo assim, foram avaliados as seguintes diretrizes Visibilidade do estado do sistema e Controle e liberdade do usuário . Na avaliação heurística, foram encontradas as seguintes violações e os seus respectivos graus de severidade:
 
@@ -38,7 +38,7 @@ O responsável por realizar essa avaliação foi o integrante Márcio Henrique, 
 <iframe src="../portalana.pdf" width="100%" height="600px"></iframe>
 
 
-## Diário oficial do RN
+## __Diário oficial do RN__
 
 O objetivo desta avaliação é identificar problemas de usabilidade que possam comprometer a experiência do usuário e sugerir melhorias para tornar o site mais fácil de usar, eficiente e intuitivo. Utilizando duas diretrizes da avaliação heurística de Nielsen, ( Controle do usuário e liberdade e Prevenção de erros)
 
@@ -49,7 +49,7 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 
 <iframe src="../Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 
-## Portal DETRAN-DF
+## __Portal DETRAN-DF__
 
 Após a primeira entrega da disciplina de IHC, recebmos um feedback do professor aconselhando a procura de outro site para podermos trabalhar encima nas questões de IHC. Nesse sentido, foi feita uma avaliação do site do Portal DETRAN-DF a fim de identificar problemas de usabilidade.
 

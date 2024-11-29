@@ -79,7 +79,7 @@ _Fonte: Elaborado por [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 ---
 
 ## Histórico de versão
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `1.1`  | 09/11/2024 | Verificação do processo design | [Márcio Henrique](https://github.com/DeM4rcio) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisores |
+|--------|------------|---------------------|----------------------------------------------|-----------|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) |
+| `1.1`  | 09/11/2024 | Verificação do processo design | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf) |
