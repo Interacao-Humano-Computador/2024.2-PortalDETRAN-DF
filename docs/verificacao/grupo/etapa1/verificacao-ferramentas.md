@@ -91,7 +91,7 @@ _Fonte: Adaptado de [Gabriel Campello](https://github.com/G16C), 2023._
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `1.1`  | 11/11/2024 | Verificação das ferramentas | [Kaio Enzo](https://github.com/kaioenzo) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisores |
+|--------|------------|---------------------|----------------------------------------------|--------|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |  [Kaio Enzo](https://github.com/kaioenzo) |
+| `1.1`  | 11/11/2024 | Verificação das ferramentas | [Kaio Enzo](https://github.com/kaioenzo) | [Luiza Maluf](https://github.com/LuizaMaluf) |

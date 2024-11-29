@@ -84,7 +84,7 @@ _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: 
 ---
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf)   |
-| `1.1`  | 10/11/2024 | Verificação do cronograma| [Luiza Maluf](https://github.com/LuizaMaluf)   |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor |
+|--------|------------|---------------------|----------------------------------------------|-----|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf)   | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)   |
+| `1.1`  | 10/11/2024 | Verificação do cronograma| [Luiza Maluf](https://github.com/LuizaMaluf)   | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)|

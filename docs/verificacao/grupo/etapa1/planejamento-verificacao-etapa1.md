@@ -129,7 +129,7 @@ _Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensi
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| `1.1`  | 09/11/2024 | Documentação do planejamento | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor |
+|--------|------------|---------------------|----------------------------------------------|---------|
+| `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)  |
+| `1.1`  | 09/11/2024 | Documentação do planejamento | [Luiza Maluf](https://github.com/LuizaMaluf) |[Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf) |

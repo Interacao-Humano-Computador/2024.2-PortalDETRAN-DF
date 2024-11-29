@@ -69,7 +69,7 @@ _Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensi
 
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 13/11/2024 | Verificação do Grupo 01. | [Kaio Enzo](https://github.com/kaioenzo) |
-| `1.1`  | 13/11/2024 | Correção de referência. | [Kaio Enzo](https://github.com/kaioenzo) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisores |
+|--------|------------|---------------------|----------------------------------------------|-----------|
+| `1.0`  | 13/11/2024 | Verificação do Grupo 01. | [Kaio Enzo](https://github.com/kaioenzo) | [Márcio Henrique](https://github.com/DeM4rcio) |
+| `1.1`  | 13/11/2024 | Correção de referência. | [Kaio Enzo](https://github.com/kaioenzo) | [Márcio Henrique](https://github.com/DeM4rcio) |

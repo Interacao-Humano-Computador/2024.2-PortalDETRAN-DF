@@ -69,6 +69,6 @@ _Fonte: Adaptado de [Gabriel Campello](https://github.com/G16C), 2023._
 
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 11/11/2024 | Verificação dos sites avaliados | [Kaio Enzo](https://github.com/kaioenzo) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Reisores |
+|--------|------------|---------------------|----------------------------------------------|----------|
+| `1.0`  | 11/11/2024 | Verificação dos sites avaliados | [Kaio Enzo](https://github.com/kaioenzo) | [Luiza Maluf](https://github.com/LuizaMaluf) |

@@ -22,7 +22,7 @@ _Fonte: Autores, 2024_
 
 
 ---
-## Histórico de versão
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|----------|

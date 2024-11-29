@@ -74,7 +74,7 @@ Dessa forma, após a correção, o autor dessa verificação irá revisar se as 
 ---
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf)   | 
-| `1.1`  | 09/11/2024 | Verificação do Site escolhido | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisoes |
+|--------|------------|---------------------|----------------------------------------------|----------|
+| `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) | 
+| `1.1`  | 09/11/2024 | Verificação do Site escolhido | [Luiza Maluf](https://github.com/LuizaMaluf)|  [Márcio Henrique](https://github.com/DeM4rcio) |

@@ -55,6 +55,6 @@ Até a presente data, não foi identificado nenhuma inconsistência com as infor
 ---
 
 ## __Histórico de versão__
-| Versão |    Data    |      Descrição      |             Autor(es)                        |
-|--------|------------|---------------------|----------------------------------------------|
-| `1.0`  | 10/11/2024 | Verificação da Metodologia | [Márcio Henrique](https://github.com/DeM4rcio) |
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisores |
+|--------|------------|---------------------|----------------------------------------------|-----------|
+| `1.0`  | 10/11/2024 | Verificação da Metodologia | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf) |
