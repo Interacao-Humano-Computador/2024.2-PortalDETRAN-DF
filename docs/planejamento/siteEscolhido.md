@@ -75,3 +75,4 @@ A avaliação completa do grupo sobre a página pode ser lida na íntegra no doc
 | `1.1`  | 06/11/2024 | Adição de informações | [Kaio Enzo](https://github.com/kaioenzo) |[Luiza Maluf](https://github.com/LuizaMaluf)|
 | `1.2` | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-site-escolhido.md) feita. | [Kaio Enzo](https://github.com/kaioenzo)| [Luiza Maluf](https://github.com/LuizaMaluf)|
 | `2.0`| 28/11/ | Mudança do site escolhido |  [Luiza Maluf](https://github.com/LuizaMaluf)  | [Kaio Enzo](https://github.com/kaioenzo)|
+| `2.1`| 28/11/ | Avaliação do site escolhido |  [Márcio Henrique](https://github.com/DeM4rcio)  | [Kaio Enzo](https://github.com/kaioenzo)|

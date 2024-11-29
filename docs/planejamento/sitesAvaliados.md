@@ -12,7 +12,7 @@ Baseado nos métodos de avaliação heurística e teste de usabilidade, dois dos
 |[Portal Detran-DF](https://www.detran.df.gov.br/)|[Márcio Henrique](https://github.com/DeM4rcio)|
 _Fonte: Autores_
 
-OBS.: Dado a baixa lista de sites avaliados, o integrante Kaio motivou a ideia de avaliarmos o site do Diário Oficial RN posteriormente, com o propósito de abrir o leque de escolhas.
+OBS.: Dado a baixa lista de sites avaliados, o integrante Kaio motivou a ideia de avaliarmos o site do Diário Oficial RN posteriormente, com o propósito de abrir o leque de escolhas. Entretando devido o pouco contato de perfis que utilizam esse sistema, foi decidido trocarmos para um serviço ao público como o Detran.
 
 ## __Compras Gov__
 
@@ -53,6 +53,13 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 
 Após a primeira entrega da disciplina de IHC, recebmos um feedback do professor aconselhando a procura de outro site para podermos trabalhar encima nas questões de IHC. Nesse sentido, foi feita uma avaliação do site do Portal DETRAN-DF a fim de identificar problemas de usabilidade.
 
+Problemas identificados:
+* Falta de clareza em menus e campos de busca para tarefas específicas.
+* Informações importantes (como o agendamento de CNH) estão difíceis
+de localizar.
+* O excesso de links em algumas páginas confunde os usuários.
+
+<iframe src="../avaliaçãoportaldetrandf.pdf" width="100%" height="600px"></iframe>
 
 
 ## __Referências Bibliográficas__
@@ -66,3 +73,4 @@ Após a primeira entrega da disciplina de IHC, recebmos um feedback do professor
 |--------|------------|---------------------|----------------------------------------------|-----------|
 | `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |[Kaio Enzo](https://github.com/kaioenzo)|
 | `1.1`  | 06/11/2024 | inserção de sites avaliados | [Márcio Henrique](https://github.com/DeM4rcio) |[Kaio Enzo](https://github.com/kaioenzo)|
+| `1.2`  | 06/11/2024 | inserção de site Detran | [Márcio Henrique](https://github.com/DeM4rcio) |[Kaio Enzo](https://github.com/kaioenzo)|
