@@ -2,7 +2,11 @@
 
 ## __Introdução__
 
-Esta página tem como objetivo apresentar o site escolhido para a realização do projeto de Interação Humano Computador. Os estudantes do grupo escolheram alguns sites candidatos, e após uma análise conjunta dos sites, foi escolhido o site do [Diário Oficial do Rio Grande do Norte](https://www.diariooficial.rn.gov.br/dei/dorn3/).
+Esta página tem como objetivo apresentar o site escolhido para a realização do projeto de Interação Humano Computador. 
+
+Os estudantes do grupo escolheram alguns sites candidatos, e após uma primeira análise conjunta dos sites, foi escolhido o site do [Diário Oficial do Rio Grande do Norte](https://www.diariooficial.rn.gov.br/dei/dorn3/).
+
+Contudo, após a [primeira enterga](../apresent/01.md), o grupo recebeu um retorno do professor indicando que seria melhor fazer uma outra escolha de site devido à dificuldade de ter acesso aos principais grupos de usuários do site. Portanto, após uma segunda análise em conjunto, foi escolhido o [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home) para ser o nosso objeto de estudo durante a disciplina.
 
 
 ## __Critérios para escolha__
@@ -48,3 +52,4 @@ A avaliação completa do grupo sobre a página pode ser lida na íntegra a segu
 | `1.0`  | 04/11/2024 | Criação do página | [Luiza Maluf](https://github.com/LuizaMaluf) |[Kaio Enzo](https://github.com/kaioenzo)|
 | `1.1`  | 06/11/2024 | Adição de informações | [Kaio Enzo](https://github.com/kaioenzo) |[Luiza Maluf](https://github.com/LuizaMaluf)|
 | `1.2` | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-site-escolhido.md) feita. | [Kaio Enzo](https://github.com/kaioenzo)| [Luiza Maluf](https://github.com/LuizaMaluf)|
+| `2.0`| 28/11/ | Mudança do site escolhido |  [Luiza Maluf](https://github.com/LuizaMaluf)  | [Kaio Enzo](https://github.com/kaioenzo)|

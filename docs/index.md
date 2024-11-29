@@ -1,13 +1,13 @@
 <center>
-# __Diário Oficial do Rio Grande do Norte__
+# __Portal DETRAN - DF__
 
-![Bandeira do Rio Grande do Norte](assets/Brasão_do_Rio_Grande_do_Norte.svg.png)
+![Logo Detran](assets/logoDetran.png)
 
 </center>
 
 Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 08 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 2º semestre de 2024. 
 
-O objetivo do projeto é fazer a avaliação de IHC do site [Diário Oficial do Rio Grande do Norte](https://www.diariooficial.rn.gov.br/dei/dorn3/) e, aplicando os conceitos aprendidos em classe, sugerir melhorias em sua interface.
+O objetivo do projeto é fazer a avaliação de IHC do site [Portal DETRAN - DF](https://portal.detran.df.gov.br/#/home) e, aplicando os conceitos aprendidos em classe, sugerir melhorias em sua interface.
 
 <center>
 ## __Equipe__
@@ -34,5 +34,6 @@ O objetivo do projeto é fazer a avaliação de IHC do site [Diário Oficial do 
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 04/11/2024 | Criação do git page | [Luiza Maluf](https://github.com/LuizaMaluf) |
 | `1.1`  | 06/11/2024 | Adição de membro | [Kaio Enzo](https://github.com/kaioenzo) |
+| `2.0`  | 28/11/2024 | Mudança do site estudado | [Luiza Maluf](https://github.com/LuizaMaluf) |
 
 </center>

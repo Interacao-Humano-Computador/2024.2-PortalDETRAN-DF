@@ -41,8 +41,8 @@ nav:
 theme:
   name: material
   language: pt
-  logo: assets/Brasão_do_Rio_Grande_do_Norte.svg.png
-  favicon: assets/Brasão_do_Rio_Grande_do_Norte.svg.png
+  logo: assets/logoDetran.png
+  favicon: assets/logoPequena.png
 
   font:
     text: "Open Sans"
@@ -55,12 +55,14 @@ theme:
 
   palette:
       - scheme: default
-        primary: white
+        primary: blue
+        accent: light blue
         toggle:
           icon: material/lightbulb
           name: Switch to dark mode
       - scheme: slate
-        primary: black
+        primary: blue
+        accent: light blue
         toggle:
           icon: material/lightbulb-outline
           name: Switch to system preference
