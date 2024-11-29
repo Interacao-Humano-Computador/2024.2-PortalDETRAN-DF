@@ -49,6 +49,12 @@ O objetivo desta avaliação é identificar problemas de usabilidade que possam 
 
 <iframe src="../Avaliação_site_escolhido.pdf" width="100%" height="600px"></iframe>
 
+## Portal DETRAN-DF
+
+Após a primeira entrega da disciplina de IHC, recebmos um feedback do professor aconselhando a procura de outro site para podermos trabalhar encima nas questões de IHC. Nesse sentido, foi feita uma avaliação do site do Portal DETRAN-DF a fim de identificar problemas de usabilidade.
+
+
+
 ## __Referências Bibliográficas__
 
 >_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
