@@ -20,6 +20,7 @@ nav:
     - Análise de tarefas:
         - Análise Hierárquica de Tarefas: analiseRequisitos/analise_tarefas/HTA.md
         - KLM: analiseRequisitos/analise_tarefas/KLM.md
+    - Princípios Gerais: analiseRequisitos/principiosGerais.md
     - Características Gerais: analiseRequisitos/caracGerais.md
   - Verificação:
       - Verificação do Grupo:
