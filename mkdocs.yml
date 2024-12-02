@@ -17,6 +17,9 @@ nav:
   - Análise de Requisitos:
     - Aspectos éticos: analiseRequisitos/aspEticos.md
     - Perfil do Usuário: analiseRequisitos/perfilUsuario.md
+    - Análise de tarefas:
+        - Análise Hierárquica de Tarefas: analiseRequisitos/analise_tarefas/HTA.md
+        - KLM: analiseRequisitos/analise_tarefas/KLM.md
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
@@ -121,4 +124,4 @@ theme:
     - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
+    
