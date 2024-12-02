@@ -66,6 +66,7 @@ _Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensi
 
 >Melo, Arthur de. Planejamento da Verificação da Etapa 1 do Grupo 2. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>. Acesso em: 8 nov, 2024._
 
+---
 
 ## __Histórico de versão__
 
