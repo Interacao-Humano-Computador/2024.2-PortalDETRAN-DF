@@ -4,7 +4,7 @@
 
 O __Perfil de Usuário__, segundo [Barbosa e Silva (2011, p.174 e p.175)](referencias/perfilUsuario01.png) é uma etapa essencial no desenvolvimento de sistemas e produtos, pois permite compreender quem são os usuários e quais objetivos eles desejam alcançar. Esse processo vai além de uma simples identificação; ele oferece insights fundamentais para direcionar o design e priorizar características que atendam às necessidades reais dos usuários. Além disso, a definição de perfis auxilia no recrutamento de participantes para futuras atividades, como análises e avaliações, garantindo um desenvolvimento iterativo e centrado no usuário.
 
-Por meio da coleta de dados específicos — como experiência, nível de instrução e tarefas desempenhadas —, é possível agrupar os usuários em categorias relevantes. Essas informações, devidamente organizadas e priorizadas, ajudam a garantir que o produto final seja efetivo, acessível e alinhado às expectativas de quem irá utilizá-lo, promovendo uma experiência significativa e satisfatória.
+Segundo [Barbosa e Silva (2011, p.140)](referencias/perfilUsuario02.png), a ativide essencial no desenvolvimento de um produto de qualidade é entender quem são seus usuários. Por meio da coleta de dados específicos — como experiência, nível de instrução e tarefas desempenhadas —, é possível agrupar os usuários em categorias relevantes. Essas informações, devidamente organizadas e priorizadas, ajudam a garantir que o produto final seja efetivo, acessível e alinhado às expectativas de quem irá utilizá-lo, promovendo uma experiência significativa e satisfatória.
 
 ## __Metodologia__
 
@@ -158,3 +158,4 @@ Autor: Kaio Enzo
 |--------|------------|---------------------|----------------------------------------------|---------|
 | `1.0`  | 06/11/2024 | Adição da parte conceitual do Perfil de Usuário. | [Luiza Maluf](https://github.com/LuizaMaluf)||
 | `2.0`  | 02/12/2024 | Adição de resultados. | [Kaio Enzo](https://github.com/kaioenzo)||
+| `2.1`  | 02/12/2024 | Adição de referência. | [Kaio Enzo](https://github.com/kaioenzo)||
