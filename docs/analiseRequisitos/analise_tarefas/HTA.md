@@ -31,7 +31,7 @@ Nessa tarefa, o usuário possui o objetivo de acessar os dados de sua CNH . A fi
 
 <font size="3"><b>Figura 2</b> - Diagrama HTA de consulta CNH.</font>
 
-![Notação diagrama HTA](../analiseTarefas/visualizarCNH.png)
+![Notação diagrama HTA](../../assets/analise_tarefas/visualizarCNH.png)
 
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
@@ -62,7 +62,7 @@ Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos servi
 
 <font size="3"><b>Figura 3</b> - Diagrama HTA de agendamento de serviço.</font>
 
-![Notação diagrama HTA](../analiseTarefas/Agendamentoserviço.png)
+![Notação diagrama HTA](../../assets/analise_tarefas/Agendamentoservico.png)
 
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
@@ -91,7 +91,7 @@ Nessa tarefa, o usuário possui o objetivo de consultar os dados veícular  . A 
 
 <font size="3"><b>Figura 4</b> - Diagrama HTA de informações veícular.</font>
 
-![Notação diagrama HTA](../analiseTarefas/veicular.png)
+![Notação diagrama HTA](../../assets/analise_tarefas/veicular.png)
 
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
@@ -124,7 +124,7 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 
 <font size="3"><b>Figura 5</b> - Diagrama HTA de tranferencia veicular.</font>
 
-![Notação diagrama HTA](../analiseTarefas/transferencia.png)
+![Notação diagrama HTA](../../assets/analise_tarefas/transferencia.png)
 
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>

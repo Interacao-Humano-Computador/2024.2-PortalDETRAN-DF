@@ -32,7 +32,7 @@ Os participantes da inspeção realizada são:
 | Possui opção de contraste de cores? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:15 |
 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:16 |
 
-*Fonte: Adaptado de [Plano de Ensino da disciplina](http://../../../assets/documentos/Plano_de_Ensino.pdf)*
+*Fonte: Adaptado de [Plano de Ensino da disciplina](../../../../assets/documentos/Plano_de_Ensino.pdf)*
 
 ### **Desenvolvimento do Projeto**
 
@@ -48,7 +48,7 @@ Os participantes da inspeção realizada são:
 | A gravação da reunião do grupo. | **Não** |  |
 | Vídeo de apresentação na categoria “não listado” no youtube? | **Sim** | versão: `1.0`\- 13/11/2024 às 21:08 |
 
-*Fonte: Adaptado de [Plano de Ensino da disciplina](http://../../../assets/documentos/Plano_de_Ensino.pdf)*
+*Fonte: Adaptado de [Plano de Ensino da disciplina](../../../../assets/documentos/Plano_de_Ensino.pdf)*
 
 ### **Conteúdo da Disciplina**
 
@@ -59,7 +59,7 @@ Os participantes da inspeção realizada são:
 | A descrição dos modelos de processos de design é clara e fácil de entender? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:18 |
 | As informações apresentadas estão diretamente relacionadas ao contexto de design de IHC (Interação Humano-Computador) e são aplicáveis ao projeto? | **SIM** | versão: `1.0`\- 13/11/2024 às 18:19 |
 
-_Fonte: [Plano de Ensino da disciplina](../../../assets/documentos/Plano_de_Ensino.pdf)<a id="anchor_1" href="#REF"><sup>1</sup></a> e [Luiza Maluf](https://github.com/LuizaMaluf)<a id="REF" href="#lista-de-verificação"><sup>2</sup></a>_
+_Fonte: [Plano de Ensino da disciplina](../../../../assets/documentos/Plano_de_Ensino.pdf)<a id="anchor_1" href="#REF"><sup>1</sup></a> e [Luiza Maluf](https://github.com/LuizaMaluf)<a id="REF" href="#lista-de-verificação"><sup>2</sup></a>_
 
 ---
 ## __Bibliografia__
