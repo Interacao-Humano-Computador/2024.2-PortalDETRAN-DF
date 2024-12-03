@@ -57,9 +57,6 @@ _Fonte: 2023, Bilheteria Digital ._
 
 Tendo a tabela 2 como base, serão feitas considerações no tópico subsequente.
 
-## Problemas encontrados
-
-
 
 ## Acompanhamento
 

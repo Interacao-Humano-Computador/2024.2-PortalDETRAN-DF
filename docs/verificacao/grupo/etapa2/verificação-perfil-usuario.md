@@ -3,7 +3,7 @@ Este documento detalha a verificação do artefato "Perfil de Usuário" (versão
 
 ## Metodologia
 
-A verificação foi conduzida com base em uma checklist estruturada, elaborada a partir das recomendações de Barbosa e Silva sobre Interação Humano-Computador. A checklist abrange tanto aspectos formais da documentação quanto o conteúdo do perfil, visando garantir que este esteja completo, consistente e represente de forma precisa os usuários do sistema.. Na tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato.
+A verificação foi conduzida com base em uma checklist estruturada, elaborada a partir das recomendações de Barbosa e Silva sobre Interação Humano-Computador. A checklist abrange tanto aspectos formais da documentação quanto o conteúdo do perfil, visando garantir que este esteja completo, consistente e represente de forma precisa os usuários do sistema.. Na tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato.Cada item pode ser classificado como **não se aplica**, **sim**, **não** e **incompleto**.
 
 
 Na tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no desenvolvimento em que haverá uma discussão a respeito de alguns itens. Para tal será utilizado o ID da pergunta.
@@ -48,13 +48,10 @@ Apesar da detalhadamento das informações, o artefato se encontra bem completo 
  
 ## Bibliografia
 
->Weschenfelder, Salles. PESQUISA DE IDENTIFICAÇÃO DE PERFIL E DE
-SATISFAÇÃO DOS USUÁRIOS DO CENTRO INTEGRADO DE
-CULTURA (CIC) COMO FONTE DE INFORMAÇÃO PARA
-GESTÃO PÚBLICA DA CULTURA. Canais do Congresso Brasileiro de Estratégia - CEBEO, [S.l.],2016. Disponível em: https://anaiscbeo.emnuvens.com.br/cbeo/article/download/215/207. Acesso em: 03 dez. 2024.
+>Weschenfelder, Salles. PESQUISA DE IDENTIFICAÇÃO DE PERFIL E DESATISFAÇÃO DOS USUÁRIOS DO CENTRO INTEGRADO DE CULTURA (CIC) COMO FONTE DE INFORMAÇÃO PARA GESTÃO PÚBLICA DA CULTURA. Canais do Congresso Brasileiro de Estratégia - CEBEO, [S.l.],2016. Disponível em: https://anaiscbeo.emnuvens.com.br/cbeo/article/download/215/207. Acesso em: 03 dez. 2024.
 
 ## Referências Bibliográficas
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+>  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
