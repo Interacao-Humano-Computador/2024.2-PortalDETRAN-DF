@@ -151,7 +151,7 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 
 ## __Bibliografia__
 
-> RIBEIRO, Bruno; GOBBI, Lucas. Aspectos éticos. Repositório do Grupo Branco Central do Brasil da disciplina Interação Humano-Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos>. Acesso em: 28/11/2024_
+> RIBEIRO, Bruno; GOBBI, Lucas. Aspectos éticos. Repositório do Grupo Branco Central do Brasil da disciplina Interação Humano-Computador da Universidade de Brasília, 2023. _Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas?id=an%c3%a1lise-hier%c3%a1rquica-de-tarefas>. Acesso em: 28/11/2024_
 
 ## __Referências Bibliográficas__
 

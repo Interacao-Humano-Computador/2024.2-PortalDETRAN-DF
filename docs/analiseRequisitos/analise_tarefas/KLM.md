@@ -14,6 +14,7 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 ###  Transferência de Veículo
 
 **Tabela 2**
+
 | Etapa                 | Descrição                                          | Tipo de Operação | Tempo Estimado (s) |
 |-----------------------|--------------------------------------------------|------------------|---------------------|
 | **1.1**              | Acessar o site do Detran                          | [P] Apontar      | 1.1                 |
