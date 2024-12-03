@@ -149,6 +149,8 @@ _Figura 8: Preenchimento do Formulário de Inclusão de gravame_
 
 Fonte: [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home)
 
+---
+
 _Figura 9: Após atualização de página do Formulário de Inclusão de gravame_
 
 ![Promoção da eficiencia do usuário](referencias/principiosGerais/promEfici01.png)
@@ -205,7 +207,7 @@ Fonte: [Portal de Serviços do Detran](https://portal.maestro.detran.df.gov.br/a
 
 <center>
 
-_Figura 12: Consulta das restrições de um veículp_
+_Figura 12: Consulta das restrições de um veículo_
 
 ![Visibilidade e Reconhecimento](referencias/principiosGerais/feedback.png)
 
@@ -258,14 +260,14 @@ Além disso, existe o conceito de Projeto para Erros, que segundo  [Barbosa e Si
 
 Essa abordagem reforça a ideia de que interfaces bem projetadas aprendem com erros potenciais e os transformam em oportunidades de aprendizado e melhoria contínua para os usuários.
 
-## _Bibliografia_
+## __Bibliografia__
 
 > <https://portal.detran.df.gov.br/#/home>
 
 
-## _Referências Bibliográficas_
+## __Referências Bibliográficas__
 
->BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
 
 ---
 
