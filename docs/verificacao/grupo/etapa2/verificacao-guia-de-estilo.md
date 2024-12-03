@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo é avaliar a conformidade do artefato com as diretrizes de identificação de necessidades dos usuários e requisitos de IHC. Dentro do contexto acerca do artefato de Guia de Estilo da Etapa 2.
+O objetivo é avaliar a conformidade do artefato com as diretrizes de identificação de necessidades dos usuários e requisitos de IHC. Dentro do contexto acerca do artefato de Guia de Estilo da Etapa 3.
 
 ## Metodologia
 
