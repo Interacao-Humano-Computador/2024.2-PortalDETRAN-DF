@@ -19,7 +19,7 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 
 ## Análise de tarefas
 
-Dentro das tarefas com método HTA,  foram escolhidos o acesso ao CNH do usuário, Agendar um serviço, como renovação de CNH e Encontrar informações sobre prazos para o pagamento de IPVA.
+Dentro das tarefas com método HTA,  foram escolhidos o acesso ao CNH do usuário, Agendar um serviço e transfência veícular.
 
 ### Acesso ao CNH do usuário
 
@@ -34,7 +34,7 @@ Nessa tarefa, o usuário possui o objetivo de acessar os dados de sua CNH . A fi
 ![Notação diagrama HTA](../../assets/analise_tarefas/visualizarCNH.png)
 
 
-<font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Kaio Enzo](https://github.com/kaioenzo).</p></font>
 
 
 
@@ -48,7 +48,7 @@ Nessa tarefa, o usuário possui o objetivo de acessar os dados de sua CNH . A fi
 |       1.2.login        | **input**: dados de login.<br>**feedback**: usuário redirecionado para a página dos serviços mais acessados.<br> **plano**: abrir área de CNH. <br>|
 | 2.Acesso a CNH | **input**: apertar na opção de consulta CNH.<br>**feedback**: usuário redirecionado para a página listando a pontuação da carteira<br>                                                                                   |
 
-<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</font>
+<font size="3">Autor: [Kaio Enzo](https://github.com/kaioenzo).</font>
 
 </center>
 
@@ -65,7 +65,7 @@ Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos servi
 ![Notação diagrama HTA](../../assets/analise_tarefas/Agendamentoservico.png)
 
 
-<font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Luiza Maluf](https://github.com/LuizaMaluf).</p></font>
 
 
 
@@ -77,44 +77,12 @@ Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos servi
 |      1.Cadastro de agendamento     | **input**: dados da solicitação. Sendo possível solicitar a maioria dos serviços prestados pelo Detran <br>**feedback**: usuário será direcionado para a marcação da dia e data do serviço solicitado<br> **plano**: confirmação via celular.                                        |
                                                                                   |
 
-<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</font>
+<font size="3">Autor: [Luiza Maluf](https://github.com/LuizaMaluf).</font>
 
 </center>
 
-### Informações veícular
 
-
-Nessa tarefa, o usuário possui o objetivo de consultar os dados veícular  . A figura 4 apresenta o diagrama HTA relativa a tarefa, já a tabela 3 representa o mesmo HTA em tabela.
-
-<center>
-
-
-<font size="3"><b>Figura 4</b> - Diagrama HTA de informações veícular.</font>
-
-![Notação diagrama HTA](../../assets/analise_tarefas/veicular.png)
-
-
-<font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
-
-
-
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de visualização de pedidos.</p></font>
-
-|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
-| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0.Visualizar CNH   |                                                                                                                                                                                                         |
-|      1.Cadastro      | **input**: dados de cadastro.<br>**feedback**: usuário redirecionado para a página de confirmação de email.<br> **plano**: confirmar conta e depois fazer login.                                        |
-|     1.1.Confirmar perfil     | **feedback**: após confirmar o email o usuário é liberado para fazer login.                                                                                                                             |
-|       1.2.login        | **input**: dados de login.<br>**feedback**: usuário redirecionado para a página dos serviços mais acessados.<br> **plano**: abrir área de veiculos. <br>|
-| 2.Veículos | **input**: apertar na opção de veículo débitos ou opção de veículo restrição.<br>**feedback**: usuário redirecionado para a página esclhida<br> **plano** opção única de veículos                                                                         |
-| 3.1.Veículos Débitos| **feedback**: usuário redirecionado para a página esclhida, listando os debitos dos veículos em seu nome<br>                                                                        |
-| 3.2.Veículos Restrição| **feedback**: usuário redirecionado para a restrição, listando os veículos em seu nome<br>                                                                        |
-
-<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</font>
-
-</center>
-
-### Tranferência de veículo
+### Transferência de veículo
 
 
 Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 apresenta o diagrama HTA relativa a tarefa, já a tabela 4 representa o mesmo HTA em tabela.

@@ -29,25 +29,6 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 
 >Conclusão: A ação de transferência de veículo é prática, com poucos passos claros. No entanto, o tempo pode variar significativamente devido à complexidade dos dados a serem preenchidos no formulário. Para maior eficiência, é recomendável que o usuário tenha todas as informações previamente organizadas.
 
----
-
-###  Informações Veiculares
-
-**Tabela 3**
-
-| Etapa                 | Descrição                                          | Tipo de Operação | Tempo Estimado (s) |
-|-----------------------|--------------------------------------------------|------------------|---------------------|
-| **2.1**              | Acessar o site do Detran                          | [P] Apontar      | 1.1                 |
-| **2.2**              | Clicar no menu "Veículos"                         | [K] Clique       | 0.2                 |
-| **2.3**              | Selecionar a opção "Informações veiculares"       | [P] Apontar      | 1.1                 |
-| **2.4**              | Digitar a placa do veículo                        | [K] Digitar      | 5                   |
-| **2.5**              | Confirmar a consulta                              | [K] Clique       | 0.2                 |
-| **Total Aproximado** |                                                    |                  | ~7-8 segundos       |
-
-<font size="3"><p style="text-align: center">_Autor: [Márcio Henrique](https://github.com/DeM4rcio)<a id=anchor_1 href="#REF1"></a></p></font>
-
->Conclusão: A consulta de informações veiculares é uma das ações mais rápidas e diretas. Seu tempo reduzido e baixa complexidade tornam esta tarefa altamente eficiente, especialmente para usuários que realizam consultas frequentes.
-
 
 ---
 
@@ -64,7 +45,7 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 | **3.5**              | Confirmar o agendamento                           | [K] Clique       | 0.2                 |
 | **Total Aproximado** |                                                    |                  | ~20-35 segundos     |
 
-<font size="3"><p style="text-align: center">_Autor: [Márcio Henrique](https://github.com/DeM4rcio)<a id=anchor_1 href="#REF1"></a></p></font>
+<font size="3"><p style="text-align: center">_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)<a id=anchor_1 href="#REF1"></a></p></font>
 
 >Conclusão: O agendamento de serviço exige um tempo moderado devido ao preenchimento de dados específicos. Apesar disso, a organização prévia das informações e a interface amigável podem tornar o processo mais ágil. É uma solução vantajosa para evitar filas presenciais.
 
@@ -84,7 +65,7 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 | **4.5**              | Confirmar o login                                 | [K] Clique       | 0.2                 |
 | **Total Aproximado** |                                                    |                  | ~7-8 segundos       |
 
-<font size="3"><p style="text-align: center">_Autor: [Márcio Henrique](https://github.com/DeM4rcio)<a id=anchor_1 href="#REF1"></a></p></font>
+<font size="3"><p style="text-align: center">_Autor: [[Kaio Enzo](https://github.com/kaioenzo)<a id=anchor_1 href="#REF1"></a></p></font>
 
 > Conclusão:O acesso à CNH é rápido e eficiente, desde que o usuário tenha seus dados de login disponíveis. Este processo oferece uma maneira conveniente de acessar informações pessoais sem depender de atendimento presencial.
 
