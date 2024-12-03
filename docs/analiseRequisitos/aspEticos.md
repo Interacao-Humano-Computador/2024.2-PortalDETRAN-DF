@@ -62,4 +62,4 @@ Assinatura do entrevistado:
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 06/11/2024 | Adição de informações dos aspectos éticos. | [Luiza Maluf](https://github.com/LuizaMaluf)||
+| `1.0`  | 28/11/2024 | Adição de informações dos aspectos éticos. | [Luiza Maluf](https://github.com/LuizaMaluf)||
