@@ -17,6 +17,7 @@ nav:
   - Análise de Requisitos:
     - Aspectos éticos: analiseRequisitos/aspEticos.md
     - Perfil do Usuário: analiseRequisitos/perfilUsuario.md
+    - Personas: analiseRequisitos/personas.md
     - Análise de tarefas:
         - Análise Hierárquica de Tarefas: analiseRequisitos/analise_tarefas/HTA.md
         - KLM: analiseRequisitos/analise_tarefas/KLM.md
