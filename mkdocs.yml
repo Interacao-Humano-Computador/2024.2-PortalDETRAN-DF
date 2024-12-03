@@ -20,8 +20,10 @@ nav:
     - Análise de tarefas:
         - Análise Hierárquica de Tarefas: analiseRequisitos/analise_tarefas/HTA.md
         - KLM: analiseRequisitos/analise_tarefas/KLM.md
+    - Metas de usabilidades: analiseRequisitos/metasUsabilidade.md
     - Características Gerais: analiseRequisitos/caracGerais.md
     - Princípios Gerais: analiseRequisitos/principiosGerais.md
+
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
@@ -32,6 +34,8 @@ nav:
               - Sites Avaliados: verificacao/grupo/etapa1/verificacao-sites-avaliados.md
               - Site Escolhido: verificacao/grupo/etapa1/verificacao-site-escolhido.md
               - Metodologia: verificacao/grupo/etapa1/verificacao-metodologia.md
+          - Etapa 2:
+              - Verificação da Etapa 2: verificacao/grupo/etapa2/verificacao-etapa2.md
       - Verificação do Grupo 01: 
           - Etapa 1:
               - Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
