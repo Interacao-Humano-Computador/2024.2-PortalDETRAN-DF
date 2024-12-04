@@ -1,11 +1,11 @@
-## Introdução
+## __Introdução__
 
 Segundo [(Barbosa e Silva, 2011, p.181)](referencias/personas1.png), o uso de personas é uma técnica para representar grupos finais de usuários, durante discussões de design, mantendo os colaboradores focados no mesmo alvo. As personas são definidas principalmente pelos seus objetivos, e ao longo do refinamento das personas, convergimos para um perfil plausível.
 
-## Metodologia
+## __Metodologia__
 A partir dos resultados colhidos da análise do perfil de usuário, buscamos caracterizar os usuários em grupos de personas.
 
-## Perfil do usuário
+## __Perfil do usuário__
 A partir do perfil dos usuários coletados na análise de requisitos, foram identificados os seguintes grupos de usuários:
 
 <center>
@@ -21,10 +21,10 @@ Tabela 1 : Perfil do usuário
 Autor: Kaio Enzo
 </center>
 
-## Personas
+## __Personas__
 A partir do perfil do usuário, e da análise de tarefas, definimos o elenco de personas com 2 personas primárias e uma anti-persona. A imagem das personas foi gerada pelo site This Person Doest Not Exist.
 
-### Persona 1: Mariana
+### __Persona 1: Mariana__
 <center>
 Tabela 2: Persona 1
 
@@ -41,9 +41,9 @@ Tabela 2: Persona 1
 | Requisitos | Mariana busca um portal intuitivo e de fácil navegação, que permita realizar consultas e agendamentos de forma rápida e eficiente. |
 | Expectativas | Mariana espera encontrar informações claras e precisas, além de um atendimento de qualidade em caso de dúvidas ou problemas. |
 
-Fonte: Kaio Enzo
+_Fonte: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)_
 
-Autor: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)
+_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
 
 </center>
 
@@ -65,9 +65,9 @@ Tabela 3: Persona 2
 | Requisitos |  Guilherme gostaria de obter informações claras e precisas sobre a aprovação de sua CNH. |
 | Expectativas | Guilhermme espera ter feedbacks rápidos e precisos sobre a aprovação de sua CNH. |
 
-Fonte: Kaio Enzo
+_Fonte: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)_
 
-Autor: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)
+_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
 </center>
 
 
@@ -88,9 +88,9 @@ Tabela 4: Anti-Persona 1
 | Requisitos |  Benedito busca um portal intuitivo, com ícones grandes, informações claras e poucos passos para realizar consultas e agendamentos. |
 | Expectativas | Benedito espera encontrar informações claras e precisas, além de um atendimento de qualidade em caso de dúvidas ou problemas. |
 
-Fonte: Kaio Enzo
+_Fonte: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)_
 
-Autor: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)
+_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
 
 </center>
 

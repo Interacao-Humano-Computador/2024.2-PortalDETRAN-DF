@@ -94,8 +94,8 @@ _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: 
 ---
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        | Reisor(es)|
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|-----------|
 | `1.0`  | 04/11/2024 | Criação do página   | [Luiza Maluf](https://github.com/LuizaMaluf) |[Márcio Henrique](https://github.com/DeM4rcio)|
 | `1.1`  | 06/11/2024 | Descrição dos processos de design | [Luiza Maluf](https://github.com/LuizaMaluf) |[Márcio Henrique](https://github.com/DeM4rcio)|
-| `1.2`  | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-processo-design.md) feita. | [Márcio Henrique](https://github.com/DeM4rcio) |
+| `1.2`  | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-processo-design.md) feita. | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf) |

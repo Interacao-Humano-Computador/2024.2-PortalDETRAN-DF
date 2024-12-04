@@ -110,4 +110,4 @@ A Inspeção envolve o exame minucioso de aspectos-chave da plataforma, como usa
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        | Revisores |
 |--------|------------|---------------------|----------------------------------------------|-----------|
-| `1.0`  | 01/12/2024 | Descrição das características Gerais do Projeto. | [Luiza Maluf](https://github.com/LuizaMaluf) |  |
+| `1.0`  | 01/12/2024 | Descrição das características Gerais do Projeto. | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) |

@@ -1,5 +1,7 @@
+# __Análise Hierarquica de Tarefas__
 
-## Introdução
+## __Introdução__
+
 Uma **análise de tarefas** é utilizada para se ter um entendimento sobre qual é o tra-
 balho dos usuários, como eles o realizam e por quê.
 Em IHC, a análise de tarefas pode ser utilizada nas três atividades habituais: para
@@ -7,21 +9,23 @@ análise da situação atual (apoiada ou não por um sistema computacional), par
 (re)design de um sistema computacional ou para a avaliação do resultado de uma
 intervenção que inclua a introdução de um (novo) sistema computacional. [Barbosa e Silva (2011, p.191)](../referencias/analise_tarefas.png)
 
-## HTA – Hierarchical Task AnalysisHTA
+## __HTA – Hierarchical Task AnalysisHTA__
 
 Portando devido as complexidades de certas tarefas e não repetitivas, é utilizado uma abstração do conceito de análise de tarefas.
 Chamado de A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis), Ela ajuda a relacionar o que
 as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. Ela pode ser representada por uma tabela, ou por um diagrama, com a notação conforme a figura 1.
+<center>
 
 **Figura 1**
 ![HTA](../referencias/diagrama_tarefas.png)
 <font size="3"><p style="text-align: center">_Fonte: BARBOSA e SILVA, 2011._<a id=anchor_1 href="#REF1"></a></p></font>
+</center>
 
-## Análise de tarefas
+## __Análise de tarefas__
 
 Dentro das tarefas com método HTA,  foram escolhidos o acesso ao CNH do usuário, Agendar um serviço e transfência veícular.
 
-### Acesso ao CNH do usuário
+### __Acesso ao CNH do usuário__
 
 
 Nessa tarefa, o usuário possui o objetivo de acessar os dados de sua CNH . A figura 2 apresenta o diagrama HTA relativa a tarefa, já a tabela 1 representa o mesmo HTA em tabela.
@@ -52,7 +56,7 @@ Nessa tarefa, o usuário possui o objetivo de acessar os dados de sua CNH . A fi
 
 </center>
 
-### Agendamento de serviço
+### __Agendamento de serviço__
 
 
 Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos serviços prestados pelo Detran . A figura 3 apresenta o diagrama HTA relativa a tarefa, já a tabela 2 representa o mesmo HTA em tabela.
@@ -82,7 +86,7 @@ Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos servi
 </center>
 
 
-### Transferência de veículo
+### __Transferência de veículo__
 
 
 Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 apresenta o diagrama HTA relativa a tarefa, já a tabela 4 representa o mesmo HTA em tabela.
@@ -131,4 +135,4 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| 
