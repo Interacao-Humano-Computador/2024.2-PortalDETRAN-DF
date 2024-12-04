@@ -28,7 +28,7 @@ O integrante do grupo [Márcio Henrique](https://github.com/DeM4rcio) será resp
 | [Márcio Henrique](https://github.com/DeM4rcio) | Avaliador |
 |  [Luiza Maluf](https://github.com/LuizaMaluf)   |  Revisora  |
 
-_Fonte: [Márcio Henrique](https://github.com/DeM4rcio), 2024_
+_Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2024_
 
 
 </center>
@@ -39,7 +39,7 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 <center>
 
-**Tabela 2** - Checklist de Verificação.
+**Tabela 2** - Lista de Verificação.
 
 |  ID  | Descrição                                                                                              | Avaliação  |                Observações                |
 | :--: | ------------------------------------------------------------------------------------------------------ | :--------: | :---------------------------------------: |

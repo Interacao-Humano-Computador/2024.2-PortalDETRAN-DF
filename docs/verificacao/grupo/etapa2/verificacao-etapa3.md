@@ -1,10 +1,11 @@
-Planejamento da Verificação da Etapa 2
+# __Planejamento de Verificação da Etapa 1__
 
 ## __Introdução__
 
 Neste espaço, apresentamos o planejamento detalhado para a verificação de artefatos de desenvolvimento, fundamentado nas teorias e metodologias de Bruno Silva e Simone Barbosa.
 
-A qualidade e consistência dos artefatos são fundamentais para o sucesso de projetos de software, e esse planejamento busca estabelecer um processo criterioso de verificação.  
+A qualidade e consistência dos artefatos são fundamentais para o sucesso de projetos de software, e esse planejamento busca estabelecer um processo criterioso de verificação. 
+
 
 ## __Objetivo__
 
@@ -29,12 +30,30 @@ A seguir está relacionado os responsáveis por cada verificação, assim como s
 
 | Artefato | Revisor |
 |---------|----------|
-| []() | []() |
+| [Metas de Usabilidade](/docs/analiseRequisitos/metasUsabilidade.md) | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| [Características Gerais](/docs/analiseRequisitos/caracGerais.md) | [Márcio Henrique](https://github.com/DeM4rcio) |
+| [Guia de Estilos](/docs/analiseRequisitos/guiaEstilos.md) | [Márcio Henrique](https://github.com/DeM4rcio) |
+| [Princípios Gerais](/docs/analiseRequisitos/principiosGerais.md) | [Kaio Enzo](https://github.com/kaioenzo) |
 
-_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
+
 </center>
 
-## __Desenvolvimento do projeto__
+
+## __Cronograma__
+
+A verificação será realizada durante o dia 03/12/2024 por cada integrante do grupo e registrada na página de documentação do projeto.
+
+## __Resultados__
+
+O resultado da verificação de cada artefato pode ser acessado com os links a seguir:
+
+- [Metas de Usabilidade](/docs/analiseRequisitos/metasUsabilidade.md)
+- [Características Gerais](/docs/analiseRequisitos/caracGerais.md)
+- [Guia de Estilos](/docs/analiseRequisitos/guiaEstilos.md)
+- [Princípios Gerais](/docs/analiseRequisitos/principiosGerais.md)
+
+
+## __Lista de Verificação__
 
 <center>
 **Tabela 2** - Lista de verificação do desenvolvimento do projeto base.
@@ -53,11 +72,23 @@ atividades definidas etc). | | |
 | A gravação da reunião do grupo. | | |
 | Vídeo de apresentação na categoria “não listado” no youtube? | | |
 
-_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
+_Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
+
 </center>
+
+
+
+
+## __Referências Bibliográficas__
+
+> _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+
+> SALES, B. André. Plano de Ensino FIHC 022024 Turma 01 v1. Brasília, DF, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 3 dez, 2024.
+
+---
 
 ## __Histórico de versão__
 
-| Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
-|--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
+| Versão |    Data    |      Descrição      |             Autor(es)                        |
+|--------|------------|---------------------|----------------------------------------------|
+| 1.0  | 02/12/2024 | Descrição dos Princípios Gerais do Projeto. | [Luiza Maluf](https://github.com/LuizaMaluf) |
