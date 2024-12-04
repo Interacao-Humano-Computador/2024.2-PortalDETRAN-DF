@@ -1,5 +1,6 @@
+# __KLM__
 
-## Introdução
+## __Introdução__
 
 A técnica KLM, a mais básica dentro da família GOMS, restringe a análise a um conjunto pré-determinado de operadores primitivos. Esses operadores representam ações simples como digitar, clicar, mover o mouse, desenhar e processar informações mentalmente. Além disso, o modelo considera o tempo de resposta do sistema como um fator relevante no desempenho do usuário.[Barbosa e Silva (2011, p.198)](../referencias/klm.png). Na tabela 1 é mostrado o tempo de execução de cada ação.
 
@@ -7,11 +8,11 @@ A técnica KLM, a mais básica dentro da família GOMS, restringe a análise a u
 ![HTA](../referencias/tabelaKLM.png)
 <font size="3"><p style="text-align: center">_Fonte: BARBOSA e SILVA, 2011._<a id=anchor_1 href="#REF1"></a></p></font>
 
-## Motivo de Escolha
+## __Motivo de Escolha__
 
 A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de avaliar de maneira detalhada o tempo necessário para realizar tarefas específicas, permitindo identificar ações que otimizam a interação do usuário com sistemas.Para tarefas no site do Detran, o uso do KLM oferece insights claros sobre quais ações são mais rápidas, quais exigem mais esforço cognitivo ou físico, e como melhorar a experiência geral de navegação e interação para o usuário. Nas tabelas 2 a 5 é listado os KLM's de cada tarefa.
 
-###  Transferência de Veículo
+###  __Transferência de Veículo__
 
 **Tabela 2**
 
@@ -32,7 +33,7 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 
 ---
 
-### Agendamento de Serviço
+### __Agendamento de Serviço__
 
 **Tabela 4**
 
@@ -52,7 +53,7 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 
 ---
 
-### Acesso à CNH do Usuário
+### __Acesso à CNH do Usuário__
 
 **Tabela 5**
 
@@ -82,4 +83,4 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| [Kaio Enzo](https://github.com/kaioenzo)|

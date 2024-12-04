@@ -156,6 +156,6 @@ Autor: Kaio Enzo
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 06/11/2024 | Adição da parte conceitual do Perfil de Usuário. | [Luiza Maluf](https://github.com/LuizaMaluf)||
-| `2.0`  | 02/12/2024 | Adição de resultados. | [Kaio Enzo](https://github.com/kaioenzo)||
-| `2.1`  | 02/12/2024 | Adição de referência. | [Kaio Enzo](https://github.com/kaioenzo)||
+| `1.0`  | 06/11/2024 | Adição da parte conceitual do Perfil de Usuário. | [Luiza Maluf](https://github.com/LuizaMaluf)| [Márcio Henrique](https://github.com/DeM4rcio)|
+| `2.0`  | 02/12/2024 | Adição de resultados. | [Kaio Enzo](https://github.com/kaioenzo)|[Márcio Henrique](https://github.com/DeM4rcio)|
+| `2.1`  | 02/12/2024 | Adição de referência. | [Kaio Enzo](https://github.com/kaioenzo)|[Márcio Henrique](https://github.com/DeM4rcio)|

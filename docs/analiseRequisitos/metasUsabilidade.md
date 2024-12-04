@@ -1,6 +1,10 @@
+# __Metas de Usabilidade__
+
+## __Introdução__
+
 Este documento descreve as metas de usabilidade para o portal do DETRAN-DF, baseadas. Segundo [Barbosa e Silva (2011, p.115)](referencias/usabilidade1.png), na fase da análise de requisitos são definidas as metas de usabilidades com base no perfil do usuário, análise de tarefas, características da plataforma, enquanto o guia de estilo funciona como um auxílio para a verificação durante o processo.
 
-## Plataforma
+## __Plataforma__
   A avaliação considerará o contexto de uso do portal em navegadores web modernos (Google Chrome, Firefox, Safari e Microsoft Edge).
 
 ## **Metas de Usabilidade:**
@@ -34,10 +38,14 @@ Requisitos de usabilidade:
 
 * **MU6 (Segurança/Satisfação - Adaptado):** O sistema deve fornecer notificações (ex: por email) sobre atualizações importantes em processos ou serviços solicitados pelo usuário, aumentando a transparência e a segurança.
 
-## Razão da escolha das metas de usabilidade
+## __Razão da escolha das metas de usabilidade__
 
-Escolher as metas de usabilidade certas é essencial para criar sistemas fáceis de usar e que funcionem bem.  Para isso, precisamos entender o que os usuários querem, o que o projeto precisa alcançar e quais as melhores práticas de design.  O tipo de sistema e os recursos disponíveis também influenciam essa escolha.  Basicamente, é um equilíbrio entre as necessidades dos usuários, os objetivos do projeto e o que é possível fazer.
-Além disso, a seleção das metas deve se basear em princípios e boas práticas de usabilidade, como as heurísticas de Nielsen.  Essas heurísticas, amplamente reconhecidas na área de Interação Humano-Computador (IHC), fornecem um conjunto de diretrizes para o design de interfaces usáveis, contribuindo para a definição de metas como facilidade de aprendizado e facilidade de recordação.
+Escolher as metas de usabilidade certas é essencial para criar sistemas fáceis de usar e que funcionem bem.  Para isso, precisamos entender o que os usuários querem, o que o projeto precisa alcançar e quais as melhores práticas de design.  O tipo de sistema e os recursos disponíveis também influenciam essa escolha.  
+
+Basicamente, é um equilíbrio entre as necessidades dos usuários, os objetivos do projeto e o que é possível fazer.
+Além disso, a seleção das metas deve se basear em princípios e boas práticas de usabilidade, como as heurísticas de Nielsen.  
+
+Essas heurísticas, amplamente reconhecidas na área de Interação Humano-Computador (IHC), fornecem um conjunto de diretrizes para o design de interfaces usáveis, contribuindo para a definição de metas como facilidade de aprendizado e facilidade de recordação.
 
 ## __Referências Bibliográficas__
 
@@ -48,4 +56,4 @@ Além disso, a seleção das metas deve se basear em princípios e boas prática
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
+| `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)| [Luiza Maluf](https://github.com/LuizaMaluf)|

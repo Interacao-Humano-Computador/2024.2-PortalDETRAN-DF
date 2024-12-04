@@ -2,7 +2,7 @@
 
 ## __Introdução__
 
-A análise de requisitos no contexto de IHC envolve mais do que a compreensão das necessidades dos usuários; ela exige um compromisso ético rigoroso. Durante o processo de levantamento de informações e interação com usuários, é fundamental respeitar os princípios éticos que asseguram a proteção e o bem-estar dos participantes, como privacidade, o anonimato e a confidencialidade das informações coletadas [(Barbosa e Silva, 2011, p.138 e p.139)](referencias/aspEticos01.png).
+A análise de requisitos no contexto de IHC envolve mais do que a compreensão das necessidades dos usuários; ela exige um compromisso ético rigoroso. Durante o processo de levantamento de informações e interação com usuários, é fundamental respeitar os princípios éticos que asseguram a proteção e o bem-estar dos participantes, como privacidade, o anonimato e a confidencialidade das informações coletadas [(Barbosa e Silva, 2011, p.138-139)](referencias/aspEticos01.png).
 
 Conforme destacado por [Barbosa e Silva (2011, p.139)](referencias/aspEticos02.png), as práticas éticas devem incluir a explicação clara dos objetivos da pesquisa, a descrição detalhada do papel dos participantes e a garantia de que os dados coletados sejam usados de maneira responsável e segura. 
 
@@ -62,4 +62,4 @@ Assinatura do entrevistado:
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 28/11/2024 | Adição de informações dos aspectos éticos. | [Luiza Maluf](https://github.com/LuizaMaluf)||
+| `1.0`  | 28/11/2024 | Adição de informações dos aspectos éticos. | [Luiza Maluf](https://github.com/LuizaMaluf)| [Márcio Henrique](https://github.com/DeM4rcio) |

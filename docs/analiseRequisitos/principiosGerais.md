@@ -271,8 +271,8 @@ Essa abordagem reforça a ideia de que interfaces bem projetadas aprendem com er
 
 ---
 
-## _Histórico de versão_
+## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        | Revisores |
 |--------|------------|---------------------|----------------------------------------------|-----------|
-| 1.0  | 02/12/2024 | Descrição dos Princípios Gerais do Projeto. | [Luiza Maluf](https://github.com/LuizaMaluf) |  |
+| 1.0  | 02/12/2024 | Descrição dos Princípios Gerais do Projeto. | [Luiza Maluf](https://github.com/LuizaMaluf) |  [Márcio Henrique](https://github.com/DeM4rcio)|

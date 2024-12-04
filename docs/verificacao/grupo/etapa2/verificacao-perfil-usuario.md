@@ -1,14 +1,14 @@
-## Introdução
+## __Introdução__
 Este documento detalha a verificação do artefato "Perfil de Usuário" (versão 1.0, 29/11/2023), desenvolvido pelo Grupo 2 para o projeto da Wikipédia. A análise seguirá a metodologia de inspeção de Fagan, utilizando uma checklist baseada nas diretrizes de Interação Humano-Computador de Barbosa e Silva. O objetivo é identificar e classificar possíveis falhas no perfil, garantindo sua qualidade e alinhamento com os princípios de IHC.
 
-## Metodologia
+## __Metodologia__
 
 A verificação foi conduzida com base em uma checklist estruturada, elaborada a partir das recomendações de Barbosa e Silva sobre Interação Humano-Computador. A checklist abrange tanto aspectos formais da documentação quanto o conteúdo do perfil, visando garantir que este esteja completo, consistente e represente de forma precisa os usuários do sistema.. Na tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato.Cada item pode ser classificado como **não se aplica**, **sim**, **não** e **incompleto**.
 
 
 Na tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no desenvolvimento em que haverá uma discussão a respeito de alguns itens. Para tal será utilizado o ID da pergunta.
 
-## Desenvolvimento
+## __Desenvolvimento__
 O artefato foi verificado e gerou os resultados da tabela 2, sendo possível identificar os tópicos faltantes e/ou concluídos.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font> 
@@ -40,21 +40,23 @@ A escolha do grupo de utilizar o artigo feito pela CBEO - Congresso brasileiro d
 
 
 
-## Sugestões e melhorias
+## __Sugestões e melhorias__
 
 Apesar da detalhadamento das informações, o artefato se encontra bem completo e as pesquisas utilizadas são um diferencial . De sugestões e melhorias ficam:
 
 * Especificar a proporção dos usuários em cada perfil;
  
-## Bibliografia
+## __Bibliografia__
 
 >Weschenfelder, Salles. PESQUISA DE IDENTIFICAÇÃO DE PERFIL E DESATISFAÇÃO DOS USUÁRIOS DO CENTRO INTEGRADO DE CULTURA (CIC) COMO FONTE DE INFORMAÇÃO PARA GESTÃO PÚBLICA DA CULTURA. Canais do Congresso Brasileiro de Estratégia - CEBEO, [S.l.],2016. Disponível em: https://anaiscbeo.emnuvens.com.br/cbeo/article/download/215/207. Acesso em: 03 dez. 2024.
 
-## Referências Bibliográficas
+## __Referências Bibliográficas__
 >  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## Histórico de Versões
+---
+
+## __Histórico de Versões__
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 03/12/2024 | Criação do documento |  [DeM4rcio](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)|
+ `1.0` | 03/12/2024 | Verificação do perfil do usuário |  [DeM4rcio](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)|

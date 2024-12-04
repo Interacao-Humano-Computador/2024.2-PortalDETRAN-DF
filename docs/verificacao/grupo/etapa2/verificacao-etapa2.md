@@ -1,4 +1,4 @@
-Planejamento da Verificação da Etapa 2
+# __Planejamento da Verificação da Etapa 2__
 
 ## __Introdução__
 
@@ -29,7 +29,9 @@ A seguir está relacionado os responsáveis por cada verificação, assim como s
 
 | Artefato | Revisor |
 |---------|----------|
-| []() | []() |
+| Perfil do Usuário | Márcio Henrique |
+| Aspéctos Éticos | Márico Henrique |
+| Análise de Tarefas | Kaio Enzo |
 
 _Autor: [Kaio Enzo](https://github.com/kaioenzo)_
 </center>
@@ -41,19 +43,19 @@ _Autor: [Kaio Enzo](https://github.com/kaioenzo)_
 
 | Itens de Verificação | Resposta | Versão, Data e Hora da avaliação |
 |----------------------|----------|----------------------------------|
-| O histórico de versão padronizado? |  | |
-| O(s) autor(es) e o(s) revisor(es) para cada artefato? | | |
-| Referências bibliográficas e/ou bibliografia em todos os artefatos? | | |
-|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | | |
-| Um texto fazendo uma introdução dos artefatos? | | |
+| O histórico de versão padronizado? | Sim | `1.0`, 03/12/2024 , 22h40 |
+| O(s) autor(es) e o(s) revisor(es) para cada artefato? | | `1.0`, 03/12/2024 , 22h42 |
+| Referências bibliográficas e/ou bibliografia em todos os artefatos? | | `1.0`, 03/12/2024 , 22h44 |
+|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | |`1.0`, 03/12/2024 , 22h46  |
+| Um texto fazendo uma introdução dos artefatos? | | `1.0`, 03/12/2024 , 22h49 |
 | O cronograma executado com quem realizou cada artefato/atividade com as datas de
-início e fim da construção/realização do artefato/atividade. | | |
+início e fim da construção/realização do artefato/atividade. | | `1.0`, 03/12/2024 , 22h52 |
 Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo,
-atividades definidas etc). | | |
-| A gravação da reunião do grupo. | | |
-| Vídeo de apresentação na categoria “não listado” no youtube? | | |
+atividades definidas etc). | |`1.0`, 03/12/2024 , 22h56  |
+| A gravação da reunião do grupo. | | `1.0`, 03/12/2024 , 23h01 |
+| Vídeo de apresentação na categoria “não listado” no youtube? | | `1.0`, 03/12/2024 , 23h03 |
 
-_Fonte: Plano de ensino.
+_Fonte: Plano de ensino._
 </center>
 
 ## __Referência bibliográfica__
