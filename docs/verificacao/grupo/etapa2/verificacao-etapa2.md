@@ -66,3 +66,4 @@ _Fonte: Plano de ensino.
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
 | `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
+| `1.1`  | 02/12/2024 | Correção do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
