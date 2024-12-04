@@ -25,6 +25,7 @@ nav:
     - Características Gerais: analiseRequisitos/caracGerais.md
     - Princípios Gerais: analiseRequisitos/principiosGerais.md
     - Guia de estilos: analiseRequisitos/guiaEstilos.md
+    - Cenários: analiseRequisitos/cenarios.md
 
   - Verificação:
       - Verificação do Grupo:
