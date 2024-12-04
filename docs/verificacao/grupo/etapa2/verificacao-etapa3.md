@@ -60,23 +60,19 @@ O resultado da verificação de cada artefato pode ser acessado com os links a s
 
 | Itens de Verificação | Resposta | Versão, Data e Hora da avaliação |
 |----------------------|----------|----------------------------------|
-| O histórico de versão padronizado? |  | |
-| O(s) autor(es) e o(s) revisor(es) para cada artefato? | | |
-| Referências bibliográficas e/ou bibliografia em todos os artefatos? | | |
-|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | | |
-| Um texto fazendo uma introdução dos artefatos? | | |
-| O cronograma executado com quem realizou cada artefato/atividade com as datas de
-início e fim da construção/realização do artefato/atividade. | | |
-Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo,
-atividades definidas etc). | | |
-| A gravação da reunião do grupo. | | |
-| Vídeo de apresentação na categoria “não listado” no youtube? | | |
+| O histórico de versão padronizado? | Não | Falta incluir os revisores | `2.0` , 03/12/2024, 21H20 |
+| O(s) autor(es) e o(s) revisor(es) para cada artefato? | Não | `2.0` , 03/12/2024, 21H22  |
+| Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | `2.0` , 03/12/2024, 21H24  |
+| As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim| `2.0` , 03/12/2024, 21H26 |
+| Um texto fazendo uma introdução dos artefatos? | Sim | `2.0` , 03/12/2024, 21H29  |
+| O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Não| `2.0` , 03/12/2024, 21H32  |
+| Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Não| `2.0` , 03/12/2024, 21H34 |
+| A gravação da reunião do grupo. | Não| `2.0` , 03/12/2024, 21H37 |
+| Vídeo de apresentação na categoria “não listado” no youtube? |Não| `2.0` , 03/12/2024, 21H40  |
 
 _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 </center>
-
-
 
 
 ## __Referências Bibliográficas__

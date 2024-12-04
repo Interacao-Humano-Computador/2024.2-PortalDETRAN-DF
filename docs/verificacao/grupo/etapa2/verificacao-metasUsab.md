@@ -78,6 +78,32 @@ __Figura 1__ - Gráfico do resultado da verificação.
 
 ![Gráfico do resultado da verificação](graficometas.png)
 
-
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
+
+## __Correção__
+
+Como proposto por Fagan, os integrantes do grupo que foram responsáveis pela produção do artefato que devem fazer as devidas correções propostas pela verificação.
+
+Dessa forma, após a correção, o autor dessa verificação irá revisar se as correçõe s foram feitas da forma correta. 
+
+<center>
+
+| Data da Correção | Descrição | Responsável(eis) | Revisor(es) | Status |
+|------------------|-----------|------------------|-------------|--------|
+| 21/12/2024       | Correções sugeridas | [Kaio Enzo](https://github.com/kaioenzo) | [Luiza Maluf](https://github.com/LuizaMaluf) |  |
+
+</center>
+
+
+## __Referências Bibliográficas__
+
+_BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
+
+---
+## __Histórico de versão__
+
+| Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor |
+|--------|------------|---------------------|----------------------------------------------|-----|
+| `1.0`  | 03/12/2024 | Verificação das metas de usabilidade | [Luiza Maluf](https://github.com/LuizaMaluf)   | [Kaio Enzo](https://github.com/kaioenzo) |
