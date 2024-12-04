@@ -53,11 +53,17 @@ atividades definidas etc). | | |
 | A gravação da reunião do grupo. | | |
 | Vídeo de apresentação na categoria “não listado” no youtube? | | |
 
-_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
+_Fonte: Plano de ensino.
 </center>
+
+## __Referência bibliográfica__
+
+> [Plano de Ensino da Disciplina - 2024](../../../assets/documentos/Plano_de_Ensino.pdf)
+
 
 ## __Histórico de versão__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
 | `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
+| `1.1`  | 02/12/2024 | Correção do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
