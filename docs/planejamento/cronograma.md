@@ -75,6 +75,21 @@ Abaixo temos na tabela 3 contendo o planejado e executado da entrega 2
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio). Fonte: [Plano de Ensino, 2024](https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf)</p></font>
 
+### Executado
+
+**tabela 4** - executado da entrega 2
+
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
+|------------|---------------------------|--------------|---------|-----------|
+|Perfil do usuário| Início: 06/11 <br>Fim: 02/12|Kaio e Luiza|Início:03/12 <br>Fim: 03/12 |Márcio|
+|Aspectos Éticos de Pesquisas|Início:28/11 <br>Fim: 28/11 |Márcio| Início:02/11 <br>Fim:02/11 |Márcio|
+|Análise de Tarefas|Início: 01/12 <br>Fim: 01/12|Márcio|Início:02/12 <br>Fim:02/12|Luiza|
+|Personas|Início: 03/12 <br>Fim: 03/12|Kaio|Início:03/12 <br>Fim: 03/12|Márcio|
+|Gravar apresentação|Início: 03/12 <br>Fim:03/12|Kaio, Márcio e Luiza|Início:03/12 <br>Fim:03/12|Kaio|
+|Correção após apresentação| Início:05/12 <br>Fim:10/12 |Márcio|Início: 10/12 <br>Fim:12/12| Kaio |
+
+<font size="3"><p style="text-align: center">Autor: [Kaio Enzo](https://github.com/kaioenzo). Fonte: [Plano de Ensino, 2024](https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf)</p></font>
+
 
 ## __Entrega 3 - Princípios gerais do projeto__
 
@@ -84,7 +99,9 @@ Abaixo temos na tabela 4 contendo o planejado e executado da entrega 3
 ### Planejado
 <center>
 
-**tabela 4** - Planejamento da entrega 3
+### Executado
+
+**tabela 5** - Planejamento da entrega 3
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -99,6 +116,20 @@ Abaixo temos na tabela 4 contendo o planejado e executado da entrega 3
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio). Fonte: [Plano de Ensino, 2024](https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf)</p></font>
 
 
+**tabela 6** - executado da entrega 3
+</center>
+
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
+|------------|---------------------------|--------------|---------|-----------|
+|Desenvolvimento dos princípios do projeto| Início: 02/12 <br>Fim: 02/12|Luiza|Início:03/12 <br>Fim: 03/12 |Márcio|
+|Metas de usabildade|Início:02/12 <br>Fim: 02/12 |Kaio| Início:03/12 <br>Fim:03/12 |Luiza|
+|Guia de Estilo|Início: 02/12 <br>Fim: 03/12|Luiza|Início:03/12 <br>Fim:03/11|Márcio|
+|Características da plataforma para o projeto|Início: 02/11 <br>Fim: 02/12|Luiza|Início:03/12 <br>Fim: 03/12|Márcio|
+|Gravar apresentação|Início:03/12 <br>Fim:03/12|Kaio, Márcio e Luiza|Início:03/12 <br>Fim:03/12|Kaio|
+|Correção após apresentação| Início:06/12 <br>Fim:12/12 |Márcio|Início:12/12 <br>Fim:14/12| Kaio |
+
+<font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio). Fonte: [Plano de Ensino, 2024](https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf)</p></font>
+
 ## __Entrega 4__
 
 Abaixo temos na tabela 5 contendo o planejado e executado da entrega 4
@@ -107,7 +138,7 @@ Abaixo temos na tabela 5 contendo o planejado e executado da entrega 4
 ### Planejado
 <center>
 
-**tabela 5** - Planejamento da entrega 4
+**tabela 7** - Planejamento da entrega 4
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -131,7 +162,7 @@ Abaixo temos na tabela 6 contendo o planejado e executado da entrega 5
 ### Planejado
 <center>
 
-**tabela 6** - Planejamento da entrega 5
+**tabela 8** - Planejamento da entrega 5
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -152,7 +183,7 @@ Abaixo temos na tabela 7 contendo o planejado e executado da entrega 6
 ### Planejado
 <center>
 
-**tabela 7** - Planejamento da entrega 6
+**tabela 9** - Planejamento da entrega 6
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -174,7 +205,7 @@ Abaixo temos na tabela 8 contendo o planejado e executado da entrega 7
 ### Planejado
 <center>
 
-**tabela 8** - Planejamento da entrega 7
+**tabela 10** - Planejamento da entrega 7
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -197,7 +228,7 @@ Abaixo temos na tabela 9 contendo o planejado e executado da entrega 8
 ### Planejado
 <center>
 
-**tabela 9** - Planejamento da entrega 8
+**tabela 11** - Planejamento da entrega 8
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -217,7 +248,7 @@ Abaixo temos na tabela 9 contendo o planejado e executado da entrega 8
 Abaixo temos na tabela 10 contendo o planejado e executado da entrega final
 
 
-**tabela 10** - Planejamento da entrega final
+**tabela 12** - Planejamento da entrega final
 </center>
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -248,3 +279,5 @@ Abaixo temos na tabela 10 contendo o planejado e executado da entrega final
 | `1.1`  | 04/11/2024 | Definição do cronograma | [Márcio Henrique](https://github.com/DeM4rcio)   | [Kaio Enzo](https://github.com/kaioenzo) |
 | `1.2`  | 11/11/2024 | Correção do artefato com base na [verificação](../verificacao/grupo/etapa1/verificacao-cronograma.md) feita. | [Márcio Henrique](https://github.com/DeM4rcio)| [Kaio Enzo](https://github.com/kaioenzo)|
 | `1.3`  | 12/11/2024 | Acresentando todas as entregas | [Márcio Henrique](https://github.com/DeM4rcio)| [Kaio Enzo](https://github.com/kaioenzo)|
+[Márcio Henrique](https://github.com/DeM4rcio)| [Kaio Enzo](https://github.com/kaioenzo)|
+| `2.o`  | 03/11/2024 | Acresentando cronograma executado da entrega 2 e 3 | [Kaio Enzo](https://github.com/kaioenzo)| [Márcio Henrique](https://github.com/DeM4rcio)|
