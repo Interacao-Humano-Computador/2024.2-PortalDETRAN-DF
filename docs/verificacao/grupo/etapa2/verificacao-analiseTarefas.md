@@ -3,7 +3,7 @@
 Nessa seção será feito a verificação do artefato de análise de tarefas. Segundo [Barbosa e Silva (2011, p.196 e p.197)](../../../analiseRequisitos/referencias/analise_tarefas.png), a análise de tarefas é uma técnica que visa identificar o trabalho dos usuários, como eles o realizam e por quê.
 
 ## **Metodologia**
-Segundo [Barbosa e Silva (2011, p.197)](../../../analiseRequisitos/referencias/analise_tarefas2.png) as técnicas mais comuns temos a análise hierárquica de tarefas, GOMS, e o ConcurTaskTrees, sendo assim, a verificação será feita com base nessas técnicas. Uma lista de verificação com os aspectos mais importantes será utilizada para avaliar a qualidade do artefato, assim como, a lista de verificação base.
+Segundo [Barbosa e Silva (2011, p.197)](/../../analiseRequisitos/referencias/analise_tarefas2.png) as técnicas mais comuns temos a análise hierárquica de tarefas, GOMS, e o ConcurTaskTrees, sendo assim, a verificação será feita com base nessas técnicas. Uma lista de verificação com os aspectos mais importantes será utilizada para avaliar a qualidade do artefato, assim como, a lista de verificação base.
 
 <center>
 Tabela 1 - Verificação do artefato.

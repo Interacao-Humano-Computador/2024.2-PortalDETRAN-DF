@@ -1,4 +1,6 @@
-# Introdução
+Planejamento da Verificação da Etapa 2
+
+## __Introdução__
 
 Neste espaço, apresentamos o planejamento detalhado para a verificação de artefatos de desenvolvimento, fundamentado nas teorias e metodologias de Bruno Silva e Simone Barbosa.
 
