@@ -104,6 +104,5 @@ _Fonte: [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 19/06/2023 | Criação da página.     | [Douglas Alves](https://github.com/dougAlvs)     | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.1`  | 03/07/2023 | Adição do retrabalho.  | [Douglas Alves](https://github.com/dougAlvs)     | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.2`  | 05/07/2023 | Ajustes no retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
+| `1.0`  | 03/12/2024 | Criação da página.     | [Márcio Henqirue](https://github.com/De4Marco)     | [Kaio Enzo](https://github.com/kaioenzo) |
+| `1.1`  | 03/12/2024 | Correção da página.     | [Kaio Enzo](https://github.com/kaioenzo)    | [Márcio Henqirue](https://github.com/De4Marco) |
