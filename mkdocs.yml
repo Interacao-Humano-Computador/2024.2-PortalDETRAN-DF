@@ -53,6 +53,9 @@ nav:
               - Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
           - Etapa 2:
               - Verificação da Etapa 2: verificacao/grupo/grupo01/etapa2/verificacao-etapa2.md
+          - Etapa 3:
+              - guia de estilo: verificacao/grupo/grupo01/etapa3/guia-de-estilo.md
+              - caracteristicas gerais: verificacao/grupo/grupo01/etapa3/caracteristicas-gerais.md
 
   - Reuniões:
     - Ata 01: atas/01.md
