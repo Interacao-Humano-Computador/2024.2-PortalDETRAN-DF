@@ -1,3 +1,5 @@
+__Verificação da Etapa 3__
+
 ## **Introdução**
 Este artefato consiste em uma verificação por meio da inspeção do material produzido pelo Grupo 01. O Grupo 08 será responsável por realizar a inspeção do artefato do Grupo 01.
 
@@ -20,6 +22,17 @@ Os participantes da inspeção realizada são:
 
 A verificação será realizada durante o dia 04/12/2024 por cada integrante do grupo e registrada na página de documentação do projeto.
 
+## **Artefatos Revisados**
+
+<center>
+
+| Artefato | Versão | Responsável|
+|----------|--------|------------|
+|Princípios gerais de projeto | `1.0`| [Luiza Maluf](https://github.com/LuizaMaluf) |
+| Metas de usabilidade |`1.0`| [Luiza Maluf](https://github.com/LuizaMaluf) |
+| Guia de estilo | `1.0`| [Márcio Henrique](https://github.com/DeM4rcio) |
+| Características da plataforma para o projeto | `1.0`| [Márcio Henrique](https://github.com/DeM4rcio) |
+
 ## __Resultados__
 
 O resultado da verificação de cada artefato pode ser acessado com os links a seguir:
@@ -30,6 +43,7 @@ O resultado da verificação de cada artefato pode ser acessado com os links a s
 - [Princípios Gerais](/docs/analiseRequisitos/principiosGerais.md)
 
 
+</center>
 
 ## **Lista de Verificação**
 
@@ -52,20 +66,9 @@ O resultado da verificação de cada artefato pode ser acessado com os links a s
 
 </center>
 
-## **Artefatos Revisados**
 
-<center>
 
-| Artefato | Versão | Responsável|
-|----------|--------|------------|
-|Princípios gerais de projeto | `1.0`| [Luiza Maluf](https://github.com/LuizaMaluf) |
-| Metas de usabilidade |`1.0`| [Luiza Maluf](https://github.com/LuizaMaluf) |
-| Guia de estilo | `1.0`| [Márcio Henrique](https://github.com/DeM4rcio) |
-| Características da plataforma para o projeto | `1.0`| [Márcio Henrique](https://github.com/DeM4rcio) |
-
-</center>
-
-## **Princípios Gerais de Projeto**
+### **Princípios Gerais de Projeto**
 
 
 <center>
@@ -88,7 +91,7 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
-## **Metas de Usabilidade**
+### **Metas de Usabilidade**
 
 <center>
 
@@ -107,29 +110,23 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
-## **Metas de Características Geris**
+### **Metas de Características Geris**
 
 <center>
 
 |  ID  | Descrição  | Avaliação  | Observações |
 | :--: |----------- | :--------: | :---------------------------------------: |
-|  1   | O artefato possui introdução?  |    Sim    | - |
-|  2   | O artefato possui uma bibliografia/referência bibliográfica?  |    Sim  | - |
-|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim    |                                         |
-|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não se aplica |  O artefato não contém tabelas/imagens  |
-|  5   | Todos os textos estão na norma padrão? |    Sim     | -|
-|      | **Características gerais**  | |  |
-|  6  | São identificadas as características da plataforma para o projeto ?|      Sim      |- |
-|  7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ? |      Sim      |         -          |
-|  8  | São identificadas as limitações da plataforma ? |      Não     |         -          |
-|  9  | São identificadas as funcionalidades da plataforma ? |  Sim   |  |
-| 10  | São identificadas as tecnologias que foram utilizadas ?|      Sim      |         -          |  
+|  1  | São identificadas as características da plataforma para o projeto ?|      Sim      |- |
+|  2  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ? |      Sim      |         -          |
+|  3  | São identificadas as limitações da plataforma ? |      Não     |         -          |
+|  4  | São identificadas as funcionalidades da plataforma ? |  Sim   |  |
+| 5  | São identificadas as tecnologias que foram utilizadas ?|      Sim      |         -          |  
 
 _Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2024._
 
 </center>
 
-## **Guia de Estilos**
+### **Guia de Estilos**
 
 <center>
 
