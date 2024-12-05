@@ -33,6 +33,8 @@ A verificação será realizada durante o dia 04/12/2024 por cada integrante do 
 | Guia de estilo | `1.0`| [Márcio Henrique](https://github.com/DeM4rcio) |
 | Características da plataforma para o projeto | `1.0`| [Márcio Henrique](https://github.com/DeM4rcio) |
 
+</center>
+
 ## __Resultados__
 
 O resultado da verificação de cada artefato pode ser acessado com os links a seguir:
@@ -42,8 +44,6 @@ O resultado da verificação de cada artefato pode ser acessado com os links a s
 - [Guia de Estilos](/docs/analiseRequisitos/guiaEstilos.md)
 - [Princípios Gerais](/docs/analiseRequisitos/principiosGerais.md)
 
-
-</center>
 
 ## **Lista de Verificação**
 
