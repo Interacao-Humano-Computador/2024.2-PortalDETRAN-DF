@@ -35,15 +35,6 @@ A verificação será realizada durante o dia 04/12/2024 por cada integrante do 
 
 </center>
 
-## __Resultados__
-
-O resultado da verificação de cada artefato pode ser acessado com os links a seguir:
-
-- [Metas de Usabilidade](/docs/analiseRequisitos/metasUsabilidade.md)
-- [Características Gerais](/docs/analiseRequisitos/caracGerais.md)
-- [Guia de Estilos](/docs/analiseRequisitos/guiaEstilos.md)
-- [Princípios Gerais](/docs/analiseRequisitos/principiosGerais.md)
-
 
 ## **Lista de Verificação**
 
