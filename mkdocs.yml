@@ -51,6 +51,8 @@ nav:
       - Verificação do Grupo 01: 
           - Etapa 1:
               - Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
+          - Etapa 2:
+              - Verificação da Etapa 2: verificacao/grupo/grupo01/etapa2/verificacao-etapa2.md
 
   - Reuniões:
     - Ata 01: atas/01.md
