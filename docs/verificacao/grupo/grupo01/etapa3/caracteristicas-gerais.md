@@ -61,4 +61,4 @@ Não existe este conteúdo no artefado verificado
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 03/12/2024 | Criação da página.     | [Márcio Henqirue](https://github.com/De4Marco)     | [Kaio Enzo](https://github.com/kaioenzo) |
+| `1.0`  | 04/12/2024 | Criação da página.     | [Márcio Henqirue](https://github.com/De4Marco)     | [Kaio Enzo](https://github.com/kaioenzo) |
