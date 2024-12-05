@@ -29,7 +29,9 @@ Fonte: Adaptado de [Lucas Gabriel, 2022.]( https://github.com/lucasgabriel-2)
 Utilizando a estrutura definida no documento, seguem três cenários para as tarefas de Acesso à CNH, Agendamento de serviço e Transferência de veículo:
 
 **Cenário 1: Acesso à CNH Digital**
+
 Tabela 2: Cenário 1: Acesso à CNH Digital
+
 | Elemento      | Descrição                                                                                                                               |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Identificador | CNH-01                                                                                                                                  |
@@ -40,9 +42,12 @@ Tabela 2: Cenário 1: Acesso à CNH Digital
 | Restrições    | O usuário precisa ter cadastro no portal do DETRAN-DF e a CNH digital emitida.                                                            |
 | Exceção      | Senha incorreta: o sistema exibe mensagem de erro e permite que o usuário tente novamente ou recupere a senha.                            |
 
+<font size="3"><p style="text-align: center">Autor: [Kaio Enzo](https://github.com/kaioenzo).</p></font>
 
 **Cenário 2: Agendamento de Serviço**
+
 Tabela 3: Cenário 2: Agendamento de Serviço
+
 | Elemento      | Descrição                                                                                                                                                           |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Identificador | AG-01                                                                                                                                                             |
@@ -53,9 +58,13 @@ Tabela 3: Cenário 2: Agendamento de Serviço
 | Restrições    | O usuário precisa ter cadastro no portal do DETRAN-DF e atender aos pré-requisitos para a renovação da CNH.                                                          |
 | Exceção      | Não há horários disponíveis: o sistema exibe mensagem informando a indisponibilidade e sugere outras datas ou unidades de atendimento.                               |
 
+<font size="3"><p style="text-align: center">_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)<a id=anchor_1 href="#REF1"></a></p></font>
+
 
 **Cenário 3: Transferência de Veículo**
+
 Table 4: Cenário 3: Transferência de Veículo
+
 | Elemento      | Descrição                                                                                                                                                                                              |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Identificador | TV-01                                                                                                                                                                                                 |
@@ -65,6 +74,8 @@ Table 4: Cenário 3: Transferência de Veículo
 | Episódios     | 1. Usuário acessa o portal do DETRAN-DF.<br>2. Usuário clica em "Veículos".<br>3. Usuário seleciona "Transferência de Veículo".<br>4. Usuário preenche os dados do veículo e do novo proprietário.<br>5. Usuário inicia a solicitação de transferência. |
 | Restrições    | O usuário precisa ter cadastro no portal do DETRAN-DF, possuir os documentos necessários e o veículo deve estar em situação regular.                                                                      |
 | Exceção      | Dados inconsistentes: o sistema exibe mensagem de erro indicando os campos com informações incorretas ou incompletas.                                                                                      |
+
+<font size="3"><p style="text-align: center">_Autor: [Márcio Henrique](https://github.com/DeM4rcio)<a id=anchor_1 href="#REF1"></a></p></font>
 
 
 ## __Bibliografia__
