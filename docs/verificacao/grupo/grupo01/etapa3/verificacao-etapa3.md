@@ -1,4 +1,4 @@
-__Verificação da Etapa 3__
+#__Verificação da Etapa 3__
 
 ## **Introdução**
 Este artefato consiste em uma verificação por meio da inspeção do material produzido pelo Grupo 01. O Grupo 08 será responsável por realizar a inspeção do artefato do Grupo 01.
