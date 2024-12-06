@@ -47,6 +47,44 @@ Além disso, a seleção das metas deve se basear em princípios e boas prática
 
 Essas heurísticas, amplamente reconhecidas na área de Interação Humano-Computador (IHC), fornecem um conjunto de diretrizes para o design de interfaces usáveis, contribuindo para a definição de metas como facilidade de aprendizado e facilidade de recordação.
 
+### 1. Eficácia
+
+No geral o sistema é parcialmente eficaz, tudo que ela é proposta a ser feita, consegue com êxito mostrar os eventos que o usuário realize.
+
+### 2. Eficiência
+
+O sistema não apresenta uma eficiência mediana. A interface não possui ferramentas de auxílio a usuários com limitações, preenchimento de dados automático, atalhos e ou ferramentas de voz. 
+
+### 3. Segurança
+
+A aplicação possui algumas falhas de incertezas, como por exemplo na imagem 1, temos a tela de transferência de veículo, e solicita o RENAVAM do veículo. Não é claro que caso coloque o código, será feito a transferência ou não. ( comigo mesmo fiquei com receio de colocar o código do RENAVAM).
+
+<center>
+
+**Imagem 1**
+
+</center>
+
+![tela transferencia](referencias/tela-tranferencia.png)
+
+<center>
+
+_Autor: Márcio Henrique_
+
+</center>
+
+### 4. Utilidade
+
+O sistema se apresenta eficiente. Ele assegura que veículos e condutores estejam em conformidade com as leis, promove a segurança nas vias ao monitorar infrações e acidentes, e oferece serviços práticos que simplificam a vida dos cidadãos. 
+
+### 5. Aprendizado
+
+O sistema possui funcionalidades explicitas para o usuário sendo elas objetivas, evitando que o usuário precise de um longo período de treinamento.
+
+### 6. Memorização
+
+A utilização do sistema se torna bastante intuitiva com a experiência de apenas alguns usuários, voltado para quem tem mais afinidade a tecnologia essa memorização torna-se mais propícia.
+
 ## __Referências Bibliográficas__
 
 > _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
@@ -56,4 +94,5 @@ Essas heurísticas, amplamente reconhecidas na área de Interação Humano-Compu
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)| [Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.0`  | 02/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo) e [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.1`  | 05/12/2024 | Correções da verificação. |[Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf)|
