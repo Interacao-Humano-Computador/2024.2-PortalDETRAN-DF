@@ -1,4 +1,5 @@
-## Introdução
+# __Storyboards__
+## __Introdução__
 
 O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido sua simplicidade, baixo custo e rápida produção. Isso significa que podem ser rapidamente alterados. São geralmente utilizados em conjunto com cenários. Nos modelos abaixo ele será representando por GUI, sendo do tipo linear. É ncessário atender os seguintes critérios ( podendo posu=suir a explicação por texto).
 
@@ -12,7 +13,7 @@ O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido
 * A satisfação da pessoa ao completar a tarefa, no final do storyboard.
 
 
-### Tarefa 1: Transferência de veículos
+### __Tarefa 1: Transferência de veículos__
 
 Na figura 1, apresenta-se um storyboard no qual duas pessoas estão realizando uma trasnferência de veículo após uma negociação.
 
@@ -20,9 +21,10 @@ Na figura 1, apresenta-se um storyboard no qual duas pessoas estão realizando u
 
 Figura 1 - Transefência de veículos
 
+<iframe src="../storyboard-transfer.pdf" width="100%" height="600px"></iframe>
+
 </center>
 
-<iframe src="../storyboard-transfer.pdf" width="100%" height="600px"></iframe>
 
 | **Seção**                         | **Detalhes**                                                                                                                                                                                                                      |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,6 +46,38 @@ Figura 1 - Transefência de veículos
 | **Motivação**                     | - **Facilidade e Conveniência:** Evitar deslocamentos e burocracias. <br> - **Segurança:** Transferência correta e comprovada digitalmente. <br> - **Rapidez:** Processo concluído em minutos.                                   |
 | **Resultado e Satisfação**        | **Guilherme:** Satisfeito com a compra rápida e segura. <br> **Carlos:** Aliviado por transferir a responsabilidade do veículo de forma eficiente.                                                                              |
 
+### __Tarefa 2: Agendamento de Serviço__
+
+Na figura 2, apresenta-se um stroyboard no qual uma pessoa precisa fazer um agendamento de um serviço no Portal DETRAN-DF.
+
+<center>
+
+Figura 2 - Agendamento de serviço
+
+![Storyboard Agendamento de Serviço](stroyboard-agend-serv.png)
+
+</center>
+
+| **Seção**  | **Detalhes** |
+|------------|--------------|
+| **Personagens Envolvidos**| **Mariana:** Jovem adulta, 20 anos, comprou seu primeiro carro. |
+|   | **Vendedor:** Vendedor da concessionária que entrega o carro à Mariana.|
+| **Ambiente** | **Mariana:** Na concessionária pegando seu veículo e em sua casa acessando a plataforma.|
+|   | **Vendedor:** Na concessionária entregando o carro de Mariana.|
+| **Motivação a usar o Portal** | **Mariana:** Conseguir a agendar a vistoria de seu carro usado. |
+|    |  **Vendedor:** ajudar a Mariana.||
+| **Tarefas** | 1. Acessar o Portal DETRAN-DF <br> 2. Inserir dados pessoais <br> 3. Selecionar Local, Data e Hora do agendamento <br> 4. Confirmar Agendamento.|
+| **Passos Envolvidos** | **1. Juntar documentos informações pessoais necessárias** |
+| | **2. Acessar o Portal DETRAN-DF** |
+| | **3. Inserir os dados necessários** |
+| | **4. Conferir se os dados estão corretos** |
+| | **5. Selecionar local de escolha** |
+| | **6. Escolher uma data e horário disponível**|
+| | **7. Confirmar agendamento** |
+| **Motivação:** | - Rapidez para realizar o agendamento; <br> - Praticidade no momento de visualizar a disponibiliade de horários; <br> - Conveniência: evita espera em ligações, deslocamentos para centrais de atendimento e etc.|
+| **Resultado e Satisfação** | **Mariana:** Conseguiu agendar com facilidade a vistoria de seu primeiro carro.|
+|   | **Vendedor:** Teve uma venda com sucesso e uma cliente feliz.|
+
 
 ## Bibliografia
 
@@ -52,7 +86,11 @@ Figura 1 - Transefência de veículos
 
 >OCR. Guide to Storyboards. [S.l.]: OCR, 2020. Disponível em: https://www.ocr.org.uk/Images/579489-guide-to-storyboards.pdf. Acesso em: 26 jun. 2024.
 
+---
+
+## __Histórico de Versões__
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        | Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|------------|
 | `1.0`  | 09/11/2024 | Criação do página e Inserção do storyboard da tarefa 1  | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf) |
+| `1.1`  | 09/11/2024 | Inserção do storyboard da tarefa 2 | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio)|
