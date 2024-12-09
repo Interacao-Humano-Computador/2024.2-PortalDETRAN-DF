@@ -26,6 +26,9 @@ nav:
     - Características Gerais: analiseRequisitos/caracGerais.md
     - Princípios Gerais: analiseRequisitos/principiosGerais.md
     - Guia de estilos: analiseRequisitos/guiaEstilos.md
+  - Design, Avaliação e Desenvolvimento:
+    - Storyboard:
+        - Storyboards: design_avaliacao/storyboards.md
    
 
   - Verificação:
