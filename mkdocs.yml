@@ -27,7 +27,10 @@ nav:
     - Princípios Gerais: analiseRequisitos/principiosGerais.md
     - Guia de estilos: analiseRequisitos/guiaEstilos.md
   - Design, Avaliação e Desenvolvimento:
-    - Storyboard:
+    - Nível 1:
+      - Storyboard:
+        - Planejamento da Avaliação do Storyboard: design_avaliacao/storyboard/planej-aval-story.md
+        - Planejamento da Avaliação do Relato dos Resultados: design_avaliacao/storyboard/planj-aval-relato.md
         - Storyboards: design_avaliacao/storyboards.md
    
 
