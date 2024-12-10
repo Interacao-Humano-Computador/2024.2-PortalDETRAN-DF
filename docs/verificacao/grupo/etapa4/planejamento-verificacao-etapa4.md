@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 4 do Grupo 2
+# Planejamento da Verificação da Etapa 4
 
 ## Introdução
 
@@ -40,7 +40,7 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 | 10/12/2024 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Luiza Maluf](https://github.com/LuizaMaluf)                                                  |
 | 10/12/2024 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Luiza Maluf](https://github.com/LuizaMaluf)                                                      |
 | 10/12/2024 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Márcio Henrique](https://github.com/DeM4rcio)                                                  |
-| 10/12/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Luiza Maluf](https://github.com/LuizaMaluf)                                                      |
+| 10/12/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Márcio Henrique](https://github.com/DeM4rcio)                                                       |
 | 03/07/2023 | Verificação dos Storyboards.                                  | [Luiza Maluf](https://github.com/LuizaMaluf)   e [Márcio Henrique](https://github.com/DeM4rcio)   |
 
 _Autor: [Márcio Henrique](https://github.com/DeM4rcio).2024_

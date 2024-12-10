@@ -91,14 +91,14 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 |  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 20/12/2024 | Plataforma Google Meets |
 
 
-**Fonte** - _[Autores](../../index.md)_
+**Fonte** - _[Márcio Henrique](https://github.com/DeM4rcio)  e [Luiza Maluf](https://github.com/LuizaMaluf) _
 </center>
 
 <a id="met2"></a>
 
 ### Roteiro de Perguntas
 
-Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
+Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem repondidas na avaliação.
 
 <center>
 
