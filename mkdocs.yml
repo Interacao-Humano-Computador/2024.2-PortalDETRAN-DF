@@ -59,7 +59,9 @@ nav:
               - Características Gerais: verificacao/grupo/etapa2/verificacao-carac-gerais.md
           - Etapa 4:
               - Planejamento da Verificação da Etapa 4: verificacao/grupo/etapa4/planejamento-verificacao-etapa4.md
-              - Verificação do planejamento da Avaliação do Storyboard: verificacao/grupo/etapa4/verificacao-planj-sb.md
+              - Verificação do Planejamento da Avaliação da Análise de Tarefas: verificacao/grupo/etapa4/verf-planj-analise.md
+              - Verificação do Planejamento do Relato dos Resultados da Avaliação: verificacao/grupo/etapa4/verf-planj-result-analise.md
+              - Verificação do Planejamento da Avaliação do Storyboard: verificacao/grupo/etapa4/verificacao-planj-sb.md
               - Verificação do planejamento da relato do Storyboard: verificacao/grupo/etapa4/verificacao-planj-relato-sb.md
       - Verificação do Grupo 01: 
           - Etapa 1:
@@ -73,7 +75,7 @@ nav:
     - Ata 01: atas/01.md
     - Ata 02: atas/02.md
     - Ata 03: atas/03.md
-    - Ata 03: atas/03.md
+    - Ata 04: atas/04.md
   - Entregas:
     - Entrega 1: apresent/01.md 
     - Entrega 2: apresent/02.md 
