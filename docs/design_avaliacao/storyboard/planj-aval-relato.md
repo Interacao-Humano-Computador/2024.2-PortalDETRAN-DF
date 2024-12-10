@@ -6,11 +6,17 @@ O Relato dos Resultados é o artefato que apresenta os dados coletados, analisad
 
 ## __Metodologia__
 
-A metodologia definida pelo [planejamento da avaliação do storyboard](planej-aval-story.md#métodos-de-avaliação-c) foi a de aplicação de entrevista e logo em seguida, analisar os dados produzidos pelas [perguntas](planej-aval-story.md#explorar-as-perguntas-a-serem-respondidas-com-a-avaliação-e) elaboradas.
+Tendo como base os conceitos tratatos no livro de Barbosa e Silva (2011, p.279) e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
-## __Elementos do Relato de Resultados__
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
 
-O relato dos resultados deverá apresentar os tópicos a seguir.
+## __Estrutura__
 
 ### __Objetivo__
 
@@ -20,13 +26,24 @@ Apresentar os [objetivos da avaliação](planej-aval-story.md#objetivos-gerais-d
 
 Deverá estar explícito quem foi o avaliador, quem foi o participante do teste piloto e quem foi o entrevistado.
 
-### __Informação da entevista__
+### __Metétodo da avaliação__
 
-Apresentar informações da entrevista como: Onde ocorreu; Data e Hora; onde foi realizada e gravação.
+Optamos por combinar observação e entrevistas com os usuários, seguindo um modelo padrão para garantir a uniformidade dos dados coletados. A Tabela 1 apresenta um cronograma sugerido para as entrevistas, que poderá ser ajustado conforme o necessário.
 
-### __Metodologia da avaliação__
+<center>
+**Tabela 1** - Cronograma Planejado.
 
-Deve apresentar um resumo breve da metodologia apresentada no [planejamento](planej-aval-story.md#metodologia).
+| Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Márcio Henrique](https://github.com/DeM4rcio)  |   <span style = "color: orange">Bruno Bragança</span>     |       17:30       |     17:40       | 22/12/2024 | Plataforma Google Meet |
+|  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       20:00       |     20:15      | 27/05/2023 | Plataforma Discord |
+
+
+
+**Autor** - [Luiza Maluf](https://github.com/LuizaMaluf).
+
+</center>
+
 
 ### __Tarefas__
 
@@ -37,15 +54,15 @@ Apresentar quais tarefas dizem respeito a cada stroyboard.
 Deve ser registrado as respostas do entrevistado para cada [pergunta](planej-aval-story.md#explorar-as-perguntas-a-serem-respondidas-com-a-avaliação-e), 
 registrando todo e qualquer feedback que o usuário dê.
 
-## __Problemas__
+### __Problemas__
 
 É fundamental que seja resgistrado todos os problemas e aspectos negativos encontrados durante a avaliação de cada storyboard.
 
-## __Sugestões__
+### __Sugestões__
 
 A partir dos dos resultados e dos problemas encontrado, é possível produzir sugestões que contribuam para que se melhore o artefato, ou até mesmo evidenciar um problema do Portal DETRAN-DF.
 
-## __Conclusão__
+### __Conclusão__
 
 Por fim, uma breve conclusão dos resultados encontrados na avaliação.
 
