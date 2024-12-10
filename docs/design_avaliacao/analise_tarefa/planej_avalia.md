@@ -91,10 +91,10 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 |  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 20/12/2024 | Plataforma Google Meets |
 
 
-**Fonte** - _[Márcio Henrique](https://github.com/DeM4rcio)  e [Luiza Maluf](https://github.com/LuizaMaluf) _
+**Autores** - _[Márcio Henrique](https://github.com/DeM4rcio)  e [Luiza Maluf](https://github.com/LuizaMaluf) _
 </center>
 
-<a id="met2"></a>
+
 
 ### Roteiro de Perguntas
 
