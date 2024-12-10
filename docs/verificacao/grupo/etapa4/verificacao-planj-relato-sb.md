@@ -1,4 +1,4 @@
-# Verificação do Planejamento da Avaliação do Storyboard
+# Verificação do Planejamento do Relato do Storyboard
 
 ## Introdução
 
@@ -16,9 +16,12 @@ Os resultados da verificação dos artefatos foram obtidos a partir das checklis
 
 Os participantes serão os integrantes  [Márcio Henrique](https://github.com/DeM4rcio), que será responsável por realizar a avaliação, e a [Luiza Maluf](https://github.com/LuizaMaluf) que realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](./planejamento-verificacao-etapa4.md).
 
+
 ## Sumário Dos Dados
 
 A Tabela 1 apresenta a lista com os dados obtidos a partir da verificação.
+
+
 
 <center>
 
@@ -32,35 +35,55 @@ A Tabela 1 apresenta a lista com os dados obtidos a partir da verificação.
 | 3      | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores?    |       sim        | -                            |
 | 4      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                             |      sim         | -                            |
 | 5      | Todos os textos estão na norma padrão?                                                                    |     sim          | -                            |
-| **Planejamento do Storyboard** |                                                                                              |               |                             |
-| 1      | A metodologia está teoricamente embasada?                                                                |      sim         | -                            |
-| 2      | O planejamento deixa claro quais são os objetivos?                                                       |       sim        | -                            |
-| 3      | O roteiro de perguntas já está definido no planejamento?                                                |        sim       | -                            |
-| 4      | Os métodos de avaliação estão especificados?                                                            |       sim        | -                            |
-| 5      | Existe dentro do planejamento um espaço para teste-piloto?                                              |       Não        | -                            |
-| 6      | Há especificado os aspectos éticos dentro do planejamento?                                              |      Sim         | -                            |
-| 7      | Todas as atividades relacionadas ao Framework DECIDE são abordadas?                                     |              Sim | -                            |
-| 8      | Está especificado o autor das perguntas que são feitas na execução do planejamento?                    |      Sim         | -                            |
+| **Planejamento da Avaliação do Relato dos Resultados** |                                              
+| **1**  | O planejamento explica como lidar com problemas e dificuldades identificados nos resultados da avaliação?| Incompleto   |  -  |
+| **2**  | O planejamento apresenta instruções ou diretrizes para identificar problemas e dificuldades durante a avaliação?| Sim |  -  |
+| **3**  | Existe uma seção no planejamento dedicada ao feedback dos usuários?| Incompleto |  -  |
+| **4**  | Há tópicos definidos para resumir os principais resultados da avaliação?| Sim |  -  |   
+| **5**  | O planejamento apresenta um cronograma detalhado com datas, horários e locais para a realização da avaliação?| Sim |  -  |
+| **6**  | Os aspectos éticos, como privacidade, consentimento e confidencialidade, estão claramente definidos no planejamento?| Não |  -  |
+| **7**  | Existe uma seção detalhando os recursos necessários (humanos, financeiros e técnicos) para a avaliação?| Não |  -  |
+| **8**  |Está definido como os resultados serão armazenados e organizados para consultas futuras?| Sim |  -  |
+
 
 
 
 
 _Autor: Márcio Henrique_
 
-### ID 5 - Existe dentro do planejamento um espaço para teste-piloto??
+### ID 1 - O planejamento explica como lidar com problemas e dificuldades identificados nos resultados da avaliação?
 
-Não contém o teste piloto, tanto o seu planjamento e claro sua execução.
+- Sugerido incluir um procedimento claro e específico para identificar e resolver problemas encontrados durante a avaliação (ex: plano de ação para ajustes ou mudanças necessárias).
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2dM3qOx3bHYzgirM-iOheH6kLHw1QGj6Pm5AomqW61rNi-iDE4pluovo5S5QhgPzeQZd_bOht2DNw/pubchart?oid=106027590&amp;format=interactive"></iframe>
+
+
+### ID 3 - Existe uma seção no planejamento dedicada ao feedback dos usuários?
+
+- Sugerido criar uma seção no planejamento especificamente voltada para a coleta, análise e integração do feedback dos usuários, garantindo que todos os comentários sejam considerados para a melhoria do produto.
+
+
+
+### ID 6 - Os aspectos éticos, como privacidade, consentimento e confidencialidade, estão claramente definidos no planejamento?
+
+
+- Sugerido incluir uma seção no planejamento que cubra todos os aspectos éticos essenciais, como consentimento informado, privacidade dos dados dos usuários, e a confidencialidade das informações coletadas.
+
+
+
+### ID 7 - Existe uma seção detalhando os recursos necessários (humanos, financeiros e técnicos) para a avaliação?
+
+
+- Sugerido adicionar uma seção no planejamento que detalhe os recursos humanos, financeiros e técnicos necessários para a avaliação, incluindo as responsabilidades de cada equipe envolvida e os custos estimados.
+
+
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2dM3qOx3bHYzgirM-iOheH6kLHw1QGj6Pm5AomqW61rNi-iDE4pluovo5S5QhgPzeQZd_bOht2DNw/pubchart?oid=1193020379&amp;format=image"></iframe>
 
 </center>
 
 ## Correção e Sugestão
 
-Sugere-se a construção do teste piloto, dessa forma deve conter:
-
-* Planejamento do teste piloto
-* Vídeo de apresentação do teste piloto
+Revise o planejamento, especialmente nas seções sobre como lidar com problemas, feedback dos usuários, aspectos éticos e recursos necessários, garantindo que estejam bem definidos e detalhados.
 
 
 ## Bibliografia
