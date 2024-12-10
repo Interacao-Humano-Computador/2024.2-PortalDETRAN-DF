@@ -1,5 +1,5 @@
 ## __Introdução__
-Este documento detalha a verificação do artefato "Perfil de Usuário" (versão 1.0, 29/11/2023), desenvolvido pelo Grupo 2 para o projeto da Wikipédia. A análise seguirá a metodologia de inspeção de Fagan, utilizando uma checklist baseada nas diretrizes de Interação Humano-Computador de Barbosa e Silva. O objetivo é identificar e classificar possíveis falhas no perfil, garantindo sua qualidade e alinhamento com os princípios de IHC.
+Este documento detalha a verificação do artefato Perfil de Usuário. A análise seguirá a metodologia de inspeção de Fagan, utilizando uma checklist baseada nas diretrizes de Interação Humano-Computador de Barbosa e Silva. O objetivo é identificar e classificar possíveis falhas no perfil, garantindo sua qualidade e alinhamento com os princípios de IHC.
 
 ## __Metodologia__
 
