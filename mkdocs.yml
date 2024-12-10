@@ -32,7 +32,9 @@ nav:
         - Planejamento da Avaliação do Storyboard: design_avaliacao/storyboard/planej-aval-story.md
         - Planejamento da Avaliação do Relato dos Resultados: design_avaliacao/storyboard/planj-aval-relato.md
         - Storyboards: design_avaliacao/storyboards.md
-   
+      - Analise de tarefas:
+        - Planejamento da Avaliação da Analise de tarefas: design_avaliacao/analise_tarefa/planej_avalia.md
+        - Planejamento do Relato dos Resultados da Avaliação: design_avaliacao/analise_tarefa/planej_result.md
 
   - Verificação:
       - Verificação do Grupo:
