@@ -54,7 +54,8 @@ Na figura 2, apresenta-se um stroyboard no qual uma pessoa precisa fazer um agen
 
 Figura 2 - Agendamento de serviço
 
-![Storyboard Agendamento de Serviço](stroyboard-agend-serv.png)
+<iframe src="../storyboard-Luiza.pdf" width="100%" height="600px"></iframe>
+
 
 </center>
 
