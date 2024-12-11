@@ -23,6 +23,8 @@ Figura 1 - Transefência de veículos
 
 <iframe src="../storyboard-transfer.pdf" width="100%" height="600px"></iframe>
 
+_Autor: [Márcio Henrique](https://github.com/DeM4rcio)_
+
 </center>
 
 
@@ -56,6 +58,7 @@ Figura 2 - Agendamento de serviço
 
 <iframe src="../storyboard-Luiza.pdf" width="100%" height="600px"></iframe>
 
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 </center>
 
