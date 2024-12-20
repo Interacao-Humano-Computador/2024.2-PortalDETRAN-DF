@@ -96,7 +96,7 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 
 <font size="3"><b>Figura 5</b> - Diagrama HTA de tranferencia veicular.</font>
 
-![Notação diagrama HTA](../../assets/analise_tarefas/transferencia.png)
+![Notação diagrama HTA](../../assets/analise_tarefas/transferencia_draw.png)
 
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</p></font>
