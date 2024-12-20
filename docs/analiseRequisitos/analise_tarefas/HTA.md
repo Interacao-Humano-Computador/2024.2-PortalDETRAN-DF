@@ -66,20 +66,24 @@ Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos servi
 
 <font size="3"><b>Figura 3</b> - Diagrama HTA de agendamento de serviço.</font>
 
-![Notação diagrama HTA](../../assets/analise_tarefas/Agendamentoservico.png)
+![Notação diagrama HTA](hta-luiza2.jpeg)
 
 
 <font size="3"><p style="text-align: center">Autor: [Luiza Maluf](https://github.com/LuizaMaluf).</p></font>
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de visualização de pedidos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - HTA de visualização de pedidos.</p></font>
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
-| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0.Agendamento CNH   |                                                                                                                                                                                                         |
-|      1.Cadastro de agendamento     | **input**: dados da solicitação. Sendo possível solicitar a maioria dos serviços prestados pelo Detran <br>**feedback**: usuário será direcionado para a marcação da dia e data do serviço solicitado<br> **plano**: confirmação via celular.                                        |
-                                                                                  |
+| :--------------------------: | ------------------------------ |
+|  0. Realizar o agendamento  |                                                                                                                                                                                                         |
+|  1. Acessar o site do Detran  | **input**: Abrir o navegador e digitar a URL do portal<br>**feedback**: Página inicail do DETRAN-DF<br> **plano**: Continuar para a navegação do agendamento. |
+|  2. Navegar para área de agendamento | **input**: Identificar o menu ou ícone de "Serviços" e selecionar "Agendamento".<br>**feedback**: Página de agendamento é exibida com opções de serviços.<br>**Plano**: Selecionar o serviço desejado. |
+|  3. Escolher o serviço desejado | **input**: Clicar no serviço relevante na lista apresentada.<br>**feedback**: Detalhes do serviço e botão para continuar são exibidos.<br>**Plano**: Avançar para o preenchimento dos dados.|
+|  4. Preencher os dados solicitados | **input**: Inserir nome, CPF, e-mail, telefone e outros dados exigidos.<br>**feedback**: Campos preenchidos são validados em tempo real.<br>**Plano**: Concluir o preenchimento e continuar para a escolha da data.|
+|  5. Selecionar a data e horário disponíveis | **input**: Escolher uma data no calendário e selecionar o horário disponível.**feedback**: Indicação de horário reservado para o usuário.<br>**Plano**: Prosseguir para a confirmação.|
+|  6. Confirmar o agendamento | **input**: Revisar os dados, clicar em "Agendar".<br>**feedback**: Mensagem de sucesso com número de protocolo e instruções adicionais.<br>**Plano**: Finalizar o processo e, se necessário, armazenar o comprovante.|
 
 <font size="3">Autor: [Luiza Maluf](https://github.com/LuizaMaluf).</font>
 
@@ -103,7 +107,7 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de visualização de pedidos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - HTA de visualização de pedidos.</p></font>
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,3 +140,5 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
 | `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| 
+| '2.0'  | 20/11/2024 | Correção do HTA do agendamento de serviço | [Luiza Maluf](https://github.com/LuizaMaluf)|[Márcio Henrique](https://github.com/DeM4rcio)|
+| ´2.1'  | [Márcio Henrique](https://github.com/DeM4rcio)| [Luiza Maluf](https://github.com/LuizaMaluf)|
