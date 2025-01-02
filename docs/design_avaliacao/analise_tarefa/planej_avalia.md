@@ -87,11 +87,11 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Márcio Henrique](https://github.com/DeM4rcio)  |   Bruno Bragança     |       16:40       |     16:45      | 20/12/2024 | Plataforma Google Meet |
-|  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 20/12/2024 | Plataforma Google Meets |
+|  [Márcio Henrique](https://github.com/DeM4rcio)  |   Bruno Bragança     |       16:40       |     16:45      | 20/12/2024 | Presencial |
+|  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 03/01/2025 | Presencial |
 
 
-**Autores** - _[Márcio Henrique](https://github.com/DeM4rcio)  e [Luiza Maluf](https://github.com/LuizaMaluf) _
+**Autores** - _[Márcio Henrique](https://github.com/DeM4rcio)  e [Luiza Maluf](https://github.com/LuizaMaluf)_
 </center>
 
 
@@ -146,7 +146,13 @@ A documentação dos dados incluirá o registro de problemas e dificuldades enco
 
 Os dados analisados serão compartilhados com a equipe de desenvolvimento para embasar as próximas etapas do projeto.
 
+## Teste-piloto
 
+De acordo com Barbosa e Silva (2011, p.307), o teste piloto serve para avaliar o próprio planejamento e analisar se a avaliação produz os dados necessários para responder a questões e objetivos do estudo.
+
+Nesse sentido o teste foi executado no dia 20/12/2024 pelos integrantes do grupo [Luiza Maluf](https://github.com/LuizaMaluf) e [Márcio Henrique](https://github.com/DeM4rcio)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgT19T7ivas?si=XO4Z312O6eJTegfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia

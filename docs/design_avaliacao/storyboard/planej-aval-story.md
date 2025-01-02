@@ -34,8 +34,7 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 ### __Objetivos Gerais (D)__
 
 O principal objetivo desse planejamento é avaliar os [storyboards](../storyboards.md) elaborados pelos membros do grupo e determinar se estão 
-de acordo com as expectativas dos usuários e se representa a realidade da execução da tarefa. Com isso, é possível identificar problemas 
-na interação e na interface, assim como a apopriaçãp da tecnologia pelos usuários.
+de acordo com as expectativas dos usuários e se representa a realidade da execução da tarefa. Com isso, é possível identificar problemas na interação e na interface, assim como a apopriaçãp da tecnologia pelos usuários.
 
 ### __Explorar as Perguntas a Serem Respondidas com a Avaliação (E)__
 
@@ -68,7 +67,7 @@ Será feita uma entrevista com um usuário que esteja dentro dos aspectos listad
 
 Os participantes das entrevistas serão escolhidos com base no [Perfil de usuário](../../analiseRequisitos/perfilUsuario.md).
 
-#### __Cronograma__
+#### __Cronograma das atividades__
 
 |Data e Hora | Atividade | Autor(a) | Revisor(a) |
 |------------|-----------|----------|------------|
@@ -76,13 +75,25 @@ Os participantes das entrevistas serão escolhidos com base no [Perfil de usuár
 | 16/12/2024 | Entrevista com o participante | Márcio Henrique | Luiza Maluf |
 | 17/12/2024 | Registro dos resultados da entrevista| Luiza Maluf | Márcio Henrique |
 
+#### __Cronograma das entrevistas__
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Márcio Henrique](https://github.com/DeM4rcio)  |   Bruno Bragança     |       16:40       |     16:45      | 20/12/2024 | Presencial |
+|  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 03/01/2025 | Presencial |
+
+
 #### __Ferramentas__
 
 A entrevista será realizada no Microsoft Teams para que se ocorra a gravação e o Google Docs para que o avaliador possa registrar as respostas e feedback do entevistado.
 
 #### __Teste Piloto__
 
-Antes da realização da entrevista, será realizado um teste piloto, que nada mais é a entrevista só que com um integrante do grupo, sendo possível ter uma noção de tempo de entrevista e possíveis imprevistos que possam ocorrer.
+De acordo com Barbosa e Silva (2011, p.307), o teste piloto serve para avaliar o próprio planejamento e analisar se a avaliação produz os dados necessários para responder a questões e objetivos do estudo.
+
+Nesse sentido o teste foi executado no dia 20/12/2024 pelos integrantes do grupo [Luiza Maluf](https://github.com/LuizaMaluf) e [Márcio Henrique](https://github.com/DeM4rcio)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6fsc6kVTUz0?si=y15RcMUKah2uD056" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### __Aspectos Éticos (D)__
 
