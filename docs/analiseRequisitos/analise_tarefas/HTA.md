@@ -77,7 +77,7 @@ Nessa tarefa, o usuário possui o objetivo de solicitar um agendamento dos servi
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------ |
-|  0. Realizar o agendamento  |                                                                                                                                                                                                         |
+|  0. Realizar o agendamento  |                                                   |
 |  1. Acessar o site do Detran  | **input**: Abrir o navegador e digitar a URL do portal<br>**feedback**: Página inicail do DETRAN-DF<br> **plano**: Continuar para a navegação do agendamento. |
 |  2. Navegar para área de agendamento | **input**: Identificar o menu ou ícone de "Serviços" e selecionar "Agendamento".<br>**feedback**: Página de agendamento é exibida com opções de serviços.<br>**Plano**: Selecionar o serviço desejado. |
 |  3. Escolher o serviço desejado | **input**: Clicar no serviço relevante na lista apresentada.<br>**feedback**: Detalhes do serviço e botão para continuar são exibidos.<br>**Plano**: Avançar para o preenchimento dos dados.|
