@@ -1,3 +1,5 @@
+# __Personas__
+
 ## __Introdução__
 
 Segundo [(Barbosa e Silva, 2011, p.181)](referencias/personas1.png), o uso de personas é uma técnica para representar grupos finais de usuários, durante discussões de design, mantendo os colaboradores focados no mesmo alvo. As personas são definidas principalmente pelos seus objetivos, e ao longo do refinamento das personas, convergimos para um perfil plausível.
@@ -5,92 +7,81 @@ Segundo [(Barbosa e Silva, 2011, p.181)](referencias/personas1.png), o uso de pe
 ## __Metodologia__
 A partir dos resultados colhidos da análise do perfil de usuário, buscamos caracterizar os usuários em grupos de personas.
 
-## __Perfil do usuário__
-A partir do perfil dos usuários coletados na análise de requisitos, foram identificados os seguintes grupos de usuários:
+## __Elenco__
 
 <center>
-Tabela 1 : Perfil do usuário
 
-| Característica | Descrição | 
-|----------------|-----------|	
-| Idade | Jovens, até 25 anos. |
-| Habilitado para dirigir | Sim. |
-| Experiência com o portal DETRAN-DF | Sim, a maioria. |
-| Utiliza veículo como fonte de renda	| Não. |
+| <p style="text-align: center">Figura 1 - Persona Primária Mariana Silva.</p><figure markdown>![Persona Primária Mariana](../analiseRequisitos/referencias/persona1.jpg)<figcaption>Fonte: Elaborada por [Luiza Maluf](https://github.com/LuizaMaluf) (2025).</figcaption></figure> |
+| -------------------------- |
+| **Status**: Persona Primária. |
+| **Nome**: Mariana Silva |
+| **Gênero**: Feminino |
+| **Idade**: 32 anos |
+| **Profissão**: Analista de TI |
+| **Escolaridade**: Ensino Superior Completo |
+| **Estado Civil**: Solteira |
+| **Relacionamento**: Sem dependentes |
+| **Tarefas**: Renovação de CNH; Consulta de multas e pontos. |
+| **Habilidades e Experiências**: Experiência intermediária com tecnologia; Tecnófilo. |
+| **Objetivo**: <br>**Corporativo:** Resolver pendências administrativas online rapidamente. <br>**Pessoal:** Garantir que sua CNH esteja sempre atualizada. <br>**Experiência:** Busca por rapidez e simplicidade nos processos. |
+| **Expectativa**: Navegação fluida e rápida; Portal acessível e intuitivo. |
+| **Requisitos**: Ferramentas de consulta rápidas e um design responsivo para diferentes dispositivos. |
 
-Autor: Kaio Enzo
-</center>
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf), (2025)._
 
-## __Personas__
-A partir do perfil do usuário, e da análise de tarefas, definimos o elenco de personas com 2 personas primárias e uma anti-persona. A imagem das personas foi gerada pelo site This Person Doest Not Exist.
+| <p style="text-align: center">Figura 2 - Persona Primária Mario Oliveira.</p><figure markdown>![Persona Primária Maria Oliveira](../analiseRequisitos/referencias/persona2.png)<figcaption>Fonte: Elaborada por [Luiza Maluf](https://github.com/LuizaMaluf) (2025).</figcaption></figure> |
+| -------------------------- |
+| **Status**: Persona Primária. |
+| **Nome**: Mario Oliveira |
+| **Gênero**: Masculino |
+| **Idade**: 19 anos |
+| **Profissão**: Estudante universitária |
+| **Escolaridade**: Ensino Superior Incompleto |
+| **Estado Civil**: Solteiro |
+| **Relacionamento**: Mora com os pais |
+| **Tarefas**: Agendamento de exames; Pagamento de taxas de habilitação. |
+| **Habilidades e Experiências**: Experiência intermediária com tecnologia; Tecnófila. |
+| **Objetivo**: <br>**Corporativo:** Realizar o processo de habilitação com facilidade. <br>**Pessoal:** Obter a primeira habilitação para independência. <br>**Experiência:** Busca por suporte claro e informações organizadas. |
+| **Expectativa**: Instruções claras e simples para realizar tarefas no portal. |
+| **Requisitos**: Design acessível para jovens com integração de guias passo a passo. |
 
-### __Persona 1: Mariana__
-<center>
-Tabela 2: Persona 1
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf), (2025)._
 
-|  |  |
-|----------------|-----------|
-| Nome | Mariana Souza |
-| Foto | ![Mariana](./referencias/persona1.jpg) Figura 1: Mariana Souza persona |
-| Descrição | Mariana é uma jovem de 22 anos, estudante de engenharia, que utiliza o portal do DETRAN-DF para realizar consultas sobre a situação de seu veículo. |\
-| Status | Persona primária. |
-| Objetivos | Mariana busca informações sobre multas e débitos de seu veículo, além de agendar serviços de vistoria e licenciamento. |
-| Habilidades | Mariana é uma usuária experiente, que utiliza o portal com frequência e possui conhecimentos básicos de informática. |
-| Tarefas	 | Mariana é uma estudante dedicada, passa a maior parte do tempo estudando e utiliza o veículo para se locomover até a universidade. |
-| Relacionametos | Mariana é solteira e mora com os pais. |
-| Requisitos | Mariana busca um portal intuitivo e de fácil navegação, que permita realizar consultas e agendamentos de forma rápida e eficiente. |
-| Expectativas | Mariana espera encontrar informações claras e precisas, além de um atendimento de qualidade em caso de dúvidas ou problemas. |
+| <p style="text-align: center">Figura 3 - Persona Secundária Pedro Almeida.</p><figure markdown>![Persona Secundária Pedro Almeida](../analiseRequisitos/referencias/persona3.png)<figcaption>Fonte: Elaborada por [Seu Nome](https://github.com/seu-usuario) (2025).</figcaption></figure> |
+| -------------------------- |
+| **Status**: Persona Secundária. |
+| **Nome**: Pedro Almeida |
+| **Gênero**: Masculino |
+| **Idade**: 55 anos |
+| **Profissão**: Gestor de frota |
+| **Escolaridade**: Pós-Graduação |
+| **Estado Civil**: Casado |
+| **Relacionamento**: Tem dois filhos |
+| **Tarefas**: Consulta de débitos de veículos; Emissão de boletos e regularização de documentos. |
+| **Habilidades e Experiências**: Experiência avançada com tecnologia; Tecnófilo. |
+| **Objetivo**: <br>**Corporativo:** Gerenciar documentação de veículos de forma centralizada. <br>**Pessoal:** Garantir regularização de frota sem imprevistos. <br>**Experiência:** Busca por eficiência e soluções empresariais no portal. |
+| **Expectativa**: Sistema robusto para uso empresarial com ferramentas de gestão. |
+| **Requisitos**: Área dedicada a empresas e frota com suporte específico. |
 
-_Fonte: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf), (2025)._
 
-_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
+| <p style="text-align: center">Figura 4 - Anti-Persona Carlos Andrade.</p><figure markdown>![Anti-Persona Carlos Andrade](../analiseRequisitos/referencias/antipersona.jpeg)<figcaption>Fonte: Elaborada por [Seu Nome](https://github.com/seu-usuario) (2025).</figcaption></figure> |
+| -------------------------- |
+| **Status**: Anti-Persona. |
+| **Nome**: Carlos Andrade |
+| **Gênero**: Masculino |
+| **Idade**: 38 anos |
+| **Profissão**: Comerciante informal |
+| **Escolaridade**: Ensino Médio Completo |
+| **Estado Civil**: Solteiro |
+| **Relacionamento**: Não possui dependentes. |
+| **Tarefas**: Busca formas de burlar sistemas de pagamento; Explorar falhas do portal para evitar penalidades. |
+| **Habilidades e Experiências**: Conhecimento básico em tecnologia; Motivações maliciosas. |
+| **Objetivo**: <br>**Corporativo:** Evitar pagar taxas de multas ou processos de forma correta. <br>**Pessoal:** Manipular informações para reduzir penalidades. <br>**Experiência:** Frustrado com o cumprimento de obrigações legais. |
+| **Expectativa**: Utilizar brechas no sistema para benefício próprio. |
+| **Requisitos**: Sistema seguro contra fraudes; Validação de dados em tempo real para prevenir manipulações. |
 
-</center>
-
-
-### Persona 2: Guilherme
-<center>
-Tabela 3: Persona 2
-
-|  |  |
-|----------------|-----------|
-| Nome | Guilherme Borges |
-| Foto | ![Guilherme](./referencias/persona2.png) Figura 2: Guilherme Borges persona |
-| Descrição | Guilherme é uma jovem de 19 anos, estudante de engenharia, que utiliza o portal do DETRAN-DF para realizar consultas sobre a situação do seu processo de obtenção de CNH. |
-| Status | Persona secundária. |
-| Objetivos | Guilherme busca informações sobre a aprovação de sua CNH. |
-| Habilidades | Guilhermme é um usuário iniciante, que utiliza o portal a pouco tempo e possui conhecimentos básicos de informática. |
-| Tarefas	 | Guilhermme é um estudante dedicado, passa a maior parte do tempo estudando e faz estágio a tarde, quer utilizar o veículo para se locomover até o seu estágio. |
-| Relacionametos | Guilhermme é rodeado de amigos e mora com os pais. |
-| Requisitos |  Guilherme gostaria de obter informações claras e precisas sobre a aprovação de sua CNH. |
-| Expectativas | Guilhermme espera ter feedbacks rápidos e precisos sobre a aprovação de sua CNH. |
-
-_Fonte: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)_
-
-_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
-</center>
-
-
-### Anti-Persona 3: Benetido
-<center>
-Tabela 4: Anti-Persona 1 
-
-|  |  |
-|----------------|-----------|
-| Nome | Benedito Gomes |
-| Foto | ![Benedito](./referencias/persona3.png) Figura 3: Benedito Gomes  anti-persona |
-| Descrição | Benedito é um senhor de 65 anos, aposentado, que utiliza o portal do DETRAN-DF para realizar consultas sobre a situação de seu veículo. |
-| Status | Anti-Persona. |
-| Objetivos | Benedito busca informações sobre multas e débitos de seu veículo, além de agendar serviços de vistoria, licenciamento e realizar transferência veicular. |
-| Habilidades | Benedito é um usuário com pouca experiência, que utiliza o portal raramente e possui conhecimentos muitos básicos de informática. |
-| Tarefas	 | Benedito é um aposentado, passa a maior parte do tempo em casa e utiliza o veículo para se locomover até o supermercado e consultas médicas. |
-| Relacionametos | Benedito é casado e mora com a esposa. |
-| Requisitos |  Benedito busca um portal intuitivo, com ícones grandes, informações claras e poucos passos para realizar consultas e agendamentos. |
-| Expectativas | Benedito espera encontrar informações claras e precisas, além de um atendimento de qualidade em caso de dúvidas ou problemas. |
-
-_Fonte: Adaptador de [Mauricio Machado (2022)](https://github.com/MauricioMachadoFF)_
-
-_Autor: [Kaio Enzo](https://github.com/kaioenzo)_
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf), (2025)._
 
 </center>
 
@@ -110,4 +101,5 @@ _Autor: [Kaio Enzo](https://github.com/kaioenzo)_
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 03/12/2024 | Criação do documento. | [Kaio Enzo](https://github.com/kaioenzo)||
+| `1.0`  | 03/01/2025 | Criação do documento. | [Luiza Maluf](https://github.com/LuizaMaluf)||
+

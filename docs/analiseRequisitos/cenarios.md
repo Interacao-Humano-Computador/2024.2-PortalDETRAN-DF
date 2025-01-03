@@ -42,7 +42,7 @@ Tabela 2: Cenário 1: Acesso à CNH Digital
 | Restrições    | O usuário precisa ter cadastro no portal do DETRAN-DF e a CNH digital emitida.                                                            |
 | Exceção      | Senha incorreta: o sistema exibe mensagem de erro e permite que o usuário tente novamente ou recupere a senha.                            |
 
-<font size="3"><p style="text-align: center">Autor: [Kaio Enzo](https://github.com/kaioenzo).</p></font>
+<font size="3"><p style="text-align: center">_Autor: [Kaio Enzo](https://github.com/kaioenzo)._</p></font>
 
 **Cenário 2: Agendamento de Serviço**
 
@@ -58,7 +58,7 @@ Tabela 3: Cenário 2: Agendamento de Serviço
 | Restrições    | O usuário precisa ter cadastro no portal do DETRAN-DF e atender aos pré-requisitos para a renovação da CNH.                                                          |
 | Exceção      | Não há horários disponíveis: o sistema exibe mensagem informando a indisponibilidade e sugere outras datas ou unidades de atendimento.                               |
 
-<font size="3"><p style="text-align: center">_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)<a id=anchor_1 href="#REF1"></a></p></font>
+<font size="3"><p style="text-align: center">_Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_<a id=anchor_1 href="#REF1"></a></p></font>
 
 
 **Cenário 3: Transferência de Veículo**
@@ -75,7 +75,7 @@ Table 4: Cenário 3: Transferência de Veículo
 | Restrições    | O usuário precisa ter cadastro no portal do DETRAN-DF, possuir os documentos necessários e o veículo deve estar em situação regular.                                                                      |
 | Exceção      | Dados inconsistentes: o sistema exibe mensagem de erro indicando os campos com informações incorretas ou incompletas.                                                                                      |
 
-<font size="3"><p style="text-align: center">_Autor: [Márcio Henrique](https://github.com/DeM4rcio)<a id=anchor_1 href="#REF1"></a></p></font>
+<font size="3"><p style="text-align: center">_Autor: [Márcio Henrique](https://github.com/DeM4rcio)_<a id=anchor_1 href="#REF1"></a></p></font>
 
 
 ## __Bibliografia__
