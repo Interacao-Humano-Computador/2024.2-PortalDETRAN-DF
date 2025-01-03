@@ -111,12 +111,21 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0.Visualizar CNH   |                                                                                                                                                                                                         |
-|      1.Cadastro      | **input**: dados de cadastro.<br>**feedback**: usuário redirecionado para a página de confirmação de email.<br> **plano**: confirmar conta e depois fazer login.                                        |
-|     1.1.Confirmar perfil     | **feedback**: após confirmar o email o usuário é liberado para fazer login.                                                                                                                             |
-|       1.2.login        | **input**: dados de login.<br>**feedback**: usuário redirecionado para a página dos serviços mais acessados.<br> **plano**: abrir área de veiculos. <br>|
-| 2.Veículos | **input**: apertar na opção de veículo débitos ou opção de veículo restrição.<br>**feedback**: usuário redirecionado para a página esclhida<br> **plano** opção única de veículos                                                                         |
-| 3.1.Solicitação de tranferência|**input**: dados da placa e RENAVAM no veículo<br> |
+| 0. Iniciar transferência de veículo | **input**: Início do processo.<br>**feedback**: Usuário deve seguir os passos subsequentes.<br>**recomendação**: Informar ao usuário sobre os requisitos prévios, como documentos necessários.                                          |
+|      1. Cadastro      | **input**: Dados de cadastro.<br>**feedback**: Redirecionar para a página de confirmação de perfil.<br> **recomendação**: Garantir validação dos dados antes do envio.                                        |
+|     1.1. Inserir dados de cadastro     | **feedback**: Sistema valida os dados inseridos.<br>**recomendação**: Implementar mensagens de erro claras para dados inválidos.                                                                                                                             |
+|       1.2. Confirmar perfil        | **input**: Código de verificação ou link enviado por email.<br>**feedback**: Usuário é liberado para fazer login após confirmação.<br> **recomendação**: Garantir tempo de expiração para links ou códigos. |
+| 2. Login | **input**: Dados de login.<br>**feedback**: Usuário redirecionado para o painel principal.<br>**recomendação**: Oferecer opção de recuperação de senha e login por redes sociais.                                                                         |
+| 3. Selecionar veículo | **input**: Dados como placa e RENAVAM.<br>**feedback**: Usuário é redirecionado para a página do veículo escolhido.<br> **recomendação**: Adicionar filtros para facilitar a busca em casos de múltiplos veículos. |
+| 4.0. Gerar pagamento | **input**: Informações sobre o valor a ser pago.<br>**feedback**: Geração de cobrança e aguardar compensação.<br> **recomendação**: Oferecer diferentes métodos de pagamento (PIX, cartão, boleto). |
+| 4.1. Gerar cobrança | **feedback**: Cobrança gerada com sucesso.<br>**recomendação**: Garantir que o usuário receba uma confirmação da transação por email ou SMS. |
+| 4.2. Aguardar compensação | **feedback**: Informar status do pagamento em tempo real.<br>**recomendação**: Implementar notificações sobre a compensação. |
+| 5.0. Preencher dados da venda | **input**: Informações sobre o comprador, como nome e CPF.<br>**feedback**: Usuário direcionado para autorização da transferência.<br>**recomendação**: Validar CPF e outros dados em tempo real. |
+| 5.1. Informar dados do comprador | **feedback**: Dados registrados no sistema.<br>**recomendação**: Verificar inconsistências nos dados automaticamente. |
+| 5.2. Autorizar transferência | **feedback**: Sistema solicita confirmação biométrica ou presencial.<br>**recomendação**: Incluir outras formas de autenticação, como assinatura digital. |
+| 6.0. Confirmação do comprador | **input**: Biometria facial ou presença física.<br>**feedback**: Transferência concluída.<br>**recomendação**: Melhorar o processo de agendamento presencial para minimizar filas. |
+| 6.1. Biometria facial | **feedback**: Autenticação por reconhecimento facial bem-sucedida.<br>**recomendação**: Garantir alta precisão no sistema de biometria. |
+| 6.2. Presencial em uma sede do Detran | **feedback**: Confirmação realizada presencialmente.<br>**recomendação**: Simplificar processos burocráticos e oferecer suporte ao usuário no local. |
 
 
 <font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio).</font>
