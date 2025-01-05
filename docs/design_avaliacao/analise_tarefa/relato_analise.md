@@ -62,6 +62,33 @@ Contudo, para que o usuário tenha a experiência completa, foi sugerido a adiç
 
 De acordo com esses resultados, é indicado acrescentar na análise de tarefas a parte de acompanhamento, permitindo ao usuário uma experiência completa.
 
+
+**Tabela 2** - Perguntas da entrevista.
+
+| **Número** | **Pergunta**                                                                                          | **Resposta Possíveis**                                                                                      |
+|:-----------:|:----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+| **1**      | Qual o seu nome?                                                                                      | __Lucas Gama de Araujo Bottino__    |
+| **2**      | Qual seu grau de experiência com tecnologias?                                                        | __"Grau avançado"__ |
+| **3**      | Como você iniciaria o processo no sistema do Detran?                                                 | [__X__] Acessar o site/app do Detran e fazer login <br> [ ] Outro, como? <br> ⚠️ Informar para usar a conta Gov.br. |
+| **4**      | Como você escolheria o serviço desejado (transferência ou agendamento)?                              | [__X__] Selecionar o serviço na lista disponível <br> [ ] Outro, como?                                         |
+| **5**      | Como você confirmaria os dados apresentados (veículo ou serviço)?                                     | [__X__] Revisar e confirmar no sistema <br> [ ] Outro, como?                                                   |
+| **6**      | Como você realizaria a autenticação digital?                                                         | [__X__] Utilizar Gov.br para autenticação <br> [ ] Outro, como?                                                |
+| **7**      | Como você selecionaria a data e horário de um agendamento?                                           | [__X__] Escolher data e horário no calendário do sistema <br> [ ] Outro, como?                                 |
+| **8**      | Como você efetuaria o pagamento das taxas necessárias?                                               | [__X__] Gerar boleto/PIX e pagar pelo sistema <br> [ ] Outro, como?                                            |
+| **9**      | Como você confirmaria a finalização do processo (transferência ou agendamento)?                     | [__X__] Confirmar e baixar o documento digital <br> [ ] Outro, como?                                           |
+| **10**     | Como você acessaria a central de ajuda em caso de dúvidas?                                           | [__X__] Clicar em "Central de Ajuda" no site/app <br> [ ] Outro, como?                                         |
+| **11**     | A sequência de processos apresentada está clara para você? Se não, por quê?                         | __"Está clara"__ <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.                                       |
+| **12**     | Se houvesse um problema, você saberia como cancelar ou reagendar um serviço?                         | [ ] Sim, pelo painel de agendamentos <br> [__X__] Outro, como?                                                 |
+| **13**     | Observando os processos, há algo que você considera difícil ou confuso?                              | __"Não"__                                                                              |
+| **14**     | Os processos refletem sua experiência real?                                                          | (__X__) SIM ( ) NÃO                                                         |
+| **15**     | Você teria alguma sugestão de melhoria para os processos apresentados?                               | __"Adição de uma seção de acompanhamento de agendamento¨__                                                                                    |
+| **16**     | Você tem alguma sugestão de melhoria para a interface do sistema (site/app)?                         | __"Não"__                                                                          |
+
+**Autor** - [Márcio Henrique](https://github.com/DeM4rcio).
+
+</center>
+
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lbbGdTf9scc?si=q-6VZDFgPWNzRriJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
