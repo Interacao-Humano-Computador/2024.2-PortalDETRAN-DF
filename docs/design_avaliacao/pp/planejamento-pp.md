@@ -99,7 +99,7 @@ Durante essa tarefa, será avaliado o fluxo de navegação do participante, a cl
 A realização das entrevistas não pode gerar custos a equipe e ao usuário, portanto, elas deverão ser feitas utilizando as seguintes ferramentas:
 
 
-- [Protótipo de Papel Impresso](https://marvelapp.com/prototype/9i40deb) para entrevista presencial;
+- Protótipo de Papel Impresso para entrevista presencial;
 - Perguntas para serem respondidas com a avaliação;
 - Tarefas para os participantes executarem;
 - Termo de Consentimento;
