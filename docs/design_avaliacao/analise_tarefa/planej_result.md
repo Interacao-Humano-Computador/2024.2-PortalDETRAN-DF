@@ -30,7 +30,7 @@ Optamos por combinar observação e entrevistas com os usuários, seguindo um mo
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Márcio Henrique](https://github.com/DeM4rcio)  |   <span style = "color: orange">Bruno Bragança</span>     |       16:40       |     16:45       | 22/12/2024 | Plataforma Google Meet |
-|  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       19:00       |     19:05      | 27/05/2023 | Plataforma Discord |
+|  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       17:00       |     17:05      | 03/05/2025 | Presencial |
 
 
 

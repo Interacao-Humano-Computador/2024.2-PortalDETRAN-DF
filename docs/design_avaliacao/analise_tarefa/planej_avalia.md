@@ -53,7 +53,8 @@ A escolha se dá pelo fato de ser um método investigativo que permite coletar m
 
 ### Recrutamento
 
-O processo se inicia pelo recrutamento das pessoas entrevistadas, essas pessoas deverão ter as características elucidadas pelo [perfil de usuário](../../../../analise-de-requisitos/perfil-usuario) e pelas [personas](../../../../analise-de-requisitos/personas). Serão entrevistados os 2 integrantes do grupo, a fim de garantir a coleta de perspectivas diversas e um contato real com os usuários.
+O processo se inicia pelo recrutamento das pessoas entrevistadas, essas pessoas deverão ter as características elucidadas pelo [perfil de usuário](../../../../analise-de-requisitos/perfil-usuario) e pelas [personas](../../../../analise-de-requisitos/personas). 
+
 
 ### Preparação
 
@@ -88,7 +89,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Márcio Henrique](https://github.com/DeM4rcio)  |   Bruno Bragança     |       16:40       |     16:45      | 20/12/2024 | Presencial |
-|  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 03/01/2025 | Presencial |
+|  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       17:00       |     17:05      | 03/05/2025 | Presencial |
 
 
 **Autores** - _[Márcio Henrique](https://github.com/DeM4rcio)  e [Luiza Maluf](https://github.com/LuizaMaluf)_

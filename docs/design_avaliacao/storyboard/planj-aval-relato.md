@@ -24,7 +24,7 @@ Apresentar os [objetivos da avaliação](planej-aval-story.md#objetivos-gerais-d
 
 ### __Participante__
 
-Deverá estar explícito quem foi o avaliador, quem foi o participante do teste piloto e quem foi o entrevistado.
+A seleção dos entrevistados foi realizada com base no [perfil de usuário](../../analiseRequisitos/perfilUsuario.md) definido para o projeto, garantindo que os participantes representem o público-alvo desejado. 
 
 ### __Metétodo da avaliação__
 
@@ -36,7 +36,7 @@ Optamos por combinar observação e entrevistas com os usuários, seguindo um mo
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Márcio Henrique](https://github.com/DeM4rcio)  |   <span style = "color: orange">Bruno Bragança</span>     |       17:30       |     17:40       | 22/12/2024 | Plataforma Google Meet |
-|  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       20:00       |     20:15      | 27/05/2023 | Plataforma Discord |
+|  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       17:25       |     17:30      | 27/05/2023 | Presencial |
 
 
 

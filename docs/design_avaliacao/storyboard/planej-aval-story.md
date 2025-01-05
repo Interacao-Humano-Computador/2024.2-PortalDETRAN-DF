@@ -65,7 +65,13 @@ Será feita uma entrevista com um usuário que esteja dentro dos aspectos listad
 
 #### __Participantes__
 
-Os participantes das entrevistas serão escolhidos com base no [Perfil de usuário](../../analiseRequisitos/perfilUsuario.md).
+A seleção do entrevistado foi realizada com base no [perfil de usuário](../../analiseRequisitos/perfilUsuario.md#1-motoristas-habilitados-com-veículo-próprio) de forma que seja um representante do público alvo desejado.
+
+Nesse sentido, __Lucas Gama de Araujo Bottino (21)__, foi o canditado 
+escolhido representando o Perfil A uma vez que é habilitado, possui 
+experiência intermediária para avançada com tecnologia, e possui tarefas
+primárias como renovação de CNH, consulta de multas e agendamento de serviços.
+
 
 #### __Cronograma das atividades__
 
@@ -80,7 +86,7 @@ Os participantes das entrevistas serão escolhidos com base no [Perfil de usuár
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Márcio Henrique](https://github.com/DeM4rcio)  |   Bruno Bragança     |       16:40       |     16:45      | 20/12/2024 | Presencial |
-|  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       20:40       |     20:50      | 03/01/2025 | Presencial |
+|  [Luiza Maluf](https://github.com/LuizaMaluf) |    Lucas Gama    |       17:25       |     17:30      | 03/01/2025 | Presencial |
 
 
 #### __Ferramentas__
@@ -124,8 +130,6 @@ Eu, _[Nome Completo do Participante]_, dou meu consentimento para colher e utili
 ### __Avaliar (Evaluate), interpretar e apresentar os dados (E)__
 
 Após a realização da avaliação, os dados devem ser analisados de acordo com o prosto pelo [Planejamento do Relato dos Resultados](planj-aval-relato.md)
-
-
 
 
 ## __Referências Bibliográficas__
