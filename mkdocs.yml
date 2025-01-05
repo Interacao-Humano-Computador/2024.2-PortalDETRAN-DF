@@ -37,6 +37,9 @@ nav:
         - Planejamento da Avaliação do Relato dos Resultados: design_avaliacao/storyboard/planj-aval-relato.md
         - Storyboards: design_avaliacao/storyboards.md
         - Relato dos resultados: design_avaliacao/storyboard/relato_storyboard.md
+    - Nivel 2:
+      - Protótipo de papel:
+        - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao/pp/planejamento-pp.md
 
   - Verificação:
       - Verificação do Grupo:
