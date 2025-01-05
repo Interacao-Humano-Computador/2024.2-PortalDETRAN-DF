@@ -25,36 +25,7 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 
 Dentro das tarefas com método HTA,  foram escolhidos o acesso ao CNH do usuário, Agendar um serviço e transfência veícular.
 
-### __Acesso ao CNH do usuário__
 
-
-Nessa tarefa, o usuário possui o objetivo de acessar os dados de sua CNH . A figura 2 apresenta o diagrama HTA relativa a tarefa, já a tabela 1 representa o mesmo HTA em tabela.
-
-<center>
-
-
-<font size="3"><b>Figura 2</b> - Diagrama HTA de consulta CNH.</font>
-
-![Notação diagrama HTA](../../assets/analise_tarefas/visualizarCNH.png)
-
-
-<font size="3"><p style="text-align: center">Autor: [Kaio Enzo](https://github.com/kaioenzo).</p></font>
-
-
-
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de visualização de pedidos.</p></font>
-
-|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
-| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0.Visualizar CNH   |                                                                                                                                                                                                         |
-|      1.Cadastro      | **input**: dados de cadastro.<br>**feedback**: usuário redirecionado para a página de confirmação de email.<br> **plano**: confirmar conta e depois fazer login.                                        |
-|     1.1.Confirmar perfil     | **feedback**: após confirmar o email o usuário é liberado para fazer login.                                                                                                                             |
-|       1.2.login        | **input**: dados de login.<br>**feedback**: usuário redirecionado para a página dos serviços mais acessados.<br> **plano**: abrir área de CNH. <br>|
-| 2.Acesso a CNH | **input**: apertar na opção de consulta CNH.<br>**feedback**: usuário redirecionado para a página listando a pontuação da carteira<br>                                                                                   |
-
-<font size="3">Autor: [Kaio Enzo](https://github.com/kaioenzo).</font>
-
-</center>
 
 ### __Agendamento de serviço__
 
@@ -149,5 +120,6 @@ Nessa tarefa, o usuário possui o objetivo de transferir veículo  . A figura 5 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
 | `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| 
-| '2.0'  | 20/11/2024 | Correção do HTA do agendamento de serviço | [Luiza Maluf](https://github.com/LuizaMaluf)|[Márcio Henrique](https://github.com/DeM4rcio)|
-| ´2.1'  | [Márcio Henrique](https://github.com/DeM4rcio)| [Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.1`  | 20/11/2024 | Correção do HTA do agendamento de serviço | [Luiza Maluf](https://github.com/LuizaMaluf)|[Márcio Henrique](https://github.com/DeM4rcio)|
+| `1.2`  | 22/11/2024|Correção do HTA de transferência de veículos|[Márcio Henrique](https://github.com/DeM4rcio)| [Luiza Maluf](https://github.com/LuizaMaluf)|
+| `1.3`  | 05/01/2025| Ajuste das Análise de tarefas| [Márcio Henrique](https://github.com/DeM4rcio)| [Luiza Maluf](https://github.com/LuizaMaluf)|

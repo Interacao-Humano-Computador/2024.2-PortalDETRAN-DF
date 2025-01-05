@@ -88,7 +88,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Márcio Henrique](https://github.com/DeM4rcio)  |   Bruno Bragança     |       16:40       |     16:45      | 20/12/2024 | Presencial |
+|  [Márcio Henrique](https://github.com/DeM4rcio)  |   <span style = "color: orange">Eduardo Galvão</span>     |       11:30       |     11:45      | 03/05/2024 | Presencial |
 |  [Luiza Maluf](https://github.com/LuizaMaluf)  |   <span style = "color: orange">Lucas Gama</span>     |       17:00       |     17:05      | 03/05/2025 | Presencial |
 
 

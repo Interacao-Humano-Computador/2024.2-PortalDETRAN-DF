@@ -53,24 +53,6 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 
 ---
 
-### __Acesso à CNH do Usuário__
-
-**Tabela 5**
-
-| Etapa                 | Descrição                                          | Tipo de Operação | Tempo Estimado (s) |
-|-----------------------|--------------------------------------------------|------------------|---------------------|
-| **4.1**              | Acessar o site do Detran                          | [P] Apontar      | 1.1                 |
-| **4.2**              | Clicar no menu "CNH"                              | [K] Clique       | 0.2                 |
-| **4.3**              | Selecionar "Consultar minha CNH"                  | [P] Apontar      | 1.1                 |
-| **4.4**              | Digitar CPF e senha                               | [K] Digitar      | 5                   |
-| **4.5**              | Confirmar o login                                 | [K] Clique       | 0.2                 |
-| **Total Aproximado** |                                                    |                  | ~7-8 segundos       |
-
-<font size="3"><p style="text-align: center">_Autor: [[Kaio Enzo](https://github.com/kaioenzo)<a id=anchor_1 href="#REF1"></a></p></font>
-
-> Conclusão:O acesso à CNH é rápido e eficiente, desde que o usuário tenha seus dados de login disponíveis. Este processo oferece uma maneira conveniente de acessar informações pessoais sem depender de atendimento presencial.
-
-
 
 
 ## __Referências Bibliográficas__
@@ -83,4 +65,5 @@ A escolha de um KLM (Keystroke-Level Model) é motivada pela sua capacidade de a
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| [Kaio Enzo](https://github.com/kaioenzo)|
+| `1.0`  | 30/11/2024 | Adição de informações da analise de tarefas. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| 
+| `1.1`  | 05/01/2025 | Mudanças as análise de tarefas KLM. | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)| 

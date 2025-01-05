@@ -16,7 +16,7 @@ O objetivo do projeto é fazer a avaliação de IHC do site [Portal DETRAN - DF]
   <tr>
     <td align="center"><a href="https://github.com/LuizaMaluf"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/117913962?v=4&size=64" width="100px;" alt=""/><br /><sub><b>Luiza Maluf Amorim</b></sub></a><br />
     <td align="center"><a href="https://github.com/DeM4rcio"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101139064?v=4" width="100px;" alt=""/><br /><sub><b>Marcio Henrique de Sousa Costa</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://github.com/kaioenzo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/59144744?v=4" width="100px;" alt=""/><br /><sub><b> Kaio Enzo Silva De Melo Salgado</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
+    
 
   </tr>
 </table>
@@ -35,5 +35,6 @@ O objetivo do projeto é fazer a avaliação de IHC do site [Portal DETRAN - DF]
 | `1.0`  | 04/11/2024 | Criação do git page | [Luiza Maluf](https://github.com/LuizaMaluf) |
 | `1.1`  | 06/11/2024 | Adição de membro | [Kaio Enzo](https://github.com/kaioenzo) |
 | `2.0`  | 28/11/2024 | Mudança do site estudado | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| `2.1`  | 05/01/2025 | Mudança de integrantes | [Márcio Henrique](https://github.com/DeM4rcio) |
 
 </center>
