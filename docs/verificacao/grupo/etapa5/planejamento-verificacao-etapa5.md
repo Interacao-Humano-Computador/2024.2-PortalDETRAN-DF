@@ -125,7 +125,7 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 | **6**  | O documento possui cronograma? | - | - |
 | **7**  | O docuemnto possui a descrição das questões práticas da avaliação?| - | - |
 | **8**  | O planejamento possui uma seção que trata dos aspectos éticos?| - | - |
-| **9**  | O planejamento possui uma seção de teste piloto com todas as suas devidas informações e vídeo? | - | - |
+| **9**  | O planejamento possui uma seção de teste piloto com todas as suas devidas informações? | - | - |
 
 _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
@@ -154,10 +154,6 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 ## __Referências Bibliográficas__
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-
-## __Bibliografia__
-
-> MACHADO, Maurício; Planejamento do relato de resultados. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas/>>. Acesso em: 09 dezembro 2024.
 
 ## __Histórico de Versões__
 
