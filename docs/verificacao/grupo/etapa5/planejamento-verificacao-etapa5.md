@@ -137,15 +137,14 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 |--------|---------------|---------------|-----------------|
-| **1**  | O planejamento possui os objetivos explícitos? | - | - |
-| **2**  | O documento possui um tópico sobre a metodologia? | - | - |
-| **3**  | O documento possui as perguntas que devem ser usadas na avaliação? | - | - |
-| **4**  | O documento possui um tópico sobre quais foram os participantes?| - | - |
-| **5**  | Existe uma seção no planejamento dedicada ao feedback dos usuários?| - | - |
-| **6**  | Há tópicos definidos para resumir os principais resultados da avaliação? | - | - |
-| **7**  | Existe uma seção de melhorias ou plano de reprojeto do sistema com base nos resultados obtidos?| - | - |
-| **8**  | O planejamento possui uma seção que trata dos aspectos éticos?| - | - |
-| **9**  | O planejamento possui uma seção de análise e interpretação dos resultados? | - | - |
+| **1**  | O documento possui um tópico sobre quais são os objetivos do relato?  | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **2**  | O documento possui um tópico sobre a metodologia de prototipação de papel? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **3**  | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **7**  | O documento está estruturado conforme os relatos realizados anteriores?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
+
 
 _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
