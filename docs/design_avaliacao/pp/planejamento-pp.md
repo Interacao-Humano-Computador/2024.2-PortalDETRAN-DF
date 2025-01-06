@@ -124,7 +124,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
 | ------------- | ------- | ---------- | ----------- | ------------------ |
 | [Márcio Henrique](https://github.com/DeM4rcio)  |<span style = "color: orange"> Eduardo Galvão Cavalheiro</span>| 08/01/2025 | 15:20-15:26 | Presencial|
-| [Luiza Maluf](https://github.com/LuizaMaluf)   |<span style = "color: orange"> Lucas Gama</span>| 08/01/2025 | 15:32-15:37 | Presencial |
+| [Luiza Maluf](https://github.com/LuizaMaluf)   |<span style = "color: orange"> Mauro Moura</span>| 08/01/2025 | 15:32-15:37 | Presencial |
 
 </center>
 
