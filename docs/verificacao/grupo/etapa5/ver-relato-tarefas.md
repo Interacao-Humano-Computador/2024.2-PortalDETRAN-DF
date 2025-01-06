@@ -8,6 +8,19 @@ Este documento detalha a verificação do artefato [Verificação do Relato dos 
 
 O modelo de verificação consistirá em um preenchimento de uma lista de verificação construída a partir dos conceitos trabalhados pela disciplina.
 
+|  ID  | Descrição  | Avaliação  | Observações |
+| :--: | ---------- | :--------: | :--------: |
+|      | **Padronização**                                                                                       |
+|  1   | O artefato possui introdução?   |    __SIM__   |                     -                     |
+|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |    __SIM__     |                     -                     |
+|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    __SIM__      |                                       |
+|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?   |   __SIM__       |                     -                     |
+|  5   | Todos os textos estão na norma padrão? |   __SIM__      |                     -                     |
+|      |
+
+_Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
+
+
 <center>
 
 
