@@ -146,5 +146,5 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf)_
 
 | Versão |    Data    |      Descrição      |             Autor(es)                        |Revisor(es)|
 |--------|------------|---------------------|----------------------------------------------|---------|
-| `1.0`  | 04/01/2025 | Registro da avaliação do storyboard referente ao agendamento de serviços | [Luiza Maluf](https://github.com/LuizaMaluf)||
-| `1.1`  | 05/01/2025 | Registro da avaliação do storyboard referente a trasferência de veículos | [Márcio Henrique](https://github.com/DeM4rcio)||
+| `1.0`  | 04/01/2025 | Registro da avaliação do storyboard referente ao agendamento de serviços | [Luiza Maluf](https://github.com/LuizaMaluf)|[Márcio Henrique](https://github.com/DeM4rcio)|
+| `1.1`  | 05/01/2025 | Registro da avaliação do storyboard referente a trasferência de veículos | [Márcio Henrique](https://github.com/DeM4rcio)|[Luiza Maluf](https://github.com/LuizaMaluf)|
