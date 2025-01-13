@@ -23,13 +23,6 @@ Este projeto, será desenvolvido no âmbito da disciplina de Interação Humano-
         <sub><b>Marcio Henrique de Sousa Costa</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/kaioenzo">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/59144744?v=4" width="100px;" alt=""/>
-        <br />
-        <sub><b>Kaio Enzo Silva de Melo Salgado</b></sub>
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -40,3 +33,4 @@ Este projeto, será desenvolvido no âmbito da disciplina de Interação Humano-
 | Versão |    Data    |      Descrição      |             Autor(es)                        |
 |--------|------------|---------------------|----------------------------------------------|
 | `1.0`  | 05/11/2024 | README | [Márcio Henrique](https://github.com/DeM4rcio) |
+| `1.1`  | 12/01/2024 | Mudança de Integrantes | [Márcio Henrique](https://github.com/DeM4rcio) |
