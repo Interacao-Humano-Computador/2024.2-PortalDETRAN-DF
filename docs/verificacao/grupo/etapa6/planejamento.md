@@ -69,7 +69,40 @@ _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 </center>
 
+### __Relato dos Resultados da Avaliação dos Protótipos de Papel__
 
+<center>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Autor do Item** |
+|--------|---------------|---------------|----------------|--------------------|
+| **1**  | O relato possui o objetivo e escopo de avaliação dos reusltados? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| **2**  | O relato possui a metodologia utilizada? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| - | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| **6** | O relato possui o link de gravação da entrevista? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+
+_Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
+
+</center>
+
+### __Planejamento da Avaliação do Protótipo de Alta fidelidade__
+
+<center>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|-----------------|
+| **1**  | O planejamento possui os objetivos explícitos? | - | - |
+| **2**  | O planejamento segue o framwork DECIDE? | - | - |
+| **3**  | O documento possui as perguntas que devem ser usadas na avaliação? | - | - |
+| **4**  | O documento possui as metodologias usadas na avaliação? | - | - |
+| **5**  | O docuemnto possui os participantes da avaliação | - | - |
+| **6**  | O documento possui cronograma? | - | - |
+| **7**  | O docuemnto possui a descrição das questões práticas da avaliação?| - | - |
+| **8**  | O planejamento possui uma seção que trata dos aspectos éticos?| - | - |
+| **9**  | O planejamento possui uma seção de teste piloto com todas as suas devidas informações? | - | - |
+
+_Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 </center>
 
@@ -92,6 +125,7 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 </center>
 
+
 ## __Referências Bibliográficas__
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
@@ -101,3 +135,4 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 13/01/2025 | Criação da página.     | [Márcio Henrique](https://github.com/DeM4rcio) | [LuizaMaluf](https://github.com/LuizaMaluf) |
+| `1.1`| 14/01/2025 | Criação do resto das listas de verificação | [LuizaMaluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) |

@@ -113,6 +113,8 @@ Propõe-se as seguintes sugestões de correções:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IZgaDwsuxwo?si=TD4Wp-2079g-Hhsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+_Termo de consentimento para entrevista: [clique aqui](termo_gabriel.pdf)_
+
 ## __Referências Bibliográficas__
 
 > _BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011._
