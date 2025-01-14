@@ -1,6 +1,6 @@
 # __Planejamento da Avaliação do Relato dos Resultados__
 
-# __INtrodução__
+# __Introdução__
 
 Este artefato tem como objetivo documentar o planejamento do 
 relato dos resultados realizados da avaliação do protótipo de alta fidelidade.
