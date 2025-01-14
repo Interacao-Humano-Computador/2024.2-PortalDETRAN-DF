@@ -164,6 +164,14 @@ Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o própr
 
 Dito isso, a execução do teste-piloto será feito no dia 08/01/2025 às 12:20 e com a presença dos integrantes [Márcio Henrique](https://github.com/DeM4rcio) e [Luiza Maluf](https://github.com/LuizaMaluf).
 
+## Execução do Teste Piloto
+
+Vale resaltar que devido ocasiões diversas, tivemos que realizar o teste piloto, individualmente a cada tarefa do projeto (Transferência de Veículos e Agendamento de Serviço).
+
+### Teste Piloto Transferência de Veículos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DJqyEzBDNY?si=VWtVj_TPAbuyWa_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > Estruturado a partir do Planejamento da Avaliação da Análise de Tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/>>.Acesso em 05 de janeiro de 2025.
