@@ -41,6 +41,7 @@ nav:
       - Protótipo de papel:
         - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao/pp/planejamento-pp.md
         - Planejamento da Avaliação do Relato dos Resultados: design_avaliacao/pp/planejamento_relato.md
+        - Relato dos resultado: design_avaliacao/pp/relato_pp.md
     - Nível 3:
       - Protótipo de alta fidelidade:
         - Planejamento da Avaliação do protótipo de alta fidelidade: design_avaliacao/p_alta/planejamento_exec.md
@@ -80,8 +81,8 @@ nav:
               - Verificação do Planejamento do Relato da Protoripação em Papel: verificacao/grupo/etapa5/verf-plan-rela-pp.md
               - Verificaçao do Relato dos resultados Análise de tarefas:  verificacao/grupo/etapa5/ver-relato-tarefas.md
               - Verificação do Relato dos resultados Storyboard: verificacao/grupo/etapa5/ver-relato-story.md
-          - Etapa 7:
-              - Planejamento da Verificação da Etapa 7: verificacao/grupo/etapa6/planejamento.md
+          - Etapa 6:
+              - Planejamento da Verificação da Etapa 6: verificacao/grupo/etapa6/planejamento.md
       - Verificação do Grupo 01: 
           - Etapa 1:
               - Verificação da Etapa 1: verificacao/grupo/grupo01/etapa1/verificacao-etapa1.md
