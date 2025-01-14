@@ -1,4 +1,4 @@
-# __Planejamento da Verificação da Etapa 5__
+# __Planejamento da Verificação da Etapa 6__
 
 ## __Introdução__
 
