@@ -230,6 +230,22 @@ Abaixo temos na tabela 7 contendo o planejado e executado da entrega 6
 
 <font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio). Fonte: [Plano de Ensino, 2024](https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf)</p></font>
 
+### Executado
+<center>
+
+**tabela 10** - Planejamento da entrega 6
+</center>
+
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisão | Revisores |
+|------------|---------------------------|--------------|---------|-----------|
+|Relato dos resultados do Protótipo de Papel| Início: 08/01 <br>Fim: 10/01|Márcio e Luiza|Início:10/01 <br>Fim: 10/01 |Luiza|
+|Planejamento da Avaliação do protótipo de alta fidelidade|Início:10/01 <br>Fim: 11/01 |Márcio| Início:13/01 <br>Fim:13/01 |Luiza|
+|Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 12/01 <br>Fim: 12/01|Luiza|Início:12/01 <br>Fim:12/01|Márcio|
+|Gravar apresentação|Início:14/01 <br>Fim:14/01|Márcio e Luiza|Início:14/01 <br>Fim:14/01|Márcio|
+|Correção após apresentação| Início:16/01 <br>Fim:16/01 |Márcio|Início:16/01 <br>Fim:16/01| Luiza |
+
+<font size="3"><p style="text-align: center">Autor: [Márcio Henrique](https://github.com/DeM4rcio). Fonte: [Plano de Ensino, 2024](https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf)</p></font>
+
 
 ## __Entrega 7__
 
