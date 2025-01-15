@@ -121,7 +121,7 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 | **7**  | O documento está estruturado conforme os relatos realizados anteriores?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
 
 
-_Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
+_Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025._
 
 </center>
 

@@ -125,7 +125,7 @@ _Termo de consentimento para entrevista: [clique aqui](termo_gabriel.pdf)_
 
 | Versão | Data       | Descrição                                       | Autor            | Revisor                   |
 | ------ | ---------- | ----------------------------------------------- | ---------------- | ------------------------- |
-| `1.0`   | 14/01/2025 | Criação do documento | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| `1.0`   | 14/01/2025 | Criação do documento e entrevista | [Márcio Henrique](https://github.com/DeM4rcio) | [Luiza Maluf](https://github.com/LuizaMaluf) |
 | `1.1`   | 14/01/2025 | Acrescentando as informações da entrevista 2 | [Luiza Maluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) |
 
 

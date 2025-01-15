@@ -35,16 +35,16 @@ _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 |--------|---------------|---------------|-----------------|
-| **1**  | O documento possui um tópico sobre quais são os objetivos do relato?  | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **2**  | O documento possui um tópico sobre a metodologia de prototipação de Alta fidelidade? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **3**  | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **7**  | O documento está estruturado conforme os relatos realizados anteriores?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **1**  | O documento possui um tópico sobre quais são os objetivos do relato?  | **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **2**  | O documento possui um tópico sobre a metodologia de prototipação de Alta fidelidade? | **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **3**  | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?| **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?| **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **7**  | O documento está estruturado conforme os relatos realizados anteriores?| **Sim** | [Márcio Henrique](https://github.com/DeM4rcio) |
 
 
-_Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
+_Adaptado: Márcio Henrique_
 
 </center>
 
