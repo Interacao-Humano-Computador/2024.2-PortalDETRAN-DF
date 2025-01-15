@@ -1,8 +1,8 @@
-# __Verificação do Relato da Avaliação da Prototipação de papel__
+# __Verificação do Relato dos Resultados da Avaliação da Prototipação de papel__
 
 ## __Introdução__
 
-Este documento detalha a verificação do artefato [Verificação do Relato da Avaliação da Prototipação de papel](../../../design_avaliacao/pp/relato_pp.md).
+Este documento detalha a verificação do artefato [Relato dos Resultados da Avaliação da Prototipação de papel](../../../design_avaliacao/pp/relato_pp.md).
 
 ## __Metodologia__
 
@@ -38,7 +38,7 @@ _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Autor do Item** |
 |--------|---------------|---------------|----------------|--------------------|
 | **1**  | O relato possui o objetivo e escopo de avaliação dos reusltados? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **2**  | O relato possui a metodologia utilizada? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| **2**  | O relato possui a metodologia utilizada? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
 | **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf) |
@@ -55,7 +55,7 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Autor do Item** |
 |--------|---------------|---------------|----------------|--------------------|
 | **1**  | O relato possui o objetivo e escopo de avaliação dos reusltados? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **2**  | O relato possui a metodologia utilizada? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| **2**  | O relato possui a metodologia utilizada? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
 | **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf) |
@@ -64,10 +64,6 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
 </center>
-
-
-
-
 
 ## __Referências Bibliográficas__
 

@@ -1,10 +1,12 @@
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
+# __Planejamento da Avaliação do Protótipo de Alta Fidelidade__
 
-## Introdução
+## __Introdução__
 
-O prototipo de alta fidelidade é um recurso para testar o produto ou serviço com design e interatividade semelhantes à entrega final .Nesta avaliação é um processo essencial para que o processo de desenvolvimento consiga produzir um sistema com alta qualidade. Com base nisso, o artefato a seguir visa planejar a avaliação do protótipo de alta fidelidade. Para tanto, serão realizadas entrevistas com usuários reais do produto, tendo como base o [perfil de usuário](../../analiseRequisitos/perfilUsuario.md), assim será possível avaliar sua perspectiva de forma dinâmica.
+O prototipo de alta fidelidade é um recurso para testar o produto ou serviço com design e interatividade semelhantes à entrega final. Nesta avaliação é um processo essencial para que o processo de desenvolvimento consiga produzir um sistema com alta qualidade. 
 
-## Metodologia
+Com base nisso, o artefato a seguir visa planejar a avaliação do protótipo de alta fidelidade. Para tanto, serão realizadas entrevistas com usuários reais do produto, tendo como base o [perfil de usuário](../../analiseRequisitos/perfilUsuario.md), assim será possível avaliar sua perspectiva de forma dinâmica.
+
+## __Metodologia__
 
 Para realizar esse planejamento será utilizado o framework DECIDE, onde cada letra da palavra é uma etapa a ser realizada no planejamento. A tabela 1 a seguir apresenta o significado de cada letra.
 
@@ -25,13 +27,14 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 
 </center>
 
-## Objetivo 
+## __Objetivo__
+
 O objetivo da avaliação do protótipo de alta fidelidade é testar e obter feedback sobre a usabilidade, funcionalidade e aparência visual de um protótipo que se assemelha de forma mais precisa à versão final do produto ou serviço. A avaliação do protótipo de alta fidelidade busca identificar problemas, avaliar a eficácia do design e da interface além de realizar ajustes antes da implementação completa.
 
 <a id="met1"></a>
 
 
-## E - Explorar Perguntas Respondidas com a Avaliação
+## __E - Explorar Perguntas Respondidas com a Avaliação__
 
 Com base no objetivo da avaliação foram preparadas perguntas baseadas nos seguintes tópicos:
 - verificar a conformidade com um padrão;
@@ -46,28 +49,25 @@ As perguntas selecionadas tem o intuito de serem respondidas com essa avaliaçã
 - Foi possível obter opiniões, percepções e sugestões dos usuários em relação ao protótipo?
 - Foi possível identificar quaisquer problemas, erros ou áreas que precisam de ajustes no protótipo antes da implementação final?
 
-## C - Escolher os Métodos de Avaliação
+## __C - Escolher os Métodos de Avaliação__
 
 Para a confecção do artefato a seguir usaremos o teste de usabilidade, é um método empregado na ergonomia e na interação humano-computador, para avaliar e testar a usabilidade de produtos e sistemas, a partir da observação dos usuários durante a interação, como conceituado no [_Capítulo 10 de Barbosa e Silva (2011, p.341)_](../../assets/referencias/341.png). 
 A escolha se dá pelo fato de ser um método que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários. Ademais, tal entrevista deve ser estritamente **gravada** e **documentada**.
 
-## I - Identificar Questões Práticas da Avaliação
+## __I - Identificar Questões Práticas da Avaliação__
 
-### Recrutamento
+### __Recrutamento__
+
 Os participantes foram definidos com base no artefato [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/). Dentro de várias literaturas não se tem um numero exato de participantes, sendo m intervalo de 3 a 10 participantes. Para Krug, com três ou quatro participantes a maioria dos problemas é detectada. Dentro do contexto do nosso projeto, e partindo da recomendação de Krug escolheremos ter 3 participantes. Escolha retirada da literatura de [Santa-Rosa ,2005](../../assets/referencias/santa.png). 
 
-
-
-## Preparação 
+## __Preparação__ 
 
 Na atividade de preparação, são realizadas as atividades comuns aos métodos de observação.
 
 * Transferência de Veículo
 * Agendamento de Serviço
   
-
-
-#### Script
+#### __Script__
 
 Para a realização dessas tarefas o entrevistador passará um script ao participante com as seguintes informações:
 
@@ -76,9 +76,7 @@ Para a realização dessas tarefas o entrevistador passará um script ao partici
 
 Também será solicitado que a cada ação ele narre o que está fazendo.
 
-
-
-#### Transferência de veículo
+#### __Transferência de veículo__
 
 Essa tarefa tem o intuito do participante realizar uma busca de um determinado evento selecionado pelo entrevistador.
 
@@ -90,8 +88,7 @@ Após essa etapa, o participante precisará realizar o upload dos documentos obr
 
 Durante a execução, será avaliada a capacidade do participante de seguir as instruções fornecidas pelo sistema, bem como identificar eventuais dificuldades ou pontos de confusão no processo.
 
-#### Agendar Serviço
-
+#### __Agendar Serviço__
 
 O objetivo dessa tarefa consiste em determinar se o participante consegue agendar um serviço seguindo os passos apresentados pelo protótipo.
 
@@ -101,7 +98,7 @@ Após selecionar o serviço, o participante deverá escolher uma unidade do DETR
 
 Durante essa tarefa, será avaliado o fluxo de navegação do participante, a clareza das instruções do sistema e possíveis obstáculos que possam impedir a conclusão do agendamento.
 
-### Custos
+### __Custos__
 
 A realização das entrevistas não pode gerar custos a equipe e ao usuário, portanto, elas deverão ser feitas utilizando as seguintes ferramentas:
 
@@ -116,7 +113,7 @@ A realização das entrevistas não pode gerar custos a equipe e ao usuário, po
 
 Vale resaltar que os equipamentos necessários serão quaisquer dispositivos com acesso a internet, aos aplicativos de comunicação e a um navegador de internet que os envolvidos possuírem.
 
-### Prazos
+### __Prazos__
 
 Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo apresentado um cronograma com seus tópicos e logo abaixo a tabela 2 com as entrevistas:
 
@@ -143,7 +140,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 
 
-### Roteiro de Perguntas
+### __Roteiro de Perguntas__
 
 Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas aos usuários após o termino da avaliação. Já as as perguntas da tabela 4 tem como objetivo guiar os avaliadores com relação aos principais pontos a serem levados em consideração. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1). As perguntas foram construidas para atender as perguntas já descritas anteriormente, e adaptada ao livro de [_Santa-Rosa 2010, pg 176_](../../assets/referencias/176.png)
 
@@ -183,18 +180,18 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 </center>
 
-### Execução do roteiro
+### __Execução do roteiro__
 
 O entrevistador precisa instigar o usuário a explicitar suas ideias, de maneira verbal ou ilustrativa, em caso de discordância. Além disso, toda alteração proposta pelo usuário precisa ser anotada pelo entrevistador e, posteriormente, avaliada em conjunto para ser validada junto ao usuário ao final da atividade.
 
 <a id="met5"></a>
 
-## D - Lidando com as Questões Éticas
+## __D - Lidando com as Questões Éticas__
 
 Será utilizado o termo de consentimentoproduzido na seção de [aspectos éticos](../../analiseRequisitos/aspEticos.md), a fim de se obter dos participantes a autorização para que sejam realizadas as atividades necessárias à produção desse artefato e garantir que os participantes sejam respeitados durante e após a atividade.
 
 
-## E - Avaliar, Interpretar e Apresentar os Dados
+## __E - Avaliar, Interpretar e Apresentar os Dados__
 
 Após a realização da avaliação, os dados serão documentados e tratados, levando em conta o contexto em que eles foram produzidos, julgando se possuem alto grau de confiabilidade e que podem ser generalizados para representar a população de usuários do site.
 
@@ -204,26 +201,26 @@ Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time
 
 <a id="met6"></a>
 
-## Planejamento do Teste Piloto
+## __Planejamento do Teste Piloto__
 
 Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
 Dito isso, a execução do teste-piloto será realizado no dia 16 de janeiro de 2025 e com a presença dos integrantes [Márcio Henrique](https://github.com/DeM4rcio) e [Luiza Maluf](https://github.com/LuizaMaluf).
 
 
-## Bibliografia
+## __Bibliografia__
 
 > Estruturado a partir do Planejamento da Avaliação da Análise de Tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/>>.Acesso em 13 de janeiro de 2025.
 
 > Planejamento da avaliação do protótipo de papel do Grupo do Detran GO. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-DetranGO/design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao/>>.Acesso em 13 de janeiro de 2025.
 
-## Referências Bibliográficas
+## __Referências Bibliográficas__
 
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 >SANTA ROSA, José Guilherme. Avaliação e projeto no design de interface.
 
-## Histórico de Versão
+## __Histórico de Versão__
 
 | Versão | Data       | Descrição                                                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |

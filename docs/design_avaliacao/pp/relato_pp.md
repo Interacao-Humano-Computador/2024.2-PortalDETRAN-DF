@@ -1,10 +1,12 @@
-## Introdução
+# __Relato dos Resultados da Avaliação do Protótipo de Papel__
+
+## __Introdução__
 
 Este artefato é responsável pela documentação dos resultados encontrados 
 após a avaliação dos Protótipos de papel. Será seguido a estrutura conforme 
 explicitado no [Planejamento da Avaliação do Relato do Protótipo de Papel.](planejamento_relato.md)
 
-## Objetivo 
+## __Objetivo__
 
 Com o objetivo de criar uma experiência mais intuitiva e eficiente para os usuários, realizamos uma avaliação que permitiu identificar oportunidades de melhoria nos fluxos, nas ações e na organização visual da interface. Ao analisar como usuários reais interagem com o produto, conseguimos comparar diferentes alternativas de design e garantir que a interface estivesse alinhada com os padrões de usabilidade.
 
@@ -15,7 +17,7 @@ Para atingir esse objetivo definimos as seguintes perguntas:
 - Foi possível identificar problemas de usabilidade preliminares?
 - Foi possível identificar ideias principais de design?
 
-## Problemas Encontrados
+## __Problemas Encontrados__
 
 
 ### __Entrevista 1__
@@ -28,15 +30,15 @@ Foi necessária a narração da entrevista, uma vez que o único momento que foi
 
 Ademais, estava claro o passo a passo que usuário deveria seguir, assim como a sua execução.
 
-## Método de Avaliação
+## __Método de Avaliação__
 
 Os dados foram coletados por meio de duas entrevistas. No inicio das entrevistas foi apresentado o termo de consentimento para que o entrevistado dê sua resposta, sempre reforçando o fato de que está sendo gravado e de que a gravação será publicada. As reuniões foram feitas presencialmente, sendo cada um em local diferente, e o método para a realização das entrevistas pode ser conferido [aqui](../../design_avaliacao/pp/planejamento_relato.md). Portanto, fez-se a parte de preparação, e depois a coleta de dados. Antes do usuário interagir com o protótipo de papel, o entrevistador instruiu as ações que o entrevistado deve realizar, e que esse deve falar em voz alta o que está fazendo. 
 
-## Seleção de partipantes
+## __Seleção de partipantes__
 
 O número de participantes foi de 4 pessoas, sendo dois entrevistadores e dois usuários. O motivo pela escolha se dá pelo fato do tamanho da equipe que se encontra, e devido a isso houve poucos usuários oque pode comprometer na presição dos dados coletados.
 
-## Problemas e dificuldades encontradas
+## __Problemas e dificuldades encontradas__
 
 ### __Entrevista 1__
 
@@ -46,13 +48,13 @@ No decorrer da entrevista, a entrevistada **Marana** demonstrou certas dificulda
 
 No decorrer da entrevista, o entrevistado **Gabriel** conseguiu executar todo o roteiro de ações, contudo, a entrevistadora **Luiza** notou uma certa demora por parte do entrevistado na hora de ler cada aspecto do protótipo, isso ocorreu devido a não legibilidade adequada as informações escritas no protótipo.
 
-## Sugestão de Melhoria
+## __Sugestão de Melhoria__
 
 ### __Entrevista 2__
 
 A sugestão de melhoria é a melhor legibilidade das informações escritas no protótipo.
 
-## FeedBack dos usuários
+## __FeedBack dos usuários__
 
 ### __Entrevista 1__
 
@@ -65,7 +67,7 @@ A entrevistada **Marana** sugeriu que tivesse um atalho para acessar ao serviço
 O feedback do usuário foi positivo, uma vez que foi possível executar o roteiro com facilidade e até mesmo agilidade na hora da entrevista. O usuário afirmou também que já tinha feito agendamento pelo portal, logo teve facilidade na hora da avalaição.
 
 
-## Análise e Interpretação dos dados
+## __Análise e Interpretação dos dados__
 
 * __Com o protótipo de papel foi possível explorar conceitos de design__
 
@@ -91,25 +93,25 @@ __Entrevista 1:__ Sim, percebeu-se que a equipe não analisou sites concorrentes
 
 __Entrevista 2:__ Sim, foi possível uma vez que o usuário navegou no site com naturalidade.
 
-## Sumário dos princiáis resultados
+## __Sumário dos princiáis resultados__
 
 Propõe-se as seguintes sugestões de correções:
 
-### __Entrevista 1:__
+### __Entrevista 1__
 
 * Falar com atendente durante preenchimento de dados
 * Recolocação do botão **Transferência de Veículos**
 
-### __Entrevista 2:__
+### __Entrevista 2__
 
 * Melhorar a legibilidade do protótipo de papel. 
 
-### Entrevista 1
+## __Gravação Entrevista 1__
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nX5Z5NNocM?si=FFTKohZqSAjylLYz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Entrevista 2 
+### __Gravação Entrevista 2__ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IZgaDwsuxwo?si=TD4Wp-2079g-Hhsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

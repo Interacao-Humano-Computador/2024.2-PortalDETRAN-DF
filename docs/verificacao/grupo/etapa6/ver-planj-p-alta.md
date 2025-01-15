@@ -2,7 +2,7 @@
 
 ## __Introdução__
 
-Este documento detalha a verificação do artefato [Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](../.././../design_avaliacao/p_alta/planejamento_exec.md).
+Este documento detalha a verificação do artefato [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](../.././../design_avaliacao/p_alta/planejamento_exec.md).
 
 ## __Metodologia__
 

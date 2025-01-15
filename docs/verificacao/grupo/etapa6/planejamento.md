@@ -63,7 +63,6 @@ A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os a
 |  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |         |                                       |
 |  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |         |                     -                     |
 |  5   | Todos os textos estão na norma padrão?                                                                 |        |                     -                     |
-|      |
 
 _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 

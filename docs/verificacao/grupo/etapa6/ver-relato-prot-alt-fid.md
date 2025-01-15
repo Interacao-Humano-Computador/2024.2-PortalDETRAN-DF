@@ -1,8 +1,8 @@
-# __Verificação do Relato da Avaliação da Prototipação de Alta Fidelidade__
+# __Verificação do Relato dos Resultados da Avaliação da Prototipação de Alta Fidelidade__
 
 ## __Introdução__
 
-Este documento detalha a verificação do artefato [Verificação do Relato da Avaliação da Prototipação de Alta Fidelidade](../../../design_avaliacao/p_alta/planejamento_exec.md).
+Este documento detalha a verificação do artefato [Relato da Avaliação da Prototipação de Alta Fidelidade](../../../design_avaliacao/p_alta/planejamento_exec.md).
 
 ## __Metodologia__
 
