@@ -77,8 +77,8 @@ _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 | **1**  | O relato possui o objetivo e escopo de avaliação dos reusltados? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **2**  | O relato possui a metodologia utilizada? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
 | **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| - | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | - | - | [Márcio Henrique](https://github.com/DeM4rcio)|
+| **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? | - | - | [Márcio Henrique](https://github.com/DeM4rcio) |
 | **6** | O relato possui o link de gravação da entrevista? | - | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
 
 _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
@@ -89,16 +89,16 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
 <center>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | 
 |--------|---------------|---------------|-----------------|
-| **1**  | O planejamento possui os objetivos explícitos? | - | - |
-| **2**  | O planejamento segue o framwork DECIDE? | - | - |
-| **3**  | O documento possui as perguntas que devem ser usadas na avaliação? | - | - |
-| **4**  | O documento possui as metodologias usadas na avaliação? | - | - |
-| **5**  | O docuemnto possui os participantes da avaliação | - | - |
-| **6**  | O documento possui cronograma? | - | - |
-| **7**  | O docuemnto possui a descrição das questões práticas da avaliação?| - | - |
-| **8**  | O planejamento possui uma seção que trata dos aspectos éticos?| - | - |
+| **1**  | O planejamento possui os objetivos explícitos? | - | - | 
+| **2**  | O planejamento segue o framwork DECIDE? | - | - | 
+| **3**  | O documento possui as perguntas que devem ser usadas na avaliação? | - | - | 
+| **4**  | O documento possui as metodologias usadas na avaliação? | - | - | 
+| **5**  | O docuemnto possui os participantes da avaliação | - | - | 
+| **6**  | O documento possui cronograma? | - | - | 
+| **7**  | O docuemnto possui a descrição das questões práticas da avaliação?| - | - | 
+| **8**  | O planejamento possui uma seção que trata dos aspectos éticos?| - | - | 
 | **9**  | O planejamento possui uma seção de teste piloto com todas as suas devidas informações? | - | - |
 
 _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
@@ -109,15 +109,15 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 
 <center>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-|--------|---------------|---------------|-----------------|
-| **1**  | O documento possui um tópico sobre quais são os objetivos do relato?  | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **2**  | O documento possui um tópico sobre a metodologia de prototipação de Alta fidelidade? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **3**  | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | - | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **7**  | O documento está estruturado conforme os relatos realizados anteriores?| - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | | **Autor do Item** |
+|--------|---------------|---------------|-----------------|---------------------|
+| **1**  | O documento possui um tópico sobre quais são os objetivos do relato?  | - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
+| **2**  | O documento possui um tópico sobre a metodologia de prototipação de Alta fidelidade? | - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
+| **3**  | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
+| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?| - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
+| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?| - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
+| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
+| **7**  | O documento está estruturado conforme os relatos realizados anteriores?| - |-| [Márcio Henrique](https://github.com/DeM4rcio) |
 
 
 _Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025._
