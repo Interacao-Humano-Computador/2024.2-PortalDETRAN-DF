@@ -63,7 +63,7 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
 _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
-</center>
+</center>g
 
 ## __Referências Bibliográficas__
 

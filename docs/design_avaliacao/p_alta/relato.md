@@ -27,6 +27,8 @@ Utilizamos o teste de usabilidade como metodologia principal para avaliar a inte
 | -------------------------------------------- | ---------------------------------------------------- | ---------- | ----------- | ------------- |
 | [Márcio Henrique](https://github.com/DeM4rcio) | <span style = "color: black">Eduardo</span>  | 23/01/2025 | 16:30-16:45 | Presencial |
 | [Márcio Henrique](https://github.com/DeM4rcio) | <span style = "color: orange">Rayssa</span>    | 23/01/2025 | 16:10-16:25 | Presencial |
+| [Luiza Maluf](https://github.com/LuizaMaluf) | <span style = "color: orange">Irailde</span>    | 26/01/2025 | 10:30-16:45 | Presencial |
+
 
 Fonte: [Márcio Henrique](https://github.com/DeM4rcio) .
 
@@ -34,7 +36,8 @@ Fonte: [Márcio Henrique](https://github.com/DeM4rcio) .
 
 ### Local
 
-Os testes ocorreram de forma presencial, aos que foram realizadas pelo Márcio foram feitas fora das dependências da FCTE.
+Os testes ocorreram de forma presencial, aos que foram realizadas pelo Márcio foram feitas fora das dependências da FCTE. Enquanto a que foi realizada por Luiza foi em um ponto de encontro marcado com ambos os participantes.
+
 ### Ferramentas
 
 As ferramentas utilizadas foram as seguintes:
@@ -46,22 +49,60 @@ As ferramentas utilizadas foram as seguintes:
 
 ### Tarefas
 
-As tarefas realizadas pelos os usuarios foram as seguintes:
+As tarefas realizadas pelos os usuários foram as seguintes:
 
 - Trasferência de veículos;
+- Agendamento de serviço e acompanhamento de serviço.
 
 
 ### Descrição dos Testes
 
-Antes de se iniciar os testes em si foi apresentado ao usuário um _script_ contendo as ações que o entrevistado deveria realizar dentro do sistema. O entrevistado também foi orientado a reproduzir as ações que estava executando em voz alta. A figura 1 apresenta o _script_ seguido pelos usuários.
+Antes de se iniciar os testes em si foi apresentado ao usuário um _script_ contendo as ações que o entrevistado deveria realizar dentro do sistema. O entrevistado também foi orientado a reproduzir as ações que estava executando em voz alta. A figura 1 apresenta o _script_ seguido pelos usuários da entrevista 1 e 2.
 
 <center>
 
-**Figura 1** - _Script_ seguido pelos usuários.
+**Figura 1** - _Script_ seguido pelos usuários da entrevista 1 e 2.
 
 ![Imagem do Script Utiizado](../../assets/design-avaliacao-desenvolvimento/script.png){ width="500" }
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+A tabela 2 apresenta o _script_ seguido pelos usuários da entrvista 3.
+
+<center>
+
+**Tabela 2** - _Script_ seguidos pelos usuários da entrevista 3
+
+| Número do passo | O usuário deve... | 
+|-----------------|-------------------|
+| **1** | Começar na Tela inicial|
+| **2** | Seleciona no menu "Agendamento"|
+| **3** | Clicar em "Agendamento de Serviço"|
+| **4** | Clicar em "continuar" no login com gov.br|
+| **5** | Selecionar o "Tipo de Serviço"|
+| **6** | Selecionar "Habilitação"|
+| **7** | Selecionar "Unidade de atendimento"|
+| **8** | Selecionar "Aeroporto"|
+| **9** | Selecionar "data"|
+| **10**| Selecionar dia 27|
+| **11**| Selecionar "Hora de Atendimento"|
+| **12**| Selecionar 11:20|
+| **13**| Clicar em "Agendar"|
+| **14**| Clicar em "Imprimir Comporvante de agendamento"|
+| **15**| Voltar pro Menu|
+| **16**| Seleciona no menu "Agendamento"|
+| **17**| Clicar em "acompanhamento e serviço"|
+| **18**| Clicar em "continuar¨ no login com gov.br|
+| **19**| Clicar na barra de busca|
+| **20**| Clicar em "buscar"|
+| **21**| Conferir se os dados do agendamento feito anteriormente são os mesmos|
+| **22**| Clicar em "Editar"|
+| **23**| Mudar o tipo de serviço para "Veículo"|
+| **24**| Mudar hora de atendimento para 14:45|
+| **25**| Clicar em "confirmar"|
+| **26**| Voltar ao menu|
 
 </center>
 
@@ -89,7 +130,7 @@ _<font size="3">_Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025._<
 
 ## Seleção dos Participantes
 
-O número de participantes foi de 6 pessoas, sendo dois avaliadores em que ficaram responsáveis por, gravação do áudio e vídeo e quatro usuários. A escolha desse número de usuários foi baseada na recomendação de Krug (2010, p. 157) para testes de usabilidade. Além disso, os usuários foram escolhidos levando em conta as características definidas no [perfil de usuário](../../analiseRequisitos/personas.md), sendo elas: idade entre 20 e 35 anos, experiência e afinidade com tecnologia. A tabela 1 apresenta os participantes da avaliação e suas respectivas funções.
+O número de participantes foi de 5 pessoas, sendo dois avaliadores em que ficaram responsáveis por gravação do áudio e vídeo e três usuários. A escolha desse número de usuários foi baseada na recomendação de Krug (2010, p. 157) para testes de usabilidade. Além disso, os usuários foram escolhidos levando em conta as características definidas no [perfil de usuário](../../analiseRequisitos/personas.md), sendo elas: idade entre 20 e 35 anos, experiência e afinidade com tecnologia. A tabela 1 apresenta os participantes da avaliação e suas respectivas funções.
 
 </center>
 
@@ -155,6 +196,9 @@ _Fonte: [Márcio Henrique](https://github.com/DeM4rcio), 2025._
 
 </center>
 
+Dentro da entrevista 3 houve um problema de gravação em que a gravação do rosto da entrevistada não foi captada, contudo em relação ao protótipo não houve nenhum obstáculo e a entrevistada conseguiu executar com excelência o script proposto.
+
+
 ## Sugestões de Melhoria
 
 Tendo em vista os problemas elicitados no tópico anterior, ficam as seguintes sugestões de correção:
@@ -177,6 +221,9 @@ O usuário não encontrou muitas dificuldades na realização das tarefas. A tar
 
 Outrossim, o design e a visualização tanto das etapas de identificação e no final da transferência, a usuária teve uma leve dificuldade em entender os passos reralizados e demorando mais que o normal para a mudança de telas. Somado a isso, foi observado uma mudança significativa nas expressões faciais sendo elas de demonstração de não muita confiança nas ações sendo realizadas.
 
+### Teste 3 - Irailde
+
+O usuário não encontrou dificuldades ao executar a tarefa e deu o feedback indicando que se trata de uma tarefa bem explicada e intuitiva.
 
 ## Análise e Interpretação dos Usuários
 
@@ -232,6 +279,16 @@ _<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025.</p
 
 
 _<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025.</p></font>_
+
+</center>
+
+<center>
+
+**Vídeo 4 - Teste 3: Irailde**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Si82JOxhZFE?si=OSqNVqrBRjEdR3ge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Autor: [Luiza Maluf](https://github.com/Luiza Maluf), 2025.</p></font>_
 
 </center>
 
