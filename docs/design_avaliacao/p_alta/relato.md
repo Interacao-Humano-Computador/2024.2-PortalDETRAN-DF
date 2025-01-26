@@ -81,7 +81,7 @@ O vídeo 1 a seguir mostra o teste piloto realizado antes dos testes.
 
 Vídeo 1 - Teste Piloto
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TtG0XDYMJrY"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TtG0XDYMJrY?si=NDTIgN6mfC7G2Hmy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _<font size="3">_Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025._</p></font>_
 
@@ -218,7 +218,8 @@ Em relação a segurança, o sistema ainda não fornece uma boa segurança aos u
 <center>
 
 **Vídeo 2 - Teste 1: Eduardo**
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uhaEsxBrThs"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uhaEsxBrThs?si=PqcrOYyEYCfr93ym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025.</p></font>_
 
@@ -228,8 +229,7 @@ _<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025.</p
 
 **Vídeo 3 - Teste 2: Rayssa**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PVwn1hXtPuc"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PVwn1hXtPuc?si=6AkJ4dtihwT0QKku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _<font size="3">Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025.</p></font>_
 
