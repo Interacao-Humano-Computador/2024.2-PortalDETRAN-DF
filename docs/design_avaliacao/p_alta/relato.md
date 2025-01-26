@@ -79,11 +79,11 @@ O vídeo 1 a seguir mostra o teste piloto realizado antes dos testes.
 
 <center>
 
-[Vídeo 1 - Teste Piloto]()
+Vídeo 1 - Teste Piloto
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPtOfcHIqK0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TtG0XDYMJrY"></iframe>
 
-_<font size="3">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Matheus Henrique](https://github.com/mathonaut), 2023.</p></font>_
+_<font size="3">_Autor: [Márcio Henrique](https://github.com/DeM4rcio), 2025._</p></font>_
 
 </center>
 
