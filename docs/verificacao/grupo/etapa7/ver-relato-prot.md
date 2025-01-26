@@ -42,8 +42,8 @@ _Fonte: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 | **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
 | **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| **6** | O relato possui o link de gravação da entrevista? | **Incompleto** | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
-| **7** | O relato possui o link do protótipo? | **Não** | O link não está corretamente especificado | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **6** | O relato possui o link de gravação da entrevista? | **Sim** | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| **7** | O relato possui o link do protótipo? | **Sim** | O link não está corretamente especificado | [Márcio Henrique](https://github.com/DeM4rcio) |
 
 _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
