@@ -59,16 +59,6 @@ As tarefas realizadas pelos os usuários foram as seguintes:
 
 Antes de se iniciar os testes em si foi apresentado ao usuário um _script_ contendo as ações que o entrevistado deveria realizar dentro do sistema. O entrevistado também foi orientado a reproduzir as ações que estava executando em voz alta. A figura 1 apresenta o _script_ seguido pelos usuários da entrevista 1 e 2.
 
-<center>
-
-**Figura 1** - _Script_ seguido pelos usuários da entrevista 1 e 2.
-
-![Imagem do Script Utiizado](../../assets/design-avaliacao-desenvolvimento/script.png){ width="500" }
-
-_Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
-
-</center>
-
 A tabela 2 apresenta o _script_ seguido pelos usuários da entrvista 3.
 
 <center>
