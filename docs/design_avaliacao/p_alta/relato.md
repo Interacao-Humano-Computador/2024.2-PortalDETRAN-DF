@@ -112,8 +112,7 @@ O teste teve início com a apresentação ao usuário o termo de consentimento p
 
 O Protótipo de Alta Fidelidade utilizado nos testes é apresentado a seguir. É importante salientar que o protótipo apresentado pode não ser o exato modelo utilizado nos testes, pois o protótipo sofre alterações e correções com o tempo.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/GEa9juWMtQmy4fyHLa6cTU/html.to.design-%E2%80%94-by-%E2%80%B9div%E2%80%BARIOTS-%E2%80%94-Import-websites-to-Figma-designs-(web%2Chtml%2Ccss)-(Community)?node-id=0-1&t=T5NaYKvtkJLs12ai-1" allowfullscreen></iframe>
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/GEa9juWMtQmy4fyHLa6cTU/html.to.design-%E2%80%94-by-%E2%80%B9div%E2%80%BARIOTS-%E2%80%94-Import-websites-to-Figma-designs-(web%2Chtml%2Ccss)-(Community)?node-id=26-12&starting-point-node-id=26%3A12&embed-host=share" allowfullscreen></iframe>
 ### Teste Piloto
 
 O vídeo 1 a seguir mostra o teste piloto realizado antes dos testes.
