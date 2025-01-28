@@ -42,11 +42,11 @@ A verificação será realizada durante o dia 27/01/2025 por cada integrante do 
 |  ID  | Descrição                                                                                              | Avaliação  |                Observações                |
 | :--: | ------------------------------------------------------------------------------------------------------ | :--------: | :---------------------------------------: |
 |      | **Padronização**                                                                                       |
-|  1   | O artefato possui introdução?                                                                          |     |                     -                     |
-|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |  |                     |
-|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |   |                                       |
-|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |      |                     -                     |
-|  5   | Todos os textos estão na norma padrão?                                                                 |      |                     -                     |
+|  1   | O artefato possui introdução?                                                                          |    Sim / 27/01/2025 - 22:23|                     -                     |
+|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           | Sim / 27/01/2025 - 22:23 |                     |
+|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim / 27/01/2025 - 22:23 |                                       |
+|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |   Sim  / 27/01/2025 - 22:23 |                     -                     |
+|  5   | Todos os textos estão na norma padrão?                                                                 |     Sim / 27/01/2025 - 22:23 |             -                             |
 |      |
 
 
@@ -56,13 +56,13 @@ A verificação será realizada durante o dia 27/01/2025 por cada integrante do 
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Autor do Item** |
 |--------|---------------|---------------|----------------|--------------------|
-| **1**  | O relato possui o objetivo e escopo de avaliação dos reusltados? | | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **2**  | O relato possui a metodologia utilizada? |  | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
-| **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
-| **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? || - | [Luiza Maluf](https://github.com/LuizaMaluf) |
-| **6** | O relato possui o link de gravação da entrevista? | | - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
-| **7** | O relato possui o link do protótipo? | | -  | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **1**  | O relato possui o objetivo e escopo de avaliação dos reusltados? | Sim / 27/01/2025 - 22:25| - | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| **2**  | O relato possui a metodologia utilizada? | Não 27/01/2025 - 22:25| - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| **3**  | O participante está de acordo com o perfil de usuário definido? E isso está explícito no documento?| Não / 27/01/2025 - 22:26 | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| **4** | O relato possui uma seção indicando as sugestões e melhorias que os participantes indicaram na entrevista? | Não / 27/01/2025 - 22:26 | - | [Luiza Maluf](https://github.com/LuizaMaluf)|
+| **5** | O relato possui registrado a conclusão dos resultados colhidos nas entrevista? |Sim 27/01/2025 - 22:26| - | [Luiza Maluf](https://github.com/LuizaMaluf) |
+| **6** | O relato possui o link de gravação da entrevista? | Sim / 27/01/2025 - 22:27| - | [Luiza Maluf](https://github.com/LuizaMaluf)| 
+| **7** | O relato possui o link do protótipo? | Incompleto / 27/01/2025 - 22:27| -  | [Márcio Henrique](https://github.com/DeM4rcio) |
 
 _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
@@ -78,3 +78,4 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`| 27/01/2025 | Criação do documento. | [LuizaMaluf](https://github.com/LuizaMaluf) | [Márcio Henrique](https://github.com/DeM4rcio) |
+| `1.1`| 27/01/2025 | Verificação grupo 1. | [Márcio Henrique](https://github.com/DeM4rcio) | [LuizaMaluf](https://github.com/LuizaMaluf) |
