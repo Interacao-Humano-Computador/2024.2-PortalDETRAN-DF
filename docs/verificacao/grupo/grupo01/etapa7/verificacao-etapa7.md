@@ -69,6 +69,15 @@ _Autor: [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 </center>
 
 
+## Vídeo de Inspeção
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYVnGe39884?si=PcqSG0ddKxA1KD7z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+
 ## __Referências Bibliográficas__
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
