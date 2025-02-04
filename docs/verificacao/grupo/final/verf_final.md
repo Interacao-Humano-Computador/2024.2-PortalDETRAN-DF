@@ -90,6 +90,10 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 |**7**|  As conclusões foram comparadas com os objetivos iniciais da avaliação? | ![referencia27](./referencias/r27.png) <div> _Fonte: Página 313, Capítulo 9. Planejamento da avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021._<div>| [Luiza Maluf](https://github.com/LuizaMaluf)| Conforme|
 |**7**| O planejamento possui teste piloto? | ![referencia28](./referencias/r28.png) <div> _Fonte: Página 313, Capítulo 9. Planejamento da avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021._<div>| [Márcio Henrique](https://github.com/DeM4rcio)| Não se aplica completamente |
 
+## Verificação Grupo Detran-DF
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6mprLjZCHY?si=9jzobZsydRmGKTjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## __Referências Bibliográficas__
 
