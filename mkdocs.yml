@@ -107,7 +107,7 @@ nav:
               - Verificação da Etapa 7: verificacao/grupo/grupo01/etapa7/verificacao-etapa7.md
       - Verificação final:
         - Grupo Portal Detran-DF: verificacao/grupo/final/verf_final.md
-        - Grupo 1: provisorio.md
+        - Grupo 1: verificacao/grupo/grupo01/final/verf_final.md
   - Reuniões:
     - Ata 01: atas/01.md
     - Ata 02: atas/02.md

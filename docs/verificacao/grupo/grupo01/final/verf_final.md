@@ -6,7 +6,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ## __Objetivos__
 
-O objetivo deste documento é verificar se os artefatos produzidos durante toda a execução do Trabalho da disciplina de IHC do Grupo 8 estão de acordo com o que foi estudado durante o semestre.
+O objetivo deste documento é verificar se os artefatos produzidos durante toda a execução do Trabalho da disciplina de IHC do Grupo 1 estão de acordo com o que foi estudado durante o semestre.
 
 ## __Metodologia__
 
@@ -109,7 +109,6 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 |**6**| O planejamento apresenta como serão documentados e ratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) | ![referencia27](./referencias/r27.png) <div> _Fonte: Página 313, Capítulo 9. Planejamento da avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021._<div>| [Márcio Henrique](https://github.com/DeM4rcio)| |
 |**7**|  As conclusões foram comparadas com os objetivos iniciais da avaliação? | ![referencia27](./referencias/r27.png) <div> _Fonte: Página 313, Capítulo 9. Planejamento da avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021._<div>| [Luiza Maluf](https://github.com/LuizaMaluf)| |
 |**7**| O planejamento possui teste piloto? | ![referencia28](./referencias/r28.png) <div> _Fonte: Página 313, Capítulo 9. Planejamento da avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021._<div>| [Márcio Henrique](https://github.com/DeM4rcio)| |
-
 
 ## __Referências Bibliográficas__
 
