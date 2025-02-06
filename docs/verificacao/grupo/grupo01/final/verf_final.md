@@ -36,6 +36,19 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 
 ## __Lista de Verificação__
 
+### __Protótipo de papel__
+
+### __Storyboard__
+
+| ID | Pergunta | Referência | Responsável | Resposta |
+|----|----------|------------|-------------|----------|                                                                                       
+| **1**  | O storyboard possui um título claro e descritivo? |![refercencia29](./referencias/29.png) <div> OCR. The OCR guide to storyboards.Pg 7. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|Sim | - |
+| **2**  | Todos os quadros estão numerados de forma sequencial?|![refercencia30](./referencias/30.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>| Sim | - |
+| **3**  | Há consistência na estrutura de cada quadro (mesmo formato e tamanho)? | ![refercencia31](./referencias/31.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|Sim | - |
+| **4**  | O fluxo narrativo segue uma ordem lógica e coerente na visão do usuário? |![refercencia32](./referencias/32.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>| Sim | - |
+| **5**  | O storyboard foi realizado em fomarto de papel, ou um softaware de design interativo?| Cada quadro inclui uma descrição textual breve e objetiva? | ![refercencia34](./referencias/34.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|Sim | - |
+| **6** | Cada quadro inclui uma descrição textual breve e objetiva? | ![refercencia33](./referencias/33.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|0Sim | - |
+
 ### __Personas__
 
 | ID | Pergunta | Referência | Responsável | Resposta |

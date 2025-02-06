@@ -122,16 +122,16 @@ _Adaptado: [Plano de Ensino](/docs/assets/documentos/Plano_de_Ensino.pdf)_
 |      |
 
 
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Autor do Item** |
+|--------|---------------|---------------|-----------------|-------------------|
+| **1**  | O documento possui um tópico sobre quais são os objetivos do relato? | **Sim**  / ``versão 1.0 - 15/01/2025 - 21:45`` | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **2**  | O documento possui um tópico sobre a metodologia de prototipação de alta fidelidade? | **Não**  / ``versão 1.0 - 15/01/2025 - 21:45`` | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **3**  | O documento possui um tópico sobre quais foram os participantes e seus perfis? | **Incompleto**  / ``versão 1.0 - 15/01/2025 - 21:45`` | Não há participantes mencionados | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes? | **Não**  / ``versão 1.0 - 15/01/2025 - 21:45`` | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos? | **Não**  / ``versão 1.0 - 15/01/2025 - 21:46`` | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | **Não**  / ``versão 1.0 - 15/01/2025 - 21:46`` | - | [Márcio Henrique](https://github.com/DeM4rcio) |
+| **7**  | O documento está estruturado conforme os relatos realizados anteriormente? | **Sim**  / ``versão 1.0 - 15/01/2025 - 21:46`` | - | [Márcio Henrique](https://github.com/DeM4rcio) |
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** | | **Autor do Item** |
-|--------|---------------|---------------|-----------------|---------------------|
-| **1**  | O documento possui um tópico sobre quais são os objetivos do relato?  | **Sim**  / ``versão 1.0 - 15/01/2025 - 21:45 `` |-| [Márcio Henrique](https://github.com/DeM4rcio) |
-| **2**  | O documento possui um tópico sobre a metodologia de prototipação de Alta fidelidade? | **Não**  / ``versão 1.0 - 15/01/2025 - 21:45 `` |-| [Márcio Henrique](https://github.com/DeM4rcio) |
-| **3**  | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | **Incompleto**  / ``versão 1.0 - 15/01/2025 - 21:45 `` | Nãao tem participantes | [Márcio Henrique](https://github.com/DeM4rcio) |
-| **4**  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?| **Não**  / ``versão 1.0 - 15/01/2025 - 21:45 `` |-| [Márcio Henrique](https://github.com/DeM4rcio) |
-| **5**  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?| **Não**  / ``versão 1.0 - 15/01/2025 - 21:46 `` |-| [Márcio Henrique](https://github.com/DeM4rcio) |
-| **6**  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? | **Não**  / ``versão 1.0 - 15/01/2025 - 21:46 `` |-| [Márcio Henrique](https://github.com/DeM4rcio) |
-| **7**  | O documento está estruturado conforme os relatos realizados anteriores?| **Sim**  / ``versão 1.0 - 15/01/2025 - 21:46 `` |-| [Márcio Henrique](https://github.com/DeM4rcio) |
 
 _Autor: [Márcio Henrique](https://github.com/DeM4rcio)_
 
