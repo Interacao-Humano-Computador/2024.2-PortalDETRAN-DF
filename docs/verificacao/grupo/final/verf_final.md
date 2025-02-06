@@ -91,6 +91,14 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 |**7**| O planejamento possui teste piloto? | ![referencia28](./referencias/r28.png) <div> _Fonte: Página 313, [[1]](#referências-bibliográficas)_<div>| [Márcio Henrique](https://github.com/DeM4rcio)| Não se aplica completamente |
 
 
+### __Processo de Design__
+
+| ID | Pergunta | Referência | Responsável | Resposta |
+|----|----------|------------|-------------|----------|
+|**1**| O processo de design escolhido detalha as atividades básicas de uma forma particular, deﬁnindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas? | ![referencia29](./referencias/r29.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| |
+|**2**| 
+
+
 ## Verificação Grupo Detran-DF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u6mprLjZCHY?si=9jzobZsydRmGKTjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
