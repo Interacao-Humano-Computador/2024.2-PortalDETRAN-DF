@@ -104,6 +104,28 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 |**7**| O planejamento possui teste piloto? | ![referencia28](./referencias/r28.png) <div> _Fonte: Página 313, Capítulo 9. Planejamento da avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021._<div>| [Márcio Henrique](https://github.com/DeM4rcio)| Não conforme |
 
 
+### __Processo de Design__
+
+| ID | Pergunta | Referência | Responsável | Resposta |
+|----|----------|------------|-------------|----------|
+|**1**| O processo de design escolhido detalha as atividades básicas de uma forma particular, deﬁnindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas? | ![referencia35](./referencias/r29.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| |
+|**2**| A execução das atividades proposta pelo processo de Design escolhido é de forma interativa? | ![referencia36](./referencias/r30.png)  <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> |[Luiza Maluf](https://github.com/LuizaMaluf)| |
+|**3**| O artefato explica que as atividades podem se repetir conforma necessário? | ![referencia37](./referencias/r31.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| |
+|**4**| O artefato descreve a fase de análise de requisitos?| ![referencia38](./referencias/r32.png) <div> _Fonte: Página 109, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+|**5**| O artefato descreve a fase de design, avaliação e desenvolvimento? | ![referencia39](./referencias/r33.png) <div> _Fonte: Página 110, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+
+### __Perfil do Usuário__
+
+| ID | Pergunta | Referência | Responsável | Resposta |
+|----|----------|------------|-------------|----------|
+|**1**| O perfil de usuário produzido no artefato possui uma descrição detalhada das características dos usuários cujos objetivos são apoiados pelo sistema projetado?| ![referencia40](./referencias/r34.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+|**2**| Foi identificado as características de interesse, como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, dos potencias usuários? |  ![referencia41](./referencias/r35.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+|**3**| Foi conduzido um estudo para coletar os dados dos usuários, como entrevistas e questionários?|  ![referencia41](./referencias/r35.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+|**4**| Foram agrupados em perfis os usuários com características semenlhantes e calculado a proporção de usuários que se encaixam em cada perfil? |   ![referencia42](./referencias/r36.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+
+
+
+
 ## Verificação Grupo + 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJXOS01FboU?si=4gIfJZI6zxKfXmhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
