@@ -36,6 +36,29 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 
 ## __Lista de Verificação__
 
+
+### __Protótipo de alta Fidelidade__
+
+| ID | Pergunta | Referência | Responsável | Resposta |
+|----|----------|------------|-------------|----------|                                                                                       
+| **1**  | O prototipo utliliza mateiriais que se espera que esteja no produto final? |![refercencia29](./referencias/35.png) <div> PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de interação: além da interação humano-computador. 3. ed. Porto Alegre: Bookman, 2013. Pg. 265<div>|[Márcio Henrique](https://github.com/DeM4rcio) | Sim |
+| **2**  | O prototipo possui funcionidades que se espera no produto final?|![refercencia30](./referencias/36.png) <div> PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de interação: além da interação humano-computador. 3. ed. Porto Alegre: Bookman, 2013. Pg. 266<div>|  | Sim |
+| **3**  | O prototipo foi conduzido pelo ususário? ( no contexto do projeto foi de acordo com as necessidades dos perfis levantados)? | ![refercencia31](./referencias/37.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|[Márcio Henrique](https://github.com/DeM4rcio)  | Sim |
+
+
+
+### __Storyboard__
+
+| ID | Pergunta | Referência | Responsável | Resposta |
+|----|----------|------------|-------------|----------|                                                                                       
+| **1**  | O storyboard possui um título claro e descritivo? |![refercencia29](./referencias/29.png) <div> OCR. The OCR guide to storyboards.Pg 7. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|[Luiza Maluf](https://github.com/LuizaMaluf) | Sim |
+| **2**  | Todos os quadros estão numerados de forma sequencial?|![refercencia30](./referencias/30.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>| [Márcio Henrique](https://github.com/DeM4rcio)  | Sim |
+| **3**  | Há consistência na estrutura de cada quadro (mesmo formato e tamanho)? | ![refercencia31](./referencias/31.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|[Luiza Maluf](https://github.com/LuizaMaluf)  | Sim |
+| **4**  | O fluxo narrativo segue uma ordem lógica e coerente na visão do usuário? |![refercencia32](./referencias/32.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>| [Márcio Henrique](https://github.com/DeM4rcio) | Sim |
+| **5**  | O storyboard foi realizado em fomarto de papel, ou um softaware de design interativo?| Cada quadro inclui uma descrição textual breve e objetiva? | ![refercencia34](./referencias/34.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|[Luiza Maluf](https://github.com/LuizaMaluf)| Sim |
+| **6** | Cada quadro inclui uma descrição textual breve e objetiva? | ![refercencia33](./referencias/33.png) <div> OCR. The OCR guide to storyboards.Pg 8. Disponível em: <www.ocr.org.uk>. Acesso em: 6 fev. 2025.<div>|[Márcio Henrique](https://github.com/DeM4rcio) | Sim |
+
+
 ### __Personas__
 
 | ID | Pergunta | Referência | Responsável | Resposta |
