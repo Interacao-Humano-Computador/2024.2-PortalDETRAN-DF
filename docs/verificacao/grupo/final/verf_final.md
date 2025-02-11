@@ -118,20 +118,20 @@ _Autor: [Márcio Henrique](https://github.com/DeM4rcio) , 2025._
 
 | ID | Pergunta | Referência | Responsável | Resposta |
 |----|----------|------------|-------------|----------|
-|**1**| O processo de design escolhido detalha as atividades básicas de uma forma particular, deﬁnindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas? | ![referencia29](./referencias/r29.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| |
-|**2**| A execução das atividades proposta pelo processo de Design escolhido é de forma interativa? | ![referencia30](./referencias/r30.png)  <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> |[Luiza Maluf](https://github.com/LuizaMaluf)| |
-|**3**| O artefato explica que as atividades podem se repetir conforma necessário? | ![referencia31](./referencias/r31.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| |
-|**4**| O artefato descreve a fase de análise de requisitos?| ![referencia32](./referencias/r32.png) <div> _Fonte: Página 109, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
-|**5**| O artefato descreve a fase de design, avaliação e desenvolvimento? | ![referencia33](./referencias/r33.png) <div> _Fonte: Página 110, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+|**1**| O processo de design escolhido detalha as atividades básicas de uma forma particular, deﬁnindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas? | ![referencia29](./referencias/r29.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)|  Sim |
+|**2**| A execução das atividades proposta pelo processo de Design escolhido é de forma interativa? | ![referencia30](./referencias/r30.png)  <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> |[Luiza Maluf](https://github.com/LuizaMaluf)| Sim |
+|**3**| O artefato explica que as atividades podem se repetir conforma necessário? | ![referencia31](./referencias/r31.png) <div> _Fonte: Página 99, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| Sim|
+|**4**| O artefato descreve a fase de análise de requisitos?| ![referencia32](./referencias/r32.png) <div> _Fonte: Página 109, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| Sim| 
+|**5**| O artefato descreve a fase de design, avaliação e desenvolvimento? | ![referencia33](./referencias/r33.png) <div> _Fonte: Página 110, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| Sim| 
 
 ### __Perfil do Usuário__
 
 | ID | Pergunta | Referência | Responsável | Resposta |
 |----|----------|------------|-------------|----------|
-|**1**| O perfil de usuário produzido no artefato possui uma descrição detalhada das características dos usuários cujos objetivos são apoiados pelo sistema projetado?| ![referencia34](./referencias/r34.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
-|**2**| Foi identificado as características de interesse, como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, dos potencias usuários? |  ![referencia35](./referencias/r35.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
-|**3**| Foi conduzido um estudo para coletar os dados dos usuários, como entrevistas e questionários?|  ![referencia35](./referencias/r35.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
-|**4**| Foram agrupados em perfis os usuários com características semenlhantes e calculado a proporção de usuários que se encaixam em cada perfil? |   ![referencia36](./referencias/r36.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| | 
+|**1**| O perfil de usuário produzido no artefato possui uma descrição detalhada das características dos usuários cujos objetivos são apoiados pelo sistema projetado?| ![referencia34](./referencias/r34.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| SIm| 
+|**2**| Foi identificado as características de interesse, como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, dos potencias usuários? |  ![referencia35](./referencias/r35.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)| Sim| 
+|**3**| Foi conduzido um estudo para coletar os dados dos usuários, como entrevistas e questionários?|  ![referencia35](./referencias/r35.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)|Sim | 
+|**4**| Foram agrupados em perfis os usuários com características semenlhantes e calculado a proporção de usuários que se encaixam em cada perfil? |   ![referencia36](./referencias/r36.png) <div> _Fonte: Página 174, [[1]](#referências-bibliográficas)_<div> | [Luiza Maluf](https://github.com/LuizaMaluf)|Sim | 
 
 
 
