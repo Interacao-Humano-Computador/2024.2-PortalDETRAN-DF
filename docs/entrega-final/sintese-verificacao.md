@@ -13,7 +13,7 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 #### Verificação Etapa 1
 
 
-    <center>
+<center>
 
 **Tabela 1**- Síntese dos artefatos de verificação Etapa 1
 
