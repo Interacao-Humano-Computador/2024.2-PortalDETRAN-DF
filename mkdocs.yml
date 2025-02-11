@@ -122,7 +122,14 @@ nav:
     - Entrega 6: apresent/06.md  
     - Entrega 7: apresent/07.md
   - Entrega Final:
-    - Ciclo de vida utilizado: entrega-final/ciclo-vida.md
+    - Planejamento: entrega-final/ciclo-vida.md
+    - Análise de Requisitos: entrega-final/analise.md
+    - Design, Avaliação e Desenvolvimento: 
+      - Nível 1: entrega-final/nivel1.md
+      - Nível 2: entrega-final/nivel2.md
+      - Nível 3: entrega-final/nivel3.md
+    - Verificação: entrega-final/verf.md
+
 
 
 theme:
