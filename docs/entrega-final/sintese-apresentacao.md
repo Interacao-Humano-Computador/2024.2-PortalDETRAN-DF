@@ -129,6 +129,23 @@ Durante o decorrer do projeto, houveram diversas etapas com suas entregas corres
 
 
 
+<details>
+
+<summary>
+<h1>Entrega Final</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WUqjut8wyAM?si=WuHgrtMckwMbgXmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/DeM4rcio">Márcio Henrique</a></p>
+<p><a href="https://github.com/LuizaMaluf">Luiza Maluf</a></p>
+
+</details>
+
+
+
 ## Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
