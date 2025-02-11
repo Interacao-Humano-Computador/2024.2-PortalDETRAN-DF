@@ -256,7 +256,7 @@ _Fonte:  [Luiza Maluf](https://github.com/LuizaMaluf), 2025._
 
 _Fonte: [Márcio Henrique](https://github.com/DeM4rcio), 2025._
 
-    </center>
+</center>
 
 
 
